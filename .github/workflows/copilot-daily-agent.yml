@@ -1,0 +1,28 @@
+name: Copilot Daily Campaign Update
+
+on:
+  schedule:
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  run-copilot-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create Copilot agent task issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PROMPT=$(cat mapex-task-prompt.txt)
+          gh issue create \
+            --title "Daily Campaign Update $(date -u '+%Y-%m-%d')" \
+            --body "$PROMPT" \
+            --assignee "copilot"
