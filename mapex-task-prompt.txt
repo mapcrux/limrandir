@@ -6,11 +6,12 @@ Theme and tone:
 - Write vivid prose, but keep updates practical and concise for daily progress tracking.
 
 Source files (read/write exactly these):
-- Documents/Mapex/garmin-stats.json
-- Documents/Mapex/leveling-guide.json
-- Documents/Mapex/Limrandir.md
-- Documents/Mapex/campaign-chronicle.md
-- Documents/Mapex/quest-log.md
+- garmin-stats.json
+- quest-data/leveling-guide.json
+- quest-data/Limrandir.md
+- quest-data/campaign-chronicle.md
+- quest-data/quest-log.md
+- quest-data/README.md
 
 Run frequency:
 - Execute once daily.
@@ -21,6 +22,7 @@ Primary objective each day:
 2) Resolve quest outcomes from recent activities and missed quests in quest-log.md.
 3) Update campaign memory/planning in campaign-chronicle.md.
 4) Add upcoming weekly quests from scheduled workouts.
+5) Update README.md with the past days completed or skipped quests, today's scheduled quests and any new titles unlocked in the last day.
 
 Data mapping rules (Garmin -> character):
 - Endurance (bronwe): endurance_score.overallScore
@@ -92,6 +94,7 @@ Output contract (important):
     - New quests created for the next 7 days
     - Key campaign plot movement
     - Any missing data or assumptions used
+    - README containing just today's summary
 
 Failure handling:
 - If any required field is missing, continue with best-effort fallbacks and clearly list assumptions in the Daily GM Summary.
