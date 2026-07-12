@@ -11,7 +11,6 @@ Source files (read/write exactly these):
 - quest-data/Limrandir.md
 - quest-data/campaign-chronicle.md
 - quest-data/quest-log.md
-- quest-data/README.md
 
 Run frequency:
 - Execute once daily.
@@ -22,7 +21,7 @@ Primary objective each day:
 2) Resolve quest outcomes from recent activities and missed quests in quest-log.md.
 3) Update campaign memory/planning in campaign-chronicle.md.
 4) Add upcoming weekly quests from scheduled workouts.
-5) Update README.md with the past days completed or skipped quests, today's scheduled quests and any new titles unlocked in the last day.
+5) Open a github issue with the past days completed or skipped quests (full text), today's scheduled quests (full text) and any new titles unlocked in the last day. Assign the issue to mapcrux.
 
 Data mapping rules (Garmin -> character):
 - Endurance (bronwe): endurance_score.overallScore
