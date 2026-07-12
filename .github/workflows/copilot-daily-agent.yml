@@ -21,8 +21,17 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ ! -s mapex-task-prompt.txt ]; then
+            echo "Error: mapex-task-prompt.txt is missing or empty."
+            exit 1
+          fi
           PROMPT=$(cat mapex-task-prompt.txt)
+          # Assigning to 'copilot' triggers the GitHub Copilot coding agent.
+          # If the assignee is not available, fall back to creating the issue without one.
           gh issue create \
             --title "Daily Campaign Update $(date -u '+%Y-%m-%d')" \
             --body "$PROMPT" \
-            --assignee "copilot"
+            --assignee "copilot" \
+          || gh issue create \
+            --title "Daily Campaign Update $(date -u '+%Y-%m-%d')" \
+            --body "$PROMPT"
