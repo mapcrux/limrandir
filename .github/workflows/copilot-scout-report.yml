@@ -1,0 +1,30 @@
+name: Copilot Daily Campaign Update
+
+on:
+  #schedule:
+  #  - cron: "30 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  run-copilot-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Copilot CLI
+        run: npm install -g @github/copilot-cli
+
+      # Step 4: Authenticate and run your prompt
+      - name: Execute Copilot Agent
+        env:
+          # A Personal Access Token (PAT) with 'copilot' and 'repo' scopes
+          GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+        run: |
+          copilot --agent=scout-report --prompt "Update the files generated in the last run" --model=claude-sonnet-4.5 --yolo
+          
