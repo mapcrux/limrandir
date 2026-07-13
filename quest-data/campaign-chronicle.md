@@ -231,6 +231,20 @@ Halbarad said nothing further that night. But he and Elladan exchanged a look th
 
 ---
 
+### July 12 — The Barrow Downs Crossing and a Ranger's Ascent
+
+Limrandir ran his longest scout yet — thirteen leagues deep into the Barrow Downs, through country so laden with old sorrow that even the sunlight seems muted. The mounds rose in silent clusters, and at the third league he saw something move near a standing stone: not a wight, but something taller, darker, watching. It did not follow. He marked the safe passage through the hollow ground and returned as dusk fell, his maps complete. Halbarad implemented every recommendation without hesitation.
+
+That night, from the elevated camp Limrandir had charted, the Company watched tall shapes moving among the distant mounds — neither wight nor living man. They did not approach. Whatever they were, they had let Limrandir pass.
+
+**Character Recognition:** Elladan, who has been cautious in his regard, spoke only: "Well run, Scout." From Elladan, that is high praise. Limrandir's endurance and hill-strength have both grown markedly. More significant: his tolerance for sustained distance has increased beyond anything recorded at Camp Harnost. He now holds the title *Ranger of the Great East Road* — a recognition that he can travel the great leagues between the old kingdoms without rest. In the Company's quiet way, this has been noticed. Halbarad has begun assigning him routes no other Ranger could complete in a day.
+
+**Plot Development:** The shapes in the Barrow Downs remain unidentified. Elladan does not speak of them, but that night he and Elrohir consulted privately. Whatever they are, the sons of Elrond know more than they have said.
+
+**Upcoming:** The Company approaches Tharbad and the Greyflood crossing — the last reliable ford before the wild country of Dunland. Dirwaith the ferryman waits, and with him, intelligence about the Gap of Rohan.
+
+---
+
 ## Key Items
 
 | Item | Held By | Significance |

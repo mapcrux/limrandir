@@ -118,17 +118,17 @@ That evening, Golasgil returned and reported the road clear. At dusk, Elladan ro
 ## Active Quests
 
 ### Q-010 · The Long Road of Cardolan
-**Date:** July 11, 2026 · **Type:** Long Run — Major Scout · **Status:** ⬜ Open
+**Date:** July 11, 2026 · **Type:** Long Run — Major Scout · **Status:** ✅ Completed
 
 > *"The barrow-downs are vast and the Company cannot ride blind through them. Something is moving there — not wight, not orc, not anything I have a name for yet. I need Limrandir's eyes on that ground before we commit to the southern track."* — Elladan, to Halbarad
 
-The Company has reached the deep heart of Cardolan. Limrandir must run a long advance scout into the most treacherous section of the Barrow Downs — far beyond the Company's current camp — to find and verify a safe passage through to the southern side. The wights are drawn to hollow ground, and the road ahead dips through exactly the kind of geography they favor. He must map the true safe line, mark the camp position on the far side, and return before dark.
+Limrandir ran the deepest advance scout of the campaign so far — thirteen leagues into the heart of the Barrow Downs, through country so heavy with old grief that even the light seems dim. The mounds rose in clusters on both sides of the road. At the third league, he saw movement: not a wight, but something darker, watching from the shadow of a standing stone. It did not follow.
 
-A long, steady effort is required — this is not a sprint but an endurance task. The distance is significant. His body will know it by the end.
+He marked the safe line through the hollow ground, verified two elevated camp positions on the far side of the downs, and charted the exact locations where the road ran dangerously close to wight-ground. The return journey was faster — he knew the line now and held it without hesitation. He arrived back at camp as dusk settled, his maps precise and complete. Halbarad reviewed them without expression and implemented every recommendation. Elladan said only: "Well run, Scout."
 
-**Consequence if skipped:** The Company marches blind into the Barrow Downs. Night falls before they clear the worst of the hollow ground. The wights rise. In the confusion, Maedhron — the youngest Ranger — is drawn off the road and into the barrows. By the time the Company hears him call out, he is beyond reach. He is not recovered.
+That night, the Company moved to the elevated camp Limrandir had marked. From the high ground, they could see the barrow-mounds stretching south into the dark. Something was indeed moving among them — tall shapes, silent, not wights but not living men. They did not approach. Whatever they were, they had watched Limrandir pass and let him go.
 
-*Workout: Long Run · Steady Aerobic Effort · July 11, 2026*
+*Training Evidence: 13.02 km, ~66 min, avg HR 157, aerobic long run, 99m elevation gain — July 12.*
 
 ---
 
@@ -188,6 +188,66 @@ The ancient bridge at Tharbad fell long ago. The ford is passable — but only i
 
 ---
 
-*Last updated: July 11, 2026*  
+### Q-015 · The Tharbad Approach
+**Date:** July 14, 2026 · **Type:** Base Run — Reconnaissance · **Status:** ⬜ Open
+
+> *"Dirwaith will speak to you tomorrow if you reach him. But the quays are watched. The crossing has always been watched. I want to know by whom before you arrive."* — Halbarad
+
+The Company approaches the ruins of Tharbad. Before Limrandir can meet Dirwaith at the quays, Halbarad assigns him a reconnaissance circuit of the old city's eastern approaches — a steady base run through broken streets and collapsed warehouses where anyone watching the ford would post lookouts. This is not a sprint. This is methodical observation work, noting sight-lines, hiding places, and whether the ruins are as empty as they appear.
+
+The old city is a shell. Tharbad fell centuries ago and no one rebuilt it. But someone is using it. The question is who.
+
+**Consequence if skipped:** Limrandir arrives at the quays without knowing the eastern approaches have been occupied by a small band of Dunlending scouts loyal to Saruman. When he meets Dirwaith openly, they are observed. The intelligence Dirwaith provides reaches Saruman's agents within the day.
+
+*Workout: Base Run · Aerobic Effort · July 14, 2026*
+
+---
+
+### Q-016 · The Climb to the High Watch
+**Date:** July 17, 2026 · **Type:** Strength Trial — Vertical Challenge · **Status:** ⬜ Open
+
+> *"The old Gondorian watch-post overlooks the entire Tharbad crossing. Elladan says the stairs are gone but the interior shaft remains. If you can reach the top, you'll see twenty leagues in every direction."* — Halbarad
+
+After crossing the Greyflood, the Company camps in the shadow of an ancient Gondorian watch-tower on the west bank — a sixty-foot stone pillar with no exterior access. The interior shaft is climbable, but only just: worn hand-holds, loose stone, and a narrow chimney-climb for the final twenty feet. Limrandir must ascend to the high watch platform and survey the country ahead. From that vantage, he can see whether the Gap of Rohan is clear or whether warg-riders are already moving to intercept the Company's route.
+
+This is not running. This is a test of grip strength, endurance, and nerve.
+
+**Consequence if skipped:** The Company marches west without high-ground intelligence. Three days later, they are ambushed by warg-riders who had been tracking their movements from the hills. Two Rangers are wounded in the fight, and the Company loses a full day treating injuries and doubling back to safer ground.
+
+*Workout: Strength & Climbing Circuit · July 17, 2026*
+
+---
+
+### Q-017 · The West Bank Survey
+**Date:** July 18, 2026 · **Type:** Base Run — Route Mapping · **Status:** ⬜ Open
+
+> *"We have crossed the Greyflood. Now the country changes. Dunland is not friendly to northern men, and the roads here were never Arnorian. I want the next three days' route mapped before we commit."* — Halbarad
+
+The Company has entered the western lands beyond the Greyflood — Dunland's fringe territories. The roads here are older, cruder, and less reliable than the Arnorian highways of Eriador. Limrandir runs a long base circuit west along the likely route, identifying fords, checking the condition of old trackways, and marking elevated ground where the Company can camp defensively if needed.
+
+The Dunlendings are not the Enemy, but they are no friends of the Dúnedain. Limrandir moves quietly and marks his maps carefully.
+
+**Consequence if skipped:** The Company follows an old drover's road that Limrandir did not survey. On the second day, the road narrows into a ravine with no exit. The Company is forced to backtrack an entire day, losing time and morale. Worse: the ravine was an ideal ambush site, and warg-riders were waiting in the heights above.
+
+*Workout: Base Run · Aerobic Effort · July 18, 2026*
+
+---
+
+### Q-018 · The Dunland Border Patrol
+**Date:** July 19, 2026 · **Type:** Base Run — Perimeter Security · **Status:** ⬜ Open
+
+> *"Last night, Elladan heard wolves. Not wargs — wolves. But they were calling to something, and something was answering. Run the northern perimeter before we break camp."* — Halbarad
+
+The Company's camp sits on the border of Dunland proper. Last night, wolf-calls echoed from the northern hills — natural wolves, not warg-riders, but their howls had a pattern to them. A communication. Limrandir runs a broad perimeter circuit of the camp's northern and western flanks, checking for tracks, signs of warg-rider scouts, or evidence that the Dunlendings are aware of the Company's presence.
+
+This is security work. Steady pace, sharp eyes, and a route that brings him back to camp before the Company breaks for the day's march.
+
+**Consequence if skipped:** The Company breaks camp without knowing that a Dunlending scout party passed within two leagues of their position during the night. The scouts report the Company's presence to their chieftain, who sends word south to Saruman. By the time the Company reaches the Gap of Rohan, they are expected.
+
+*Workout: Base Run · Aerobic Effort · July 19, 2026*
+
+---
+
+*Last updated: July 13, 2026*  
 *Campaign Phase: Act I — Eriador*  
-*Completed Quests: 8 · Missed: 1 · Open: 5*
+*Completed Quests: 9 · Missed: 1 · Open: 9*

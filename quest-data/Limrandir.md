@@ -9,7 +9,7 @@ Warden of the trail, Scout of the Dúnedain
 | | |
 | --- | --- |
 | **Age** | 38 |
-| **Perceived Age (Numenorian Heritage)** | 31 |
+| **Perceived Age (Numenorian Heritage)** | 31.2 |
 | **Race** | Dúnedain. Man of the West |
 | **Class** | Ranger/Scout |
 | **Homeland** | Shores of Lake Evendim |
@@ -18,11 +18,11 @@ Warden of the trail, Scout of the Dúnedain
 
 | Attribute | Current Score | Title | Progress | Next Level |
 | :--- | :--- | :--- | :---: | :--- |
-| Endurance (bronwë) | 7050 | Endurance of the Scout | `██████████` | 7100 |
-| Strength (Tû) | 45 | Scout of the North Downs | `██████████` | 50 |
-| Will (Nîdh) | 405 | Vigor of Annúminas | `██████████` | 410 |
-| Constitution (Hûn) | 24.5 | Warden of the North Downs | `██████████` | 26 |
-| Spirit (Sûl) | 53.9 | Breath of Elendil | `███████░░░` | 55 |
+| Endurance (bronwë) | 7098 | Endurance of the Scout | `██████████` | 7100 |
+| Strength (Tû) | 50 | Hill-man of Emyn Uial | `░░░░░░░░░░` | 55 |
+| Will (Nîdh) | 403 | Vigor of Annúminas | `███░░░░░░░` | 410 |
+| Constitution (Hûn) | 39.5 | Ranger of the Great East Road | `██████████` | Max Rank |
+| Spirit (Sûl) | 54.6 | Breath of Elendil | `█████████░` | 55 |
 
 ## 🛡️ Equipment
 

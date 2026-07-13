@@ -87,27 +87,27 @@
 
     "running_tolerance": {
       "Warden of the Greenway": {
-        "threshold_km": 20,
+        "threshold_km": 30,
         "lore": "Patrols the ancient Arnorian road."
       },
       "Warden of the North Downs": {
-        "threshold_km": 24,
+        "threshold_km": 40,
         "lore": "Keeps watch over the northern approaches."
       },
       "Explorer of Old Fornost": {
-        "threshold_km": 26,
+        "threshold_km": 43,
         "lore": "Trusted to map the ruins of the lost capital."
       },
       "Explorer of Angmar": {
-        "threshold_km": 28,
+        "threshold_km": 46,
         "lore": "Capable of long journeys into perilous lands."
       },
       "Trailblazer of the North": {
-        "threshold_km": 30,
+        "threshold_km": 49,
         "lore": "Opens new paths for the Grey Company."
       },
       "Ranger of the Great East Road": {
-        "threshold_km": 32,
+        "threshold_km": 52,
         "lore": "Travels the vast leagues between Bree and Rivendell."
       }
     },
