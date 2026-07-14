@@ -1,0 +1,45 @@
+name: Copilot Daily Campaign Update
+
+on:
+  schedule:
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  run-copilot-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Copilot CLI
+        run: npm install -g @github/copilot-cli
+
+      # Step 4: Authenticate and run your prompt
+      - name: Execute Copilot Agent
+        env:
+          # A Personal Access Token (PAT) with 'copilot' and 'repo' scopes
+          GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+        run: |
+          copilot --agent=scout-report --prompt "Perform the daily tasks and update the files" --model=claude-sonnet-4.5 --yolo
+          
+      - name: Commit and push updated files
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: generate daily scout report"
+          git push
