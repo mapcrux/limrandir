@@ -18,11 +18,11 @@ Warden of the trail, Scout of the Dúnedain
 
 | Attribute | Current Score | Title | Progress | Next Level |
 | :--- | :--- | :--- | :---: | :--- |
-| Endurance (bronwë) | 7098 | Endurance of the Scout | `██████████` | 7100 |
+| Endurance (bronwë) | 7150 | Endurance of the Ranger-Scout | `█████░░░░░` | 7200 |
 | Strength (Tû) | 50 | Hill-man of Emyn Uial | `░░░░░░░░░░` | 55 |
 | Will (Nîdh) | 403 | Vigor of Annúminas | `███░░░░░░░` | 410 |
-| Constitution (Hûn) | 39.5 | Ranger of the Great East Road | `██████████` | Max Rank |
-| Spirit (Sûl) | 54.6 | Breath of Elendil | `█████████░` | 55 |
+| Constitution (Hûn) | 41.1 | Warden of the North Downs | `██████████` | Max Rank |
+| Spirit (Sûl) | 55.0 | Roar of Rauros | `░░░░░░░░░░` | 57 |
 
 ## 🛡️ Equipment
 

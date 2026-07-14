@@ -10,20 +10,13 @@ import sys
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
 from typing import Any, Callable
+from xmlrpc import client
 
 from garminconnect import Garmin
 
 DEFAULT_OUTPUT_TEMPLATE = (
     r"C:\Users\codet\OneDrive\Documents\Garmin Reports\{report-date}.json"
 )
-
-
-@dataclass
-class EndpointSpec:
-    output_key: str
-    method_names: tuple[str, ...]
-    args: tuple[Any, ...] = ()
-
 
 def build_output_path(template: str, report_date: date) -> str:
     return template.replace("{report-date}", report_date.isoformat())
@@ -36,27 +29,19 @@ def get_required_env(var_name: str) -> str:
     return value
 
 
-def invoke_endpoint(client: Garmin, spec: EndpointSpec) -> Any:
-    last_error: Exception | None = None
-    for method_name in spec.method_names:
-        method: Callable[..., Any] | None = getattr(client, method_name, None)
-        if callable(method):
-            return method(*spec.args)
-        last_error = AttributeError(f"Method not found: {method_name}")
-
-    if last_error is None:
-        raise AttributeError("No candidate methods were provided.")
-    raise last_error
-
-
 def build_report(
-    output_path: str,
     start_date: date,
     end_date: date,
-    data: dict[str, Any],
+    activities: list[dict[str, Any]],
+    workouts: list[dict[str, Any]],
+    endurance_score: int,
+    fitnessage_data: dict[str, Any],
+    hill_score: dict[str, Any],
+    lactate_threshold: dict[str, Any],
+    running_tolerance: dict[str, Any],
     errors: dict[str, str],
 ) -> dict[str, Any]:
-    if not data:
+    if not hill_score or not endurance_score or not fitnessage_data or not lactate_threshold or not running_tolerance:
         status = "failed"
     elif errors:
         status = "partial_success"
@@ -65,16 +50,16 @@ def build_report(
 
     return {
         "generated_at": datetime.now().astimezone().isoformat(),
-        "report_path": output_path,
         "status": status,
-        "auth_mode": "username_password_env",
-        "date_window": {
-            "start_date": start_date.isoformat(),
-            "end_date": end_date.isoformat(),
-            "days": 7,
-        },
-        "data": data,
-        "errors": errors,
+        "report_date": end_date.isoformat(),
+        "endurance_score": endurance_score,
+        "fitnessage_data": fitnessage_data,
+        "hill_score": hill_score,
+        "lactate_threshold": lactate_threshold,
+        "running_tolerance": running_tolerance,
+        "activities": activities,
+        "workouts": workouts,
+        "errors": errors
     }
 
 
@@ -110,10 +95,18 @@ def main() -> int:
     start_date = end_date - timedelta(days=6)
     start_date_str = start_date.isoformat()
     end_date_str = end_date.isoformat()
+    yesterday_str = (report_date - timedelta(days=1)).isoformat()
+    report_date_str = report_date.strftime('%Y-%m-%d')
 
     output_path = build_output_path(args.output_template, report_date)
 
-    report_data: dict[str, Any] = {}
+    activities: list[dict[str, Any]] = []
+    workouts: list[dict[str, Any]] = []
+    endurance_score: int = 0
+    fitnessage_data: dict[str, Any] = {}
+    hill_score: dict[str, Any] = {}
+    lactate_threshold: dict[str, Any] = {}
+    running_tolerance: dict[str, Any] = {}
     report_errors: dict[str, str] = {}
 
     try:
@@ -121,7 +114,7 @@ def main() -> int:
         password = get_required_env("GARMIN_PASSWORD")
     except ValueError as exc:
         report_errors["configuration"] = str(exc)
-        report = build_report(output_path, start_date, end_date, report_data, report_errors)
+        report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, report_errors)
         write_json(output_path, report)
         print(str(exc), file=sys.stderr)
         return 2
@@ -131,38 +124,101 @@ def main() -> int:
         client.login()
     except Exception as exc:  # pragma: no cover - depends on remote API and credentials
         report_errors["authentication"] = f"{type(exc).__name__}: {exc}"
-        report = build_report(output_path, start_date, end_date, report_data, report_errors)
+        report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, report_errors)
         write_json(output_path, report)
         print("Authentication failed. Check GARMIN_USERNAME and GARMIN_PASSWORD.", file=sys.stderr)
         return 3
+    
+    try:
+        activities_raw =  client.get_activities_by_date(yesterday_str,report_date_str)
+        activities = [{key: activities[key] for key in {
+            "activityName", 
+            "activityTrainingLoad", 
+            "activityType",
+            "aerobicTrainingEffect",
+            "aerobicTrainingEffectMessage",
+            "anaerobicTrainingEffect",
+            "anaerobicTrainingEffectMessage",
+            "averageHR",
+            "averageRunningCadenceInStepsPerMinute",
+            "averageSpeed",
+            "avgPower",
+            "beginTimestamp",
+            "calories",
+            "distance",
+            "duration",
+            "elapsedDuration",
+            "elevationGain",
+            "elevationLoss",
+            "hrTimeInZone_1",
+            "hrTimeInZone_2",
+            "hrTimeInZone_3",
+            "hrTimeInZone_4",
+            "hrTimeInZone_5",
+            "locationName",
+            "maxHR",
+            "maxPower",
+            "maxSpeed",
+            "moderateIntensityMinutes",
+            "movingDuration",
+            "powerTimeInZone_1",
+            "powerTimeInZone_2",
+            "powerTimeInZone_3",
+            "powerTimeInZone_4",
+            "powerTimeInZone_5",
+            "pr",
+            "startTimeLocal",
+            "steps",
+            "trainingEffectLabel",
+            "vO2MaxValue",
+            "vigorousIntensityMinutes",
+            "waterEstimated"
+            } if key in activities} for activities in activities_raw]
+        for activity in activities:
+            activity["activityType"] = activity.get("activityType",{}).get("typeKey", "")
+    except Exception as exc:  
+        report_errors["activities"] = f"{type(exc).__name__}: {exc}"
+    
+    try:
+        endurance_score_raw =  client.get_endurance_score(start_date_str,)
+        endurance_score = int(endurance_score_raw.get("overallScore") or 0)
+    except Exception as exc:
+        report_errors["endurance_score"] = f"{type(exc).__name__}: {exc}"
+        
+    try:
+        fitnessage_raw =  client.get_fitnessage_data(end_date_str)
+        fitnessage_data = {key: fitnessage_raw[key] for key in {"achievableFitnessAge", "chronologicalAge", "fitnessAge"} if key in fitnessage_raw}
+    except Exception as exc:  
+        report_errors["fitnessage_data"] = f"{type(exc).__name__}: {exc}"
+    
+    try:
+        hill_score_raw =  client.get_hill_score(end_date_str)
+        hill_score = {key: hill_score_raw[key] for key in {"enduranceScore","overallScore","strengthScore","vo2Max","vo2MaxPreciseValue"} if key in hill_score_raw}
+    except Exception as exc:  
+        report_errors["hill_score"] = f"{type(exc).__name__}: {exc}"
+        
+    try:
+        lactate_threshold_raw =  client.get_lactate_threshold()
+        lactate_threshold["power"] = lactate_threshold_raw.get("power", {}).get("functionalThresholdPower", 0)
+        lactate_threshold["weight"] = lactate_threshold_raw.get("power", {}).get("weight", 0)
+        lactate_threshold["heart_rate"] = lactate_threshold_raw.get("speed_and_heart_rate", {}).get("heartRate", 0)
+        lactate_threshold["speed"] = lactate_threshold_raw.get("speed_and_heart_rate", {}).get("speed", 0)
+    except Exception as exc:  
+        report_errors["lactate_threshold"] = f"{type(exc).__name__}: {exc}"
+        
+    try:
+        workouts_raw =  client.get_scheduled_workouts(report_date.year, report_date.month)
+        workouts = [{key: workout[key] for key in {"date", "sportTypeKey", "title"} if key in workout} for workout in workouts_raw.get("calendarItems",[]) if workout.get("date", "") == report_date_str]
+    except Exception as exc:  
+        report_errors["workouts"] = f"{type(exc).__name__}: {exc}"
+    
+    try:
+        running_tolerance_raw =  client.get_running_tolerance(start_date_str, end_date_str)
+        running_tolerance = {key: running_tolerance_raw[-1][key] for key in {"calendarDate", "endOfWeek", "startOfWeek","tolerance", "totalDistance", "totalImpactLoad"} if key in running_tolerance_raw[-1]} 
+    except Exception as exc: 
+        report_errors["running_tolerance"] = f"{type(exc).__name__}: {exc}"
 
-    endpoint_specs = [
-        EndpointSpec(
-            "fitnessage_data",
-            ("get_fitnessage_data", "get_fitness_age_data"),
-            (end_date_str,),
-        ),
-        EndpointSpec("scheduled_workouts", ("get_scheduled_workouts",), (report_date.year, report_date.month)),
-        EndpointSpec("activities_by_date", ("get_activities_by_date",), (start_date_str, end_date_str)),
-        EndpointSpec("running_tolerance", ("get_running_tolerance",), (start_date_str, end_date_str)),
-        EndpointSpec("endurance_score", ("get_endurance_score",), (start_date_str,)),
-        EndpointSpec("hill_score", ("get_hill_score",), (start_date_str,)),
-        EndpointSpec("max_metrics", ("get_max_metrics",), (end_date_str,)),
-        EndpointSpec("lactate_threshold", ("get_lactate_threshold",)),
-        EndpointSpec(
-            "progress_summary_between_dates",
-            ("get_progress_summary_between_dates",),
-            (start_date_str, end_date_str),
-        ),
-    ]
-
-    for spec in endpoint_specs:
-        try:
-            report_data[spec.output_key] = invoke_endpoint(client, spec)
-        except Exception as exc:  # pragma: no cover - depends on remote API responses
-            report_errors[spec.output_key] = f"{type(exc).__name__}: {exc}"
-
-    report = build_report(output_path, start_date, end_date, report_data, report_errors)
+    report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, report_errors)
     write_json(output_path, report)
 
     print(f"Report written to: {output_path}")
