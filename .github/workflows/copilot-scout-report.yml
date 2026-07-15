@@ -17,10 +17,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Copilot CLI
-        run: npm install -g @github/copilot-cli
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-size: 22
 
-      # Step 4: Authenticate and run your prompt
+      - name: Install GitHub Copilot CLI
+        run: npm install -g @github/copilot
+
       - name: Execute Copilot Agent
         env:
           # A Personal Access Token (PAT) with 'copilot' and 'repo' scopes
