@@ -10,7 +10,7 @@ None. All titles remain stable at their current levels:
 - Endurance (bronwë): **Endurance of the Ranger-Scout** (7127, threshold 7100)
 - Strength (Tû): **Hill-man of Emyn Uial** (50, threshold 50)
 - Will (Nîdh): **Vigor of Annúminas** (403, threshold 400)
-- Constitution (Hûn): **Warden of the North Downs** ⭐ MAX RANK (41.1 km)
+- Constitution (Hûn): **Warden of the North Downs** (41.1 km)
 - Spirit (Sûl): **Roar of Rauros** (55.0, threshold 55)
 
 **Note:** Endurance dipped slightly from 7150 to 7127 — still well within the Ranger-Scout tier but reflecting a day focused on strength training rather than distance running.
