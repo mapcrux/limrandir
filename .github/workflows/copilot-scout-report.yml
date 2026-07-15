@@ -19,8 +19,6 @@ jobs:
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
-        with:
-          node-size: 22
 
       - name: Install GitHub Copilot CLI
         run: npm install -g @github/copilot
