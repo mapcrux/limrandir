@@ -226,7 +226,11 @@ def main() -> int:
     if report["status"] == "success":
         return 0
     if report["status"] == "partial_success":
+        for key, error in report_errors.items():
+            print(f"Error fetching {key}: {error}", file=sys.stderr)
         return 4
+    for key, error in report_errors.items():
+        print(f"Error fetching {key}: {error}", file=sys.stderr)
     return 5
 
 
