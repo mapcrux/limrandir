@@ -130,6 +130,21 @@ That night, the Company moved to the elevated camp Limrandir had marked. From th
 
 ---
 
+### Q-013 · The Strength of Stone
+**Date:** July 14, 2026 · **Type:** Strength Training — Combat Readiness · **Status:** ✅ Completed
+
+> *"The warg-riders favor strength over speed. If we meet them at close quarters, it will be steel and sinew, not footwork, that decides the day."* — Halbarad
+
+The Company made camp in the ruins of an old Cardolan watchtower. The walls were mostly intact, and Halbarad ordered combat drills for any Ranger not on patrol. Limrandir trained alongside Elladan and Halbador — a circuit of bodyweight exercises designed to build functional strength across the tower's broken architecture.
+
+He pulled himself up on crossbeams thirty feet above stone. Push-ups on the uneven courtyard floor. Lunges across rubble that shifted underfoot with every step. This was not running. This was the strength needed to hold a line when the warg-packs come — and the strength needed to climb the vertical passages of the Paths of the Dead, should they come to that.
+
+Elladan observed from the wall for the first hour, then descended and joined the circuit without a word. His presence elevated the entire session: no Ranger wanted to quit while the son of Elrond worked beside them. By the end, Limrandir's hands were raw and his legs trembled, but his grip held firm. When he finally lowered himself from the final pull-up, Elladan met his eyes and gave a brief nod. No words — but the acknowledgment was clear. The Scout of the Advance would not fail for want of strength.
+
+*Training Evidence: Bouldering and bodyweight circuit — 106m vertical ascent across 16 routes, ~37 min active, avg HR 111, max HR 154, recovery effort with strength emphasis — July 14.*
+
+---
+
 ### Q-011 · The Ferryman's Intelligence
 **Date:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering · **Status:** ⬜ Open
 
@@ -144,4 +159,4 @@ Limrandir runs ahead to the broken quays of old Tharbad to find Dirwaith — anc
 ---
 
 *Campaign Phase: Act I — Eriador*  
-*Completed Quests: 10 · Missed: 1 · Open: 2*
+*Completed Quests: 11 · Missed: 1 · Open: 1*

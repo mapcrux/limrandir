@@ -265,5 +265,21 @@ That night, from the elevated camp Limrandir had charted, the Company watched ta
 
 ---
 
-*Last updated: July 14, 2026*  
-*Next planned update: July 15, 2026*
+### July 14, 2026 — The Strength of Stone
+
+The Company rested at the ruins of an old Cardolan watchtower — one of the few structures from the ancient kingdom still standing with walls mostly intact. Halbarad ordered combat drills for any Ranger not on patrol duty. The march south would soon carry them into lands where warg-riders prowled: Dunland, the Gap of Rohan, and beyond. Speed would not save them if they were caught at close quarters.
+
+Limrandir trained alongside Elladan and Halbador in a circuit of bodyweight exercises designed to build functional strength: pull-ups on the tower's crossbeams thirty feet above stone, push-ups on the uneven courtyard floor, lunges across rubble that shifted with every step. This was not running — this was the strength needed to hold a line when the Enemy came with steel and fang.
+
+Elladan observed from the wall for the first hour, then descended without a word and joined the circuit himself. His presence elevated the entire session: no Ranger wanted to quit while the son of Elrond worked beside them. By the end, Limrandir's hands were raw and his legs trembled, but his grip held firm. When he finally lowered himself from the final pull-up, Elladan met his eyes and gave a brief nod. No words — but the acknowledgment was clear.
+
+**Training Note:** This was the first strength training session of the campaign focused explicitly on combat readiness. Limrandir's endurance has remained high, though it dipped slightly from its recent peak (7127, down from 7150). All other attributes remain stable. His perceived age continues to hold at 31.2 years — the gift of Númenórean blood.
+
+**Plot Status:** The Company is one day from Tharbad and the Greyflood crossing. Elrohir has asked Limrandir to run ahead tomorrow to seek out Dirwaith the ferryman — a former Gondorian scout who keeps intelligence on the Gap of Rohan and the southern roads. Dirwaith will speak to a single Ranger but not to a group. This quest is critical: without Dirwaith's knowledge of the ford, the crossing could prove disastrous.
+
+**Upcoming:** Tomorrow's run to Tharbad. The meeting with Dirwaith. And beyond that, the passage into Dunland, where warg-riders and Saruman's agents prowl the hills in force.
+
+---
+
+*Last updated: July 15, 2026*  
+*Next planned update: July 16, 2026*

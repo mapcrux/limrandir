@@ -18,7 +18,7 @@ Warden of the trail, Scout of the Dúnedain
 
 | Attribute | Current Score | Title | Progress | Next Level |
 | :--- | :--- | :--- | :---: | :--- |
-| Endurance (bronwë) | 7150 | Endurance of the Ranger-Scout | `█████░░░░░` | 7200 |
+| Endurance (bronwë) | 7127 | Endurance of the Ranger-Scout | `███░░░░░░░` | 7200 |
 | Strength (Tû) | 50 | Hill-man of Emyn Uial | `░░░░░░░░░░` | 55 |
 | Will (Nîdh) | 403 | Vigor of Annúminas | `███░░░░░░░` | 410 |
 | Constitution (Hûn) | 41.1 | Warden of the North Downs | `██████████` | Max Rank |
