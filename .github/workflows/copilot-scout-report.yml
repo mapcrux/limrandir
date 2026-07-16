@@ -28,7 +28,7 @@ jobs:
           # A Personal Access Token (PAT) with 'copilot' and 'repo' scopes
           GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
         run: |
-          copilot --agent=scout-report --prompt "Perform the daily tasks and update the files" --model=claude-sonnet-4.5 --yolo
+          copilot --agent=scout-report --prompt "Perform the daily tasks and update the files" --model=claude-sonnet-5.0 --yolo
           
       - name: Commit and push updated files
         shell: bash
