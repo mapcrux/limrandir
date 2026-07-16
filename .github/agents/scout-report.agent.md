@@ -62,14 +62,14 @@ Garmin data maps to character attributes as follows:
 For each attribute row in quest-data/Limrandir.md:
 
 - Use exactly 10 blocks.
-- Full block: █
-- Empty block: ░
+- Full block: 🔴
+- Empty block: ⭕
 - If not max rank:
     - progress = (currentStat - currentThreshold) / (nextThreshold - currentThreshold)
     - clamp progress between 0 and 1
     - filledBlocks = round(progress * 10)
 - If max rank, filledBlocks = 10.
-- Render example: ██████░░░░
+- Render example: 🔴🔴🔴⭕⭕⭕⭕⭕⭕⭕
 
 # Character Sheet Editing Constraints
 
