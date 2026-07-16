@@ -281,5 +281,23 @@ Elladan observed from the wall for the first hour, then descended without a word
 
 ---
 
-*Last updated: July 15, 2026*  
-*Next planned update: July 16, 2026*
+### July 15, 2026 — The Greyflood Crossing: A Scout's Failure
+
+The Company approached Tharbad at midday, and Limrandir was with them — not ahead of them. He had not run the ferryman's errand. Elrohir had given clear instruction: find Dirwaith, the old Gondorian scout who kept watch at the quay, and secure intelligence on the ford. But Limrandir misjudged the urgency, perhaps still fatigued from the tower climb and the stone-strength circuit at the Cardolan ruin. The run was not made.
+
+The Greyflood ran high and fast. Halbarad studied the current, chose the widest crossing point — the one that appeared safest — and gave the order to ford. Halfway across, the riverbed dropped into a hidden channel carved by spring floods. Halbador's horse stumbled, the current seized both mount and rider, and chaos followed.
+
+Elrohir and two Rangers dragged Halbador to shore, gasping and shaken but alive. The horse did not survive. Neither did the saddlebag lashed to its flank — the bag carrying Limrandir's provisional charts of the next week's route through Dunland and the approaches to the Gap of Rohan. The maps vanished downstream.
+
+That evening, Halbarad stood beside the fire and spoke quietly enough that the words carried weight: "Dirwaith would have known the ford. The old ferryman has been on this river for thirty years. He would have told us about the channel." He did not say more. He did not need to. Every Ranger in the camp understood.
+
+Limrandir said nothing. There was nothing to say.
+
+**Consequence Active:** The route charts for the Dunland approaches are lost. Limrandir will have to re-scout and remap unfamiliar ground — adding days to the march and leaving the Company vulnerable to warg-rider ambush. The missed run has cost them more than miles.
+
+**Plot Status:** The Company crosses the Greyflood and leaves Eriador behind. Ahead lies Dunland — hostile country where Saruman's agents and warg-riders prowl in force. Without advance charts, every step into that country will be blind scouting. And somewhere behind them, the warg scout pack that Golasgil failed to report continues to move parallel to their route, unseen but close.
+
+---
+
+*Last updated: July 16, 2026*  
+*Next planned update: July 17, 2026*
