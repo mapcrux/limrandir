@@ -145,22 +145,18 @@ Elladan observed from the wall for the first hour, then descended and joined the
 
 ---
 
-### Q-011 · The Ferryman's Intelligence *(Missed)*
-**Scheduled:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering · **Status:** ❌ Not Undertaken
+### Q-011 · The Ferryman's Intelligence
+**Date:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering · **Status:** ⬜ Open
 
 > *"There is a man at the Tharbad quay who has been there longer than anyone remembers. He was a Gondorian scout once. He talks for wine and talks well. Elladan met him, years ago, when this land still had roads worth walking. Go to him before the Company arrives. He will not speak to a group."* — Elrohir
 
-Limrandir did not run ahead to meet Dirwaith the ferryman. Perhaps he was still recovering from the tower climb and the stone-strength circuit at the Cardolan ruin. Perhaps he simply misjudged the urgency. Whatever the reason, the Company reached Tharbad by midday without advance intelligence on the ford conditions.
+Limrandir runs ahead to the broken quays of old Tharbad to find Dirwaith — ancient ferryman, former Gondorian field scout, keeper of the southern roads' long memory. Dirwaith knows what has moved through the Gap of Rohan in recent months and he knows the Greyflood crossing stone by stone. He will speak to a single Ranger. He will not speak to thirty. A steady base pace — this is not a race. He needs to arrive composed and ready to listen.
 
-The Greyflood ran high and fast — swollen from mountain rains. Halbarad studied the current and chose the widest, most obvious crossing point. It looked safest. It was not. Halfway across, the riverbed dropped away into a hidden channel carved by the spring floods. Halbador's horse stumbled, panicked, and the current seized both rider and mount.
+**Consequence if skipped:** The Company reaches Tharbad without Dirwaith's intelligence on the ford or the Gap. When they attempt the crossing at the most obvious point, the current proves treacherous. A horse and its rider are swept downstream. The rider survives, but the saddlebag — carrying Limrandir's provisional charts of the next week's route — does not.
 
-Halbador survived — barely — dragged to shore by Elrohir and two other Rangers. His horse did not. Neither did the saddlebag lashed to its flank — the bag that carried Limrandir's provisional charts of the next week's route through Dunland and the approaches to the Gap of Rohan. The maps were lost. Limrandir watched them vanish downstream and felt the cold weight of consequences settle on him.
-
-That evening, Halbarad stood beside the fire and said, very quietly: "Dirwaith would have known the ford. The old ferryman has been on this river for thirty years. He would have told us about the channel." He did not say more. He did not need to. Every Ranger in the camp understood.
-
-*Consequence: Limrandir's route charts for the next week are lost. He will have to re-scout and remap the Dunland approaches — adding days to the march and leaving the Company vulnerable to warg-rider ambush on unfamiliar ground.*
+*Workout: Base Run · Aerobic Effort · July 15, 2026*
 
 ---
 
 *Campaign Phase: Act I — Eriador*  
-*Completed Quests: 11 · Missed: 2 · Open: 0*
+*Completed Quests: 11 · Missed: 1 · Open: 1*
