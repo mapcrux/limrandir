@@ -265,5 +265,39 @@ That night, from the elevated camp Limrandir had charted, the Company watched ta
 
 ---
 
-*Last updated: July 14, 2026*  
-*Next planned update: July 15, 2026*
+### July 14, 2026 — The Strength of Stone
+
+The Company rested at the ruins of an old Cardolan watchtower — one of the few structures from the ancient kingdom still standing with walls mostly intact. Halbarad ordered combat drills for any Ranger not on patrol duty. The march south would soon carry them into lands where warg-riders prowled: Dunland, the Gap of Rohan, and beyond. Speed would not save them if they were caught at close quarters.
+
+Limrandir trained alongside Elladan and Halbador in a circuit of bodyweight exercises designed to build functional strength: pull-ups on the tower's crossbeams thirty feet above stone, push-ups on the uneven courtyard floor, lunges across rubble that shifted with every step. This was not running — this was the strength needed to hold a line when the Enemy came with steel and fang.
+
+Elladan observed from the wall for the first hour, then descended without a word and joined the circuit himself. His presence elevated the entire session: no Ranger wanted to quit while the son of Elrond worked beside them. By the end, Limrandir's hands were raw and his legs trembled, but his grip held firm. When he finally lowered himself from the final pull-up, Elladan met his eyes and gave a brief nod. No words — but the acknowledgment was clear.
+
+**Training Note:** This was the first strength training session of the campaign focused explicitly on combat readiness. Limrandir's endurance has remained high, though it dipped slightly from its recent peak (7127, down from 7150). All other attributes remain stable. His perceived age continues to hold at 31.2 years — the gift of Númenórean blood.
+
+**Plot Status:** The Company is one day from Tharbad and the Greyflood crossing. Elrohir has asked Limrandir to run ahead tomorrow to seek out Dirwaith the ferryman — a former Gondorian scout who keeps intelligence on the Gap of Rohan and the southern roads. Dirwaith will speak to a single Ranger but not to a group. This quest is critical: without Dirwaith's knowledge of the ford, the crossing could prove disastrous.
+
+**Upcoming:** Tomorrow's run to Tharbad. The meeting with Dirwaith. And beyond that, the passage into Dunland, where warg-riders and Saruman's agents prowl the hills in force.
+
+---
+
+### July 15, 2026 — The Greyflood Crossing: A Scout's Failure
+
+The Company approached Tharbad at midday, and Limrandir was with them — not ahead of them. He had not run the ferryman's errand. Elrohir had given clear instruction: find Dirwaith, the old Gondorian scout who kept watch at the quay, and secure intelligence on the ford. But Limrandir misjudged the urgency, perhaps still fatigued from the tower climb and the stone-strength circuit at the Cardolan ruin. The run was not made.
+
+The Greyflood ran high and fast. Halbarad studied the current, chose the widest crossing point — the one that appeared safest — and gave the order to ford. Halfway across, the riverbed dropped into a hidden channel carved by spring floods. Halbador's horse stumbled, the current seized both mount and rider, and chaos followed.
+
+Elrohir and two Rangers dragged Halbador to shore, gasping and shaken but alive. The horse did not survive. Neither did the saddlebag lashed to its flank — the bag carrying Limrandir's provisional charts of the next week's route through Dunland and the approaches to the Gap of Rohan. The maps vanished downstream.
+
+That evening, Halbarad stood beside the fire and spoke quietly enough that the words carried weight: "Dirwaith would have known the ford. The old ferryman has been on this river for thirty years. He would have told us about the channel." He did not say more. He did not need to. Every Ranger in the camp understood.
+
+Limrandir said nothing. There was nothing to say.
+
+**Consequence Active:** The route charts for the Dunland approaches are lost. Limrandir will have to re-scout and remap unfamiliar ground — adding days to the march and leaving the Company vulnerable to warg-rider ambush. The missed run has cost them more than miles.
+
+**Plot Status:** The Company crosses the Greyflood and leaves Eriador behind. Ahead lies Dunland — hostile country where Saruman's agents and warg-riders prowl in force. Without advance charts, every step into that country will be blind scouting. And somewhere behind them, the warg scout pack that Golasgil failed to report continues to move parallel to their route, unseen but close.
+
+---
+
+*Last updated: July 16, 2026*  
+*Next planned update: July 17, 2026*
