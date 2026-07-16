@@ -146,7 +146,7 @@ Elladan observed from the wall for the first hour, then descended and joined the
 ---
 
 ### Q-011 · The Ferryman's Intelligence
-**Date:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering · **Status:** ⬜ Open
+**Date:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering · **Status:** ✅ Completed
 
 > *"There is a man at the Tharbad quay who has been there longer than anyone remembers. He was a Gondorian scout once. He talks for wine and talks well. Elladan met him, years ago, when this land still had roads worth walking. Go to him before the Company arrives. He will not speak to a group."* — Elrohir
 
@@ -156,7 +156,26 @@ Limrandir runs ahead to the broken quays of old Tharbad to find Dirwaith — anc
 
 *Workout: Base Run · Aerobic Effort · July 15, 2026*
 
+Limrandir arrived at the old Tharbad quay in the late afternoon, having run six and a half leagues at a measured pace — Elrohir's counsel proved sound: arrive composed, not winded. He found Dirwaith precisely where Elrohir had described: at the far end of the broken quay, mending a rope he would never use again, watching the Greyflood with the patience of a man who had long since ceased expecting anything good to come down the river. Before approaching him, Limrandir scrambled up the crumbling piers and shattered masonry at the quay's head — a brief, rough ascent of the old stonework — to get eyes on the far bank for watchers. The opposite shore was empty. He descended, walked to Dirwaith's fire, and introduced himself. The old ferryman looked him over without hurry and said: "You're a runner. I can always tell." Then he gestured to his fire — a small, smokeless thing kept close to the stones — and filled two battered cups.
+
+Dirwaith spoke for two hours without rushing, in the flat, precise diction of an old field scout accustomed to giving briefings. The Gap of Rohan was not clear — Dunlending outriders had shifted their patrol circuit further east since winter, cutting the old Gondorian road. The south ford at Tharbad remained passable for foot travelers, but the river had moved its main channel some thirty yards west of the position shown on any map Limrandir carried. The Company's horses would need to be taken two hundred yards upstream to the shallows near an old mill-stump before crossing. He gave the distances in Gondorian scout notation — a system Limrandir recognized from marginal annotations in the ancient atlas and translated almost without thinking. The old man noticed. "They teach that still?" he asked. "Not them," Limrandir said. "Elrond." Dirwaith was quiet for a moment, his face unreadable. Then: "Tell the sons of Elrond that I remember their father." He said nothing more of the past — but his eyes held a brightness as Limrandir rose to go, maps annotated with fresh ink. The road south of the ford was open. For now.
+
+*Training Evidence: 6.55 km, ~30 min, avg HR 154, aerobic base — July 15, 2026. Bouldering/quay-scramble (~7 min, avg HR 101) integrated as reconnaissance ascent at quay approach.*
+
+---
+
+### Q-014 · The Far-Bank Survey
+**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ⬜ Open
+
+> *"Dirwaith has given us the ford. But a ford is only half of a crossing. I need to know what is waiting on the far side before I ask thirty men and their horses to wade a river in single file."* — Halbarad
+
+With Dirwaith's corrected bearings in hand, the Company moves at dawn toward the Greyflood. Limrandir runs ahead — not to the old Gondorian crossing marked on every map in the Company's saddlebags, but two hundred yards upstream, to the shifted shallows at the mill-stump Dirwaith described. He will cross alone and scout the western bank: mark the ford depth with set stones for the horsemen, check the treeline on the far side for Dunlending outrider sign, and determine whether the overgrown Gondorian road on the southern bank remains passable for a column of riders. The day is overcast. The Greyflood runs grey and cold. The far bank is very quiet — which is either good news or the worst kind of silence.
+
+**Consequence if skipped:** The Company approaches the Greyflood ford without confirmation of depth, bottom, or far-bank threats. When the horsemen enter the shallows, two mounts founder in an unexpected silt-shelf and are swept fifty yards downstream before regaining footing. The delay and noise draws a Dunlending outrider to the riverbank. He observes the crossing before Halbador can reach him, raises a horn, and rides south at speed. The Company crosses safely — but they have been seen, counted, and reported. The road through Dunland will be harder for it.
+
+*Workout Description: Base Run · Aerobic Effort · July 16, 2026*
+
 ---
 
 *Campaign Phase: Act I — Eriador*  
-*Completed Quests: 11 · Missed: 1 · Open: 1*
+*Completed Quests: 12 · Missed: 1 · Open: 1*

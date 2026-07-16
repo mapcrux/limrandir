@@ -115,9 +115,9 @@ The Grey Company crosses into Rohan. Under Saruman's shadow, Edoras is closed to
 |:---|:---|:---|
 | North Downs — Camp Harnost | ✅ Departed | Pre-Campaign |
 | Cardolan — Northern Fringe | ✅ In transit | Act I, Week 1 |
-| Cardolan — Barrow Downs (deep) | **▶ Current** | Act I, Week 1–2 |
+| Cardolan — Barrow Downs (deep) | ✅ Crossed | Act I, Week 1–2 |
 | The Greenway Crossing | Upcoming | Act I, Week 2 |
-| Tharbad — Greyflood Ford | Upcoming | Act I, Week 3–4 |
+| Tharbad — Greyflood Ford | **▶ Current** | Act I, Week 3 |
 | Dunland Hills | Upcoming | Act II, Week 5–6 |
 | Gap of Rohan | Upcoming | Act II, Week 7 |
 | Rohan — Western Plains | Upcoming | Act III, Week 8–9 |
@@ -281,5 +281,29 @@ Elladan observed from the wall for the first hour, then descended without a word
 
 ---
 
-*Last updated: July 15, 2026*  
-*Next planned update: July 16, 2026*
+### July 15, 2026 — The Ferryman's Intelligence
+
+The day the Company had planned around Dirwaith arrived, and Limrandir delivered. He ran the six and a half leagues to Tharbad at a measured aerobic pace, arriving at the broken quays in the late afternoon composed and ready to listen. He scrambled the crumbling piers to check the far bank before approaching, then spent two hours at Dirwaith's smokeless fire learning what no Ranger map contained: the Greyflood had shifted thirty yards west of the charted position, and the only viable ford for horses lay two hundred yards upstream at the mill-stump shallows. Dunlending outrider patrols had moved east. The Gap of Rohan presented a hard but passable route if the Company moved quickly.
+
+Dirwaith spoke in the precise notation of a former Gondorian field scout — a system Limrandir recognized from the margins of his Elvish atlas. The old man noticed his fluency. "Elrond," Limrandir said by way of explanation. Dirwaith fell silent for a long moment, then: "Tell the sons of Elrond that I remember their father." He would say no more of the past. But his eyes, as Limrandir departed, held a brightness that had not been there at the beginning of the meeting.
+
+**Intelligence Gained:** The correct ford location (mill-stump shallows, 200 yards upstream). Dunlending patrol circuits shifted east. Old Gondorian road on far bank overgrown but passable. No enemy fixed positions confirmed at the ford.
+
+**Character Note:** Dirwaith is a thread now — a former scout of Gondor who knew Elrond's dealings decades past. He is too old to follow the Company south, but what he carries in his memory may have more to give if asked the right questions. The sons of Elrond should be told that he remembers.
+
+**Plot Status:** The Company arrives at Tharbad tomorrow. Limrandir must run ahead to scout the far bank before the crossing begins — Halbarad will not commit horses to a ford that has not been walked first. The warg scout pack that Golasgil failed to report continues to shadow the Company's route south; no direct sighting, but Halbador has noted unusual bird-silence on the flanks two days running. Something is keeping pace with them.
+
+---
+
+### July 16, 2026 — On the Threshold of the Greyflood
+
+**Daily Note:** Limrandir's endurance has eased back slightly from yesterday's effort to 7119 — the aerobic base remains firmly within the Ranger-Scout tier but the slight dip is noted. All other attributes are unchanged: Strength holds at 50 (Hill-man of Emyn Uial, threshold even), Will at 403 (Vigor of Annúminas), Constitution at 41.1 km (Warden of the North Downs), and Spirit at 55.0 (Roar of Rauros). Perceived age holds at 31.2 — the Númenórean gift unchanged.
+
+No new titles have been unlocked. The next thresholds — Endurance of the Far-Ranger (7200), Watcher of the Weather Hills (55), Resolve of Rivendell (410), Explorer of Old Fornost (43 km), and Breath of the West Wind (57) — all remain close. Each consistent week of running pushes Limrandir closer to one or more of them.
+
+**Scheduled:** Limrandir runs the far-bank survey of the Greyflood ford today (Q-014). The crossing of the Greyflood, and the true departure from Eriador, awaits.
+
+---
+
+*Last updated: July 16, 2026*  
+*Next planned update: July 17, 2026*
