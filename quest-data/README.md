@@ -1,26 +1,26 @@
 # Quest Data Daily Summary
 
-**Report Date:** July 16, 2026
-**Window Reviewed:** Last day (July 15, 2026 to July 16, 2026)
+**Report Date:** July 17, 2026
+**Window Reviewed:** Last day (July 16, 2026 to July 17, 2026)
 
 ## New Titles Achieved In The Last Day
 
 None. All titles remain stable:
 
-- Endurance (bronwë): **Endurance of the Ranger-Scout** (7119, threshold 7100) — endurance eased from 7127 to 7119 after yesterday's aerobic effort; still within Ranger-Scout tier. Next threshold: Endurance of the Far-Ranger at 7200.
+- Endurance (bronwë): **Endurance of the Ranger-Scout** (7112, threshold 7100) — endurance eased from 7119 to 7112 after yesterday's aerobic base run; still within Ranger-Scout tier. Next threshold: Endurance of the Far-Ranger at 7200.
 - Strength (Tû): **Hill-man of Emyn Uial** (50, threshold 50, exactly at tier floor)
 - Will (Nîdh): **Vigor of Annúminas** (403, threshold 400)
 - Constitution (Hûn): **Warden of the North Downs** (41.1 km, threshold 40)
-- Spirit (Sûl): **Roar of Rauros** (55.0, threshold 55, exactly at tier floor)
+- Spirit (Sûl): **Roar of Rauros** (55.2, threshold 55) — ticked up from 55.0 to 55.2; first visible progress within tier (1 of 10 blocks filled). No rank change.
 
 ## Quests Completed Yesterday (From Quest Log)
 
-### Q-011 · The Ferryman's Intelligence ✅
-**Date:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering
+### Q-014 · The Far-Bank Survey ✅
+**Date:** July 16, 2026 · **Type:** Base Scout
 
-Limrandir ran six and a half leagues to the broken quays of Tharbad and spent two hours at Dirwaith's fire — the old ferryman and former Gondorian scout who knew the Greyflood's shifted channels and the Dunlending patrol routes by heart. He delivered: the correct ford location (mill-stump shallows, 200 yards upstream of the charted position), updated outrider patrol intelligence for the Gap of Rohan, and the knowledge that the far bank's Gondorian road is overgrown but passable. Before approaching Dirwaith, Limrandir scrambled the ruined quay stonework to check the far bank for watchers. The old man recognized Gondorian scout notation and noticed that Limrandir could read it. Before he departed, Dirwaith said: *"Tell the sons of Elrond that I remember their father."*
+Limrandir waded the Greyflood at the mill-stump shallows before dawn, scouted the western bank for Dunlending outrider sign (none found), marked ford-depth stakes at four intervals, and confirmed the old Gondorian road passable for a column of riders. He returned before the Company had broken camp. Halbarad ordered the crossing immediately upon reading his notes. Thirty Rangers and their horses crossed the Greyflood without incident, with only one horse slipping momentarily at the shallows. Eriador is behind the Company. Act II has begun.
 
-*Training Evidence: 6.55 km, ~30 min, avg HR 154, aerobic base run — July 15, 2026.*
+*Training Evidence: 5.95 km, ~30 min, avg HR 146, 55m elevation gain, aerobic base run — July 16, 2026.*
 
 ## Quests Missed Yesterday (From Quest Log)
 
@@ -28,26 +28,16 @@ None.
 
 ## Quests Scheduled For Today (From Quest Log)
 
-### Q-014 · The Far-Bank Survey
-
-**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ⬜ Open
-
-> *"Dirwaith has given us the ford. But a ford is only half of a crossing. I need to know what is waiting on the far side before I ask thirty men and their horses to wade a river in single file."* — Halbarad
-
-Limrandir runs ahead to the Greyflood ford — to the mill-stump shallows Dirwaith described — crosses alone, and scouts the western bank for Dunlending outrider sign, ford depth markers, and road conditions on the far side. The Company's crossing depends on what he finds.
-
-**Consequence if skipped:** The Company fords blind. Two horses founder in an unexpected silt-shelf. A Dunlending outrider observes the crossing, raises his horn, and rides south before he can be stopped. The Company crosses safely but has been seen and counted. The road through Dunland will be harder for it.
-
-*Workout: Base Run · Aerobic Effort · July 16, 2026*
+No scheduled workouts logged for July 17, 2026. The Company makes its first march into the Dunland foothills — a quiet movement day. No advance scouting quest active. Next running quest will be generated when a workout is scheduled.
 
 ## Upcoming Quests
 
-- **July 16:** Q-014 · The Far-Bank Survey (Base Run) ← **TODAY**
+- No upcoming workouts are currently scheduled in the log.
 
 ## Campaign Status
 
-**Location:** Tharbad, Greyflood Ford approach — Eriador's last crossing  
-**Act:** I — Eriador: Haunted Roads and Hidden Enemies  
-**Completed Quests:** 12  
-**Missed Quests:** 1 (Q-009 road survey)  
-**Active Plot Threads:** The March South, Golasgil's Betrayal (mounting evidence — boot-prints, patrol gaps, failed reports), The Shapes in the Barrow Downs (unidentified — Elladan silent on the matter), The Nazgûl's Hunt (dormant — last confirmed west of Misty Mountains), Dirwaith's Memory (a thread to follow), The Greyflood Crossing (imminent)
+**Location:** Dunland foothills — first league south of the Greyflood  
+**Act:** II — Dunland to the Gap: Fire and Pursuit (begun)  
+**Completed Quests:** 13  
+**Missed Quests:** 1 (Q-009 road survey — Golasgil's failed patrol)  
+**Active Plot Threads:** The March South (primary), Golasgil's Betrayal (mounting — three anomalies, Halbarad watching), The Shapes in the Barrow Downs (unidentified, Elladan silent), The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains), Dirwaith's Memory (unresolved thread — "Tell the sons of Elrond that I remember their father"), The Warg Scout Pack (unaccounted for — two days without sighting)

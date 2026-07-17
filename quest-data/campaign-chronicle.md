@@ -117,8 +117,8 @@ The Grey Company crosses into Rohan. Under Saruman's shadow, Edoras is closed to
 | Cardolan — Northern Fringe | ✅ In transit | Act I, Week 1 |
 | Cardolan — Barrow Downs (deep) | ✅ Crossed | Act I, Week 1–2 |
 | The Greenway Crossing | Upcoming | Act I, Week 2 |
-| Tharbad — Greyflood Ford | **▶ Current** | Act I, Week 3 |
-| Dunland Hills | Upcoming | Act II, Week 5–6 |
+| Tharbad — Greyflood Ford | ✅ Crossed | Act I, Week 3 |
+| Dunland Hills | **▶ Current** | Act II, Week 5–6 |
 | Gap of Rohan | Upcoming | Act II, Week 7 |
 | Rohan — Western Plains | Upcoming | Act III, Week 8–9 |
 | Edoras (bypassed) | Upcoming | Act III, Week 9–10 |
@@ -295,15 +295,36 @@ Dirwaith spoke in the precise notation of a former Gondorian field scout — a s
 
 ---
 
-### July 16, 2026 — On the Threshold of the Greyflood
+### July 16, 2026 — The Greyflood Crossing
 
-**Daily Note:** Limrandir's endurance has eased back slightly from yesterday's effort to 7119 — the aerobic base remains firmly within the Ranger-Scout tier but the slight dip is noted. All other attributes are unchanged: Strength holds at 50 (Hill-man of Emyn Uial, threshold even), Will at 403 (Vigor of Annúminas), Constitution at 41.1 km (Warden of the North Downs), and Spirit at 55.0 (Roar of Rauros). Perceived age holds at 31.2 — the Númenórean gift unchanged.
+Limrandir ran the far-bank survey before dawn — wading the Greyflood at the mill-stump shallows, gravel underfoot, water to the hip, solid bottom throughout. He scouted south along the overgrown Gondorian road on the western bank, found no Dunlending sign in the treeline, marked ford-depth stakes at four intervals, and returned to the eastern bank before the Company had broken camp. Halbarad read his notes at the waterside and ordered the crossing for mid-morning. Two hours later, thirty Rangers and their horses were across the Greyflood without incident. One horse slipped briefly near the mill-stump but regained footing in a stride. No enemy presence on either bank.
 
-No new titles have been unlocked. The next thresholds — Endurance of the Far-Ranger (7200), Watcher of the Weather Hills (55), Resolve of Rivendell (410), Explorer of Old Fornost (43 km), and Breath of the West Wind (57) — all remain close. Each consistent week of running pushes Limrandir closer to one or more of them.
+**Eriador is behind them.** Act I's geographic objective — the crossing of the Greyflood at Tharbad — is complete. The Company now stands in the wild fringe-country between Cardolan and Dunland, the river to their backs and rough hill-country ahead.
 
-**Scheduled:** Limrandir runs the far-bank survey of the Greyflood ford today (Q-014). The crossing of the Greyflood, and the true departure from Eriador, awaits.
+**Attribute Note:** Endurance settled to 7112 today — a modest dip from yesterday's 7119, well within the Ranger-Scout tier. Spirit nudged up to 55.2, showing first progress above the Roar of Rauros threshold; no rank change, but the improvement is visible. All other attributes unchanged. No new titles unlocked.
+
+**Plot Status:** The warg scout pack last seen moving parallel to the Company's route south has been silent two days — absence of sign is not reassurance. Golasgil has been quiet and watchful since the failed road patrol debacle; he is trying to rebuild standing with Halbarad and not succeeding. The Company's crossing was unobserved, as far as anyone knows. The road into Dunland is open — and Saruman's reach extends through every hill-clan chieftain who owes him tithe.
 
 ---
 
-*Last updated: July 16, 2026*  
-*Next planned update: July 17, 2026*
+### July 17, 2026 — First Morning in Dunland
+
+The Greyflood crossing settled without celebration. Halbarad turned his horse south at sunrise and rode without calling muster; the Company followed in silence, reading his mood correctly. Eriador lay grey and spent behind them. The hills ahead were darker and older, shaped by a different hand.
+
+No running workout was recorded today — a quiet march day with no advance scouting logged. The Company made its first league into the Dunland foothills under overcast skies, moving in close order on a road that exists now only as a faint depression in the grass where Gondorian stone once ran. Limrandir consulted his atlas at the midday halt and confirmed their bearing. The old maps showed a waystation three leagues south — ruins now, almost certainly, but elevated ground and a defensible courtyard. Halbarad marked it as the night's camp without debate.
+
+**Attribute Status (July 17):** Endurance 7112 · Strength 50 · Will 403 · Constitution 41.1 km · Spirit 55.2. Perceived Age 31.2. No new titles.
+
+**Unresolved Threads:**
+- The warg scout pack (last confirmed: moving south, parallel route, unaccounted for)
+- Golasgil's loyalty (third anomaly — road patrol with gaps; Halbarad watching)
+- The Shapes in the Barrow Downs (unidentified, Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father")
+
+**Upcoming:** No scheduled workouts in the log. The march continues south into Dunland. Next running quest will chart the foothills.
+
+---
+
+*Last updated: July 17, 2026*  
+*Next planned update: July 18, 2026*

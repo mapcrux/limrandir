@@ -165,17 +165,19 @@ Dirwaith spoke for two hours without rushing, in the flat, precise diction of an
 ---
 
 ### Q-014 · The Far-Bank Survey
-**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ⬜ Open
+**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ✅ Completed
 
 > *"Dirwaith has given us the ford. But a ford is only half of a crossing. I need to know what is waiting on the far side before I ask thirty men and their horses to wade a river in single file."* — Halbarad
 
 With Dirwaith's corrected bearings in hand, the Company moves at dawn toward the Greyflood. Limrandir runs ahead — not to the old Gondorian crossing marked on every map in the Company's saddlebags, but two hundred yards upstream, to the shifted shallows at the mill-stump Dirwaith described. He will cross alone and scout the western bank: mark the ford depth with set stones for the horsemen, check the treeline on the far side for Dunlending outrider sign, and determine whether the overgrown Gondorian road on the southern bank remains passable for a column of riders. The day is overcast. The Greyflood runs grey and cold. The far bank is very quiet — which is either good news or the worst kind of silence.
 
-**Consequence if skipped:** The Company approaches the Greyflood ford without confirmation of depth, bottom, or far-bank threats. When the horsemen enter the shallows, two mounts founder in an unexpected silt-shelf and are swept fifty yards downstream before regaining footing. The delay and noise draws a Dunlending outrider to the riverbank. He observes the crossing before Halbador can reach him, raises a horn, and rides south at speed. The Company crosses safely — but they have been seen, counted, and reported. The road through Dunland will be harder for it.
+Limrandir crossed before first light, wading the mill-stump shallows at hip depth — the footing solid gravel and stone, no silt-shelf, the bottom firm enough for loaded horses. On the far bank he ran south along the overgrown Gondorian road through the grey morning. The treeline held no Dunlending sign: no fire-ash, no tether-posts, no cut watch-points in the brush. The road's stone foundation remained passable — broad enough for a column of riders, though three sections where the verge had slumped required single file. He marked those sections with set stones and drove ford-depth stakes cut from a fallen branch at four intervals across the shallows.
 
-*Workout Description: Base Run · Aerobic Effort · July 16, 2026*
+He was back on the eastern bank before the Company had broken camp, notes complete. Halbarad read them at the waterside. When he looked up, he said: "We cross in two hours." Elladan checked each ford-marker notation against his own reading of the water and gave a single nod. The crossing of the Greyflood — Eriador's last ward between the grey north and the wilder south — was formally ordered. Limrandir changed into dry clothes and said nothing further, but when Elrohir clapped him on the shoulder and said "Quick-foot walks on water now, does he?" the Company laughed for the first time in days.
+
+*Training Evidence: 5.95 km, ~30 min, avg HR 146, 55m elevation gain, aerobic base — July 16, 2026.*
 
 ---
 
-*Campaign Phase: Act I — Eriador*  
-*Completed Quests: 12 · Missed: 1 · Open: 1*
+*Campaign Phase: Act I — Eriador (Concluded) / Act II — Dunland Begins*  
+*Completed Quests: 13 · Missed: 1 · Open: 0*
