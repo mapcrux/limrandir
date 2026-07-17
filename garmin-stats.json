@@ -51,8 +51,14 @@
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-17T09:38:11.761614+00:00",
-  "hill_score": {},
+  "generated_at": "2026-07-17T09:31:49.732684-04:00",
+  "hill_score": {
+    "enduranceScore": 26,
+    "overallScore": 50,
+    "strengthScore": 44,
+    "vo2Max": 55.0,
+    "vo2MaxPreciseValue": 55.2
+  },
   "lactate_threshold": {
     "heart_rate": 175,
     "power": 403,
@@ -68,6 +74,6 @@
     "totalDistance": 25523.0,
     "totalImpactLoad": 29240
   },
-  "status": "failed",
+  "status": "success",
   "workouts": []
 }
