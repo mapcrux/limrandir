@@ -179,5 +179,31 @@ He was back on the eastern bank before the Company had broken camp, notes comple
 
 ---
 
-*Campaign Phase: Act I — Eriador (Concluded) / Act II — Dunland Begins*  
-*Completed Quests: 13 · Missed: 1 · Open: 0*
+---
+
+### Minor Entry · Camp Drills in the Dunland Foothills
+**Date:** July 17, 2026 · **Type:** Strength / Climbing · **Status:** ✅ Logged (No prior quest assigned)
+
+The Company camped that first Dunland night at the ruined waystation Limrandir had marked from his atlas — elevated ground, defensible walls, the smell of old stone and dry grass replacing the river-damp of Cardolan. With no advance scouting run ordered and the march day behind them, Halbarad gave the Rangers two hours of free exercise at dusk. Limrandir worked the ruined walls. The waystation's remaining stonework offered a crude bouldering circuit along a collapsed gatehouse lintel and a near-vertical interior staircase face — thirty-six metres of broken footholds over the course of ten minutes of focused climbing, then a separate indoor scramble through a collapsed storage vault. Not the tower-training of the Cardolan drills, but functional enough: grip strength, footwork on loose stone, the discipline of reading a route before committing to it.
+
+He finished as the cookfire was lit, hands dusted grey with old mortar, and sat down beside Elrohir, who glanced at his hands and said nothing until the food was served — then quietly: "You know there are stairs inside the Paths of the Dead." Limrandir said he had read as much in the atlas. Elrohir said: "They are not like these stairs." He did not elaborate, and the meal passed in comfortable silence.
+
+*Training Evidence: Indoor climbing — 36m elevation gain, ~10 min, avg HR 110, max HR 151; Bouldering — ~8 min, avg HR 113, max HR 136; recovery effort — July 17, 2026.*
+
+---
+
+## Open Quests
+
+### Q-015 · The First Track into Dunland
+**Date:** July 18, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+
+The Company breaks camp with the Greyflood two days behind it and the Dunland foothills rising in broken ridges ahead. Saruman's reach extends through every hill-chieftain who owes him tithe, and the warg scout pack that Golasgil failed to report has not been sighted in three days — which means it is either gone or watching from somewhere Limrandir has not yet charted. Halbarad needs the next three leagues of terrain mapped before the main body moves: campsite options on elevated ground, any track-crossing or hollow wide enough to funnel riders into a kill-zone, fresh warg-sign if it exists. The order is base effort — steady, observant, thorough. No sprinting unless something requires it.
+
+**Consequence if skipped:** The Company advances into unmapped foothills without terrain knowledge. The warg scout pack, which has been moving parallel to the route, will identify the column's position before any counter-measure is possible. When contact is made, it will be on the Enemy's terms — and the first man caught out of line will be Maedhron, the youngest Ranger, riding the flank.
+
+*Workout: Base Run · Aerobic Effort · July 18, 2026*
+
+---
+
+*Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*  
+*Completed Quests: 13 · Missed: 1 · Open: 1*

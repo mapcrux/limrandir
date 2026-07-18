@@ -326,5 +326,22 @@ No running workout was recorded today — a quiet march day with no advance scou
 
 ---
 
-*Last updated: July 17, 2026*  
-*Next planned update: July 18, 2026*
+### July 18, 2026 — The Endurance Rises; Dunland Scouts Ahead
+
+The first full day since crossing the Greyflood, and the Company's overnight halt at the old Cardolan waystation confirmed the choice was sound — defensible walls, clear sight-lines, no warg-sign on the perimeter. Limrandir spent the dusk working the waystation's broken stonework in an informal strength session: thirty-six metres of climbing across a collapsed gatehouse lintel and a scramble through a ruined vault. No quest had been assigned; the session was voluntary, and Elrohir watched from across the cookfire with the quiet attention of a man cataloguing what he sees.
+
+**Attribute Note:** Endurance surged to 7165 — the most significant single-day gain in weeks, driven by the sustained base mileage of Act I's final approach and the Greyflood crossing. Within the Ranger-Scout tier, the progress bar now stands at 6 of 10 blocks; the Far-Ranger threshold of 7200 is within reach, perhaps one or two hard base runs away. All other attributes remain stable: Will holds at 403 (Vigor of Annúminas, 3/10 blocks), Constitution at 41.1 km (Warden of the North Downs, 4/10 blocks), Spirit at 55.2 (Roar of Rauros, 1/10 blocks). Hill score data was unavailable today; Strength and Spirit carried forward from prior report. Perceived Age holds at 31.2.
+
+**Upcoming Quest:** Q-015 — The First Track into Dunland (Base Scout · July 18). Halbarad has ordered terrain mapping for the next three leagues of foothills before the main column moves. The warg scout pack unaccounted for since Golasgil's failed patrol has not been sighted in three days — silence that is more unsettling than noise. Maedhron has been riding the flank; if the warg-pack finds the column before Limrandir finds the warg-pack, the youngest Ranger will bear the brunt of it.
+
+**Unresolved Threads:**
+- The warg scout pack (three days without sighting — danger rising)
+- Golasgil's loyalty (watchful, subdued since the failed patrol)
+- The Shapes in the Barrow Downs (Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father" — not yet delivered to Elladan or Elrohir)
+
+---
+
+*Last updated: July 18, 2026*  
+*Next planned update: July 19, 2026*
