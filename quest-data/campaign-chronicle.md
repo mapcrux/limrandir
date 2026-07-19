@@ -343,5 +343,24 @@ The first full day since crossing the Greyflood, and the Company's overnight hal
 
 ---
 
-*Last updated: July 18, 2026*  
-*Next planned update: July 19, 2026*
+### July 19, 2026 — The Pack Revealed; The Deep Trail Opens
+
+The silence was the warning. Three days without warg-sign is not reassurance — it is the pause before a decision. Limrandir ran the first league of Dunland foothills at dusk on the eighteenth, methodical and unhurried, mapping the broken ridgelines and track-crossings at recovery effort. He found no warg pack on the near ground. He found the evidence of one at the gully edge: gnawed bone two days old, four-toed prints in rain-smeared mud. The pack had rested there. It was close.
+
+Halbarad pulled Maedhron from the flank immediately upon reading the field chart. No announcement to the Company; no alarm call. Only the quiet repositioning of the youngest Ranger away from the exposed ground he had held for two days. Limrandir watched the adjustment and understood: Halbarad had been expecting exactly this report. He had left Maedhron exposed as a deliberate risk, calculated to be withdrawn the moment the pack's position was confirmed. It had worked — this time. Maedhron did not know how close the calculation had been.
+
+**Attribute Note:** Endurance settled slightly to 7150 from yesterday's 7165 — a modest daily variance well within the Ranger-Scout tier. Progress bar moves to 5 of 10 blocks toward the Far-Ranger threshold of 7200. Will (LT power) eased to 401, progress now at 1/10 block. Constitution holds at 41.1 km, 4/10 blocks. Hill score data remains unavailable; Strength and Spirit carried forward at 50 and 55.2 respectively. Perceived Age stable at 31.2.
+
+**Upcoming Quest:** Q-016 — The Deep Trail of the Dunland Foothills (Base Scout · July 19). The second and third leagues south require mapping before the column can move: ridgeline watchers, bottleneck passages, the continued track of the warg pack. The pack is alive. It knows approximately where the Company is. The question is whether Limrandir finds their next position before they find the column's.
+
+**Unresolved Threads:**
+- The warg scout pack (confirmed alive — gully evidence July 18; position now one league south and unknown)
+- Golasgil's loyalty (quiet, watchful; Halbarad has not spoken to him directly since the road patrol)
+- The Shapes in the Barrow Downs (Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father" — not yet delivered)
+
+---
+
+*Last updated: July 19, 2026*  
+*Next planned update: July 20, 2026*

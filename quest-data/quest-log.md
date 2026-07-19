@@ -192,18 +192,33 @@ He finished as the cookfire was lit, hands dusted grey with old mortar, and sat 
 
 ---
 
-## Open Quests
-
 ### Q-015 · The First Track into Dunland
-**Date:** July 18, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+**Date:** July 18, 2026 · **Type:** Base Scout · **Status:** ✅ Completed
 
 The Company breaks camp with the Greyflood two days behind it and the Dunland foothills rising in broken ridges ahead. Saruman's reach extends through every hill-chieftain who owes him tithe, and the warg scout pack that Golasgil failed to report has not been sighted in three days — which means it is either gone or watching from somewhere Limrandir has not yet charted. Halbarad needs the next three leagues of terrain mapped before the main body moves: campsite options on elevated ground, any track-crossing or hollow wide enough to funnel riders into a kill-zone, fresh warg-sign if it exists. The order is base effort — steady, observant, thorough. No sprinting unless something requires it.
 
-**Consequence if skipped:** The Company advances into unmapped foothills without terrain knowledge. The warg scout pack, which has been moving parallel to the route, will identify the column's position before any counter-measure is possible. When contact is made, it will be on the Enemy's terms — and the first man caught out of line will be Maedhron, the youngest Ranger, riding the flank.
+Limrandir set out at dusk, the Dunland sky pressing low and iron-coloured above the foothills. He ran the first league at a deliberate recovery pace — Halbarad had told him to be thorough, not fast, and the terrain rewarded patience: broken ridgelines, hollow ground between old rockfalls, three track-crossings where a file of riders could be funnelled into single file and held. He marked each one in his field notes without lingering. The near ground was empty of warg-sign. The silence held through the first league and into the low ground beyond.
 
-*Workout: Base Run · Aerobic Effort · July 18, 2026*
+Then, at the lip of a shallow stream gully at the furthest extent of the patrol, he found what three days of silence had concealed: a scatter of gnawed bone — not old, not weather-bleached, but grey-wet and fly-scattered, no more than two days dead. A deer carcass, pulled apart with the systematic waste of a pack at rest. Four-toed prints in the mud at the gully edge, smeared by rain but unmistakeable. The warg pack had been here. It had eaten. It had waited.
+
+He mapped the gully and the prints and ran back to camp without urgency — no call to alarm, no sprint, but every note precise. He set the field chart on Halbarad's saddle-pack without a word and sat by the fire. Halbarad picked it up and read it in silence. When he looked up, he said: "They're not gone. They're waiting for us to think they're gone." He called Maedhron in from the flank immediately.
+
+*Training Evidence: 3.34 km, ~17 min, recovery effort, avg HR 142, 28m elevation gain — July 18, 2026.*
+
+---
+
+## Open Quests
+
+### Q-016 · The Deep Trail of the Dunland Foothills
+**Date:** July 19, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+
+Yesterday's recovery patrol mapped the near ground and found the warg pack's resting gully — gnawed bone, four-toed prints, and the smell of an ambush deferred. Today Halbarad needs the deeper country: the second and third leagues south, where the ridgelines crowd together and the old Dunlending cattle-tracks offer the kind of cover a warg-rider patrol could exploit at will. Limrandir must run the ground at base effort — check the ridge crests for watchers, walk the hollow-bottom track-ways to read their footing, determine whether the Company can pass the second bottleneck ridge in column or must break into exposed single file. The warg pack is alive and close. The pace today is measured because observation is what matters, not speed.
+
+**Consequence if skipped:** The Company advances into the second and third leagues blind. Wulfric's warg-riders are already positioned on the ridgelines with clear sight-lines to the column's approach. The ambush is triggered on the second bottleneck ridge — and Maedhron, still riding the flank, is the first man cut off.
+
+*Workout: Base Run · Aerobic Effort · July 19, 2026*
 
 ---
 
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*  
-*Completed Quests: 13 · Missed: 1 · Open: 1*
+*Completed Quests: 14 · Missed: 1 · Open: 1*
