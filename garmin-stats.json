@@ -45,13 +45,13 @@
     }
   ],
   "endurance_score": 7130,
-  "errors": 55.6,
+  "errors": {},
   "fitnessage_data": {
     "achievableFitnessAge": 32.587329130811334,
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-20T15:30:45.982162+00:00",
+  "generated_at": "2026-07-20T15:41:17.995839+00:00",
   "hill_score": {
     "enduranceScore": 26,
     "overallScore": 50,
@@ -74,8 +74,8 @@
     "totalDistance": 9826.0,
     "totalImpactLoad": 11970
   },
-  "status": "partial_success",
-  "vo2max": {},
+  "status": "success",
+  "vo2max": 55.6,
   "workouts": [
     {
       "date": "2026-07-20",
