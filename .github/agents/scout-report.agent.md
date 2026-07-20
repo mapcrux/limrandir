@@ -43,11 +43,11 @@ Do not describe hypothetical changes. Update file contents.
 
 Garmin data maps to character attributes as follows:
 
-- Endurance (Bronwe): endurance_score.overallScore
+- Endurance (Bronwe): endurance_score
 - Strength (Tu): hill_score.overallScore
 - Will (Nidh): lactate_threshold.power
 - Constitution (Hun): running_tolerance.tolerance converted from meters to kilometers with 1 decimal place
-- Spirit (Sul): hill_score.vo2MaxPreciseValue, or hill_score.vo2Max as fallback
+- Spirit (Sul): vo2max, or hill_score.vo2Max as fallback
 - Perceived Age: fitnessage_data.fitnessAge rounded to 1 decimal place
 
 # Level And Title Resolution Rules
@@ -129,5 +129,6 @@ For quest-data/quest-log.md:
 
 # Failure Handling
 
-- If required fields are missing, continue with best-effort fallbacks.
+- If required fields are missing, continue with best-effort fallbacks. 
+- If a score is 0 or missing and no fallback is available keep the previous value.
 - Never stop entirely because one metric is missing.

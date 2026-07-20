@@ -40,6 +40,7 @@ def build_report(
     lactate_threshold: dict[str, Any],
     running_tolerance: dict[str, Any],
     errors: dict[str, str],
+    vo2max: float
 ) -> dict[str, Any]:
     if not hill_score or not endurance_score or not fitnessage_data or not lactate_threshold or not running_tolerance:
         status = "failed"
@@ -59,6 +60,7 @@ def build_report(
         "running_tolerance": running_tolerance,
         "activities": activities,
         "workouts": workouts,
+        "vo2max": vo2max,
         "errors": errors
     }
 
@@ -103,6 +105,7 @@ def main() -> int:
     activities: list[dict[str, Any]] = []
     workouts: list[dict[str, Any]] = []
     endurance_score: int = 0
+    vo2max: float = 0.0
     fitnessage_data: dict[str, Any] = {}
     hill_score: dict[str, Any] = {}
     lactate_threshold: dict[str, Any] = {}
@@ -114,7 +117,7 @@ def main() -> int:
         password = get_required_env("GARMIN_PASSWORD")
     except ValueError as exc:
         report_errors["configuration"] = str(exc)
-        report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, report_errors)
+        report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, vo2max, report_errors)
         write_json(output_path, report)
         print(str(exc), file=sys.stderr)
         return 2
@@ -124,7 +127,7 @@ def main() -> int:
         client.login()
     except Exception as exc:  # pragma: no cover - depends on remote API and credentials
         report_errors["authentication"] = f"{type(exc).__name__}: {exc}"
-        report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, report_errors)
+        report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, vo2max, report_errors)
         write_json(output_path, report)
         print("Authentication failed. Check GARMIN_USERNAME and GARMIN_PASSWORD.", file=sys.stderr)
         return 3
@@ -192,10 +195,16 @@ def main() -> int:
         report_errors["fitnessage_data"] = f"{type(exc).__name__}: {exc}"
     
     try:
-        hill_score_raw =  client.get_hill_score(end_date_str)
+        hill_score_raw =  client.get_hill_score(yesterday_str)
         hill_score = {key: hill_score_raw[key] for key in {"enduranceScore","overallScore","strengthScore","vo2Max","vo2MaxPreciseValue"} if key in hill_score_raw}
     except Exception as exc:  
         report_errors["hill_score"] = f"{type(exc).__name__}: {exc}"
+        
+    try:
+        max_stats_raw =  client.get_max_metrics(yesterday_str)
+        vo2max = max_stats_raw[0].get("generic",{}).get("vo2MaxPreciseValue", 0) if max_stats_raw else 0
+    except Exception as exc:  
+        report_errors["max_stats"] = f"{type(exc).__name__}: {exc}"
         
     try:
         lactate_threshold_raw =  client.get_lactate_threshold()
@@ -218,7 +227,7 @@ def main() -> int:
     except Exception as exc: 
         report_errors["running_tolerance"] = f"{type(exc).__name__}: {exc}"
 
-    report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, report_errors)
+    report = build_report(start_date, end_date, activities, workouts, endurance_score, fitnessage_data, hill_score, lactate_threshold, running_tolerance, vo2max, report_errors)
     write_json(output_path, report)
 
     print(f"Report written to: {output_path}")
