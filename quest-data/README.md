@@ -1,26 +1,26 @@
 # Quest Data Daily Summary
 
-**Report Date:** July 16, 2026
-**Window Reviewed:** Last day (July 15, 2026 to July 16, 2026)
+**Report Date:** July 20, 2026
+**Window Reviewed:** Last day (July 19, 2026 to July 20, 2026)
 
 ## New Titles Achieved In The Last Day
 
 None. All titles remain stable:
 
-- Endurance (bronwë): **Endurance of the Ranger-Scout** (7119, threshold 7100) — endurance eased from 7127 to 7119 after yesterday's aerobic effort; still within Ranger-Scout tier. Next threshold: Endurance of the Far-Ranger at 7200.
-- Strength (Tû): **Hill-man of Emyn Uial** (50, threshold 50, exactly at tier floor)
-- Will (Nîdh): **Vigor of Annúminas** (403, threshold 400)
-- Constitution (Hûn): **Warden of the North Downs** (41.1 km, threshold 40)
-- Spirit (Sûl): **Roar of Rauros** (55.0, threshold 55, exactly at tier floor)
+- Endurance (bronwë): **Endurance of the Ranger-Scout** (7130, threshold 7100) — slight dip from 7150 to 7130; progress bar at 3/10 blocks. Next threshold: Endurance of the Far-Ranger at 7200 — one strong base run away.
+- Strength (Tû): **Hill-man of Emyn Uial** (50, threshold 50) — Hill score data unavailable; carried forward. 0/10 blocks.
+- Will (Nîdh): **Vigor of Annúminas** (401, threshold 400) — stable; progress bar at 1/10 block. Next threshold: Resolve of Rivendell at 410.
+- Constitution (Hûn): **Warden of the North Downs** (42.2 km, threshold 40) — up from 41.1 km; **7/10 blocks** (was 4/10). Explorer of Old Fornost threshold at 43 km is within a single strong week's reach.
+- Spirit (Sûl): **Roar of Rauros** (55.2, threshold 55) — Hill score data unavailable; carried forward; 1/10 block.
 
 ## Quests Completed Yesterday (From Quest Log)
 
-### Q-011 · The Ferryman's Intelligence ✅
-**Date:** July 15, 2026 · **Type:** Base Run — Intelligence Gathering
+### Q-016 · The Deep Trail of the Dunland Foothills ✅
+**Date:** July 19, 2026 · **Type:** Base Scout (Tempo Effort)
 
-Limrandir ran six and a half leagues to the broken quays of Tharbad and spent two hours at Dirwaith's fire — the old ferryman and former Gondorian scout who knew the Greyflood's shifted channels and the Dunlending patrol routes by heart. He delivered: the correct ford location (mill-stump shallows, 200 yards upstream of the charted position), updated outrider patrol intelligence for the Gap of Rohan, and the knowledge that the far bank's Gondorian road is overgrown but passable. Before approaching Dirwaith, Limrandir scrambled the ruined quay stonework to check the far bank for watchers. The old man recognized Gondorian scout notation and noticed that Limrandir could read it. Before he departed, Dirwaith said: *"Tell the sons of Elrond that I remember their father."*
+Limrandir ran the second and third leagues of the Dunland foothills before first light — ridge-crests checked for watchers, bottleneck passages mapped, hollow-bottom cattle-tracks walked for footing. At the far edge of the third league he found the warg pack's shifted camp: cold fire, stripped bones, fresh tracks pointing toward the blind eastern ridge above the second bottleneck. The pack had repositioned overnight and was watching for the column. He brought the intelligence back at tempo. Halbarad ordered the western detour without hesitation. Maedhron was told the eastern ground was rougher. He believed it.
 
-*Training Evidence: 6.55 km, ~30 min, avg HR 154, aerobic base run — July 15, 2026.*
+*Training Evidence: 9.83 km, ~48 min, 72m elevation gain, aerobic tempo (training effect 3.8), avg HR 151, max HR 168 — Glastonbury foothills, July 19, 2026.*
 
 ## Quests Missed Yesterday (From Quest Log)
 
@@ -28,26 +28,23 @@ None.
 
 ## Quests Scheduled For Today (From Quest Log)
 
-### Q-014 · The Far-Bank Survey
+### Q-017 · The Outer Edge of Dunland 🔵
+**Date:** July 20, 2026 · **Type:** Base Scout
 
-**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ⬜ Open
+The western detour has earned the Company a clean passage through the bottleneck ridges — but the warg pack will have discovered its empty vantage point at dawn and is already re-ranging. Limrandir must survey the ground where the parallel track rejoins the southern road before the column commits to it: scan for Dunlending signal fires on the high ground, read whether the pack's re-approach path crosses the new line of march, and confirm the junction is clear. Base effort — thorough observation before the Enemy maps that ground first.
 
-> *"Dirwaith has given us the ford. But a ford is only half of a crossing. I need to know what is waiting on the far side before I ask thirty men and their horses to wade a river in single file."* — Halbarad
+*Workout: Base Run · Aerobic Effort · July 20, 2026*
 
-Limrandir runs ahead to the Greyflood ford — to the mill-stump shallows Dirwaith described — crosses alone, and scouts the western bank for Dunlending outrider sign, ford depth markers, and road conditions on the far side. The Company's crossing depends on what he finds.
-
-**Consequence if skipped:** The Company fords blind. Two horses founder in an unexpected silt-shelf. A Dunlending outrider observes the crossing, raises his horn, and rides south before he can be stopped. The Company crosses safely but has been seen and counted. The road through Dunland will be harder for it.
-
-*Workout: Base Run · Aerobic Effort · July 16, 2026*
+**Consequence if skipped:** The Company marches blind onto the junction ground. The warg-riders, having re-ranged from the eastern ridge, find the column at the most exposed moment. Delay at a bottleneck is the warg-riders' preferred ground, and the ambush long deferred finally arrives.
 
 ## Upcoming Quests
 
-- **July 16:** Q-014 · The Far-Bank Survey (Base Run) ← **TODAY**
+- No additional workouts scheduled beyond today.
 
 ## Campaign Status
 
-**Location:** Tharbad, Greyflood Ford approach — Eriador's last crossing  
-**Act:** I — Eriador: Haunted Roads and Hidden Enemies  
-**Completed Quests:** 12  
-**Missed Quests:** 1 (Q-009 road survey)  
-**Active Plot Threads:** The March South, Golasgil's Betrayal (mounting evidence — boot-prints, patrol gaps, failed reports), The Shapes in the Barrow Downs (unidentified — Elladan silent on the matter), The Nazgûl's Hunt (dormant — last confirmed west of Misty Mountains), Dirwaith's Memory (a thread to follow), The Greyflood Crossing (imminent)
+**Location:** Dunland foothills — western parallel track, approaching southern road junction
+**Act:** II — Dunland to the Gap: Fire and Pursuit (active)
+**Completed Quests:** 15
+**Missed Quests:** 1 (Q-009 road survey — Golasgil's failed patrol)
+**Active Plot Threads:** The March South (primary), Golasgil's Betrayal (mounting — Halbarad silent and watching), The Shapes in the Barrow Downs (unidentified, Elladan silent), The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains), Dirwaith's Memory (unresolved — "Tell the sons of Elrond that I remember their father"), The Warg Scout Pack (outmaneuvered at eastern bottleneck — re-ranging; position unknown)

@@ -117,8 +117,8 @@ The Grey Company crosses into Rohan. Under Saruman's shadow, Edoras is closed to
 | Cardolan — Northern Fringe | ✅ In transit | Act I, Week 1 |
 | Cardolan — Barrow Downs (deep) | ✅ Crossed | Act I, Week 1–2 |
 | The Greenway Crossing | Upcoming | Act I, Week 2 |
-| Tharbad — Greyflood Ford | **▶ Current** | Act I, Week 3 |
-| Dunland Hills | Upcoming | Act II, Week 5–6 |
+| Tharbad — Greyflood Ford | ✅ Crossed | Act I, Week 3 |
+| Dunland Hills | **▶ Current** | Act II, Week 5–6 |
 | Gap of Rohan | Upcoming | Act II, Week 7 |
 | Rohan — Western Plains | Upcoming | Act III, Week 8–9 |
 | Edoras (bypassed) | Upcoming | Act III, Week 9–10 |
@@ -295,15 +295,93 @@ Dirwaith spoke in the precise notation of a former Gondorian field scout — a s
 
 ---
 
-### July 16, 2026 — On the Threshold of the Greyflood
+### July 16, 2026 — The Greyflood Crossing
 
-**Daily Note:** Limrandir's endurance has eased back slightly from yesterday's effort to 7119 — the aerobic base remains firmly within the Ranger-Scout tier but the slight dip is noted. All other attributes are unchanged: Strength holds at 50 (Hill-man of Emyn Uial, threshold even), Will at 403 (Vigor of Annúminas), Constitution at 41.1 km (Warden of the North Downs), and Spirit at 55.0 (Roar of Rauros). Perceived age holds at 31.2 — the Númenórean gift unchanged.
+Limrandir ran the far-bank survey before dawn — wading the Greyflood at the mill-stump shallows, gravel underfoot, water to the hip, solid bottom throughout. He scouted south along the overgrown Gondorian road on the western bank, found no Dunlending sign in the treeline, marked ford-depth stakes at four intervals, and returned to the eastern bank before the Company had broken camp. Halbarad read his notes at the waterside and ordered the crossing for mid-morning. Two hours later, thirty Rangers and their horses were across the Greyflood without incident. One horse slipped briefly near the mill-stump but regained footing in a stride. No enemy presence on either bank.
 
-No new titles have been unlocked. The next thresholds — Endurance of the Far-Ranger (7200), Watcher of the Weather Hills (55), Resolve of Rivendell (410), Explorer of Old Fornost (43 km), and Breath of the West Wind (57) — all remain close. Each consistent week of running pushes Limrandir closer to one or more of them.
+**Eriador is behind them.** Act I's geographic objective — the crossing of the Greyflood at Tharbad — is complete. The Company now stands in the wild fringe-country between Cardolan and Dunland, the river to their backs and rough hill-country ahead.
 
-**Scheduled:** Limrandir runs the far-bank survey of the Greyflood ford today (Q-014). The crossing of the Greyflood, and the true departure from Eriador, awaits.
+**Attribute Note:** Endurance settled to 7112 today — a modest dip from yesterday's 7119, well within the Ranger-Scout tier. Spirit nudged up to 55.2, showing first progress above the Roar of Rauros threshold; no rank change, but the improvement is visible. All other attributes unchanged. No new titles unlocked.
+
+**Plot Status:** The warg scout pack last seen moving parallel to the Company's route south has been silent two days — absence of sign is not reassurance. Golasgil has been quiet and watchful since the failed road patrol debacle; he is trying to rebuild standing with Halbarad and not succeeding. The Company's crossing was unobserved, as far as anyone knows. The road into Dunland is open — and Saruman's reach extends through every hill-clan chieftain who owes him tithe.
 
 ---
 
-*Last updated: July 16, 2026*  
-*Next planned update: July 17, 2026*
+### July 17, 2026 — First Morning in Dunland
+
+The Greyflood crossing settled without celebration. Halbarad turned his horse south at sunrise and rode without calling muster; the Company followed in silence, reading his mood correctly. Eriador lay grey and spent behind them. The hills ahead were darker and older, shaped by a different hand.
+
+No running workout was recorded today — a quiet march day with no advance scouting logged. The Company made its first league into the Dunland foothills under overcast skies, moving in close order on a road that exists now only as a faint depression in the grass where Gondorian stone once ran. Limrandir consulted his atlas at the midday halt and confirmed their bearing. The old maps showed a waystation three leagues south — ruins now, almost certainly, but elevated ground and a defensible courtyard. Halbarad marked it as the night's camp without debate.
+
+**Attribute Status (July 17):** Endurance 7112 · Strength 50 · Will 403 · Constitution 41.1 km · Spirit 55.2. Perceived Age 31.2. No new titles.
+
+**Unresolved Threads:**
+- The warg scout pack (last confirmed: moving south, parallel route, unaccounted for)
+- Golasgil's loyalty (third anomaly — road patrol with gaps; Halbarad watching)
+- The Shapes in the Barrow Downs (unidentified, Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father")
+
+**Upcoming:** No scheduled workouts in the log. The march continues south into Dunland. Next running quest will chart the foothills.
+
+---
+
+### July 18, 2026 — The Endurance Rises; Dunland Scouts Ahead
+
+The first full day since crossing the Greyflood, and the Company's overnight halt at the old Cardolan waystation confirmed the choice was sound — defensible walls, clear sight-lines, no warg-sign on the perimeter. Limrandir spent the dusk working the waystation's broken stonework in an informal strength session: thirty-six metres of climbing across a collapsed gatehouse lintel and a scramble through a ruined vault. No quest had been assigned; the session was voluntary, and Elrohir watched from across the cookfire with the quiet attention of a man cataloguing what he sees.
+
+**Attribute Note:** Endurance surged to 7165 — the most significant single-day gain in weeks, driven by the sustained base mileage of Act I's final approach and the Greyflood crossing. Within the Ranger-Scout tier, the progress bar now stands at 6 of 10 blocks; the Far-Ranger threshold of 7200 is within reach, perhaps one or two hard base runs away. All other attributes remain stable: Will holds at 403 (Vigor of Annúminas, 3/10 blocks), Constitution at 41.1 km (Warden of the North Downs, 4/10 blocks), Spirit at 55.2 (Roar of Rauros, 1/10 blocks). Hill score data was unavailable today; Strength and Spirit carried forward from prior report. Perceived Age holds at 31.2.
+
+**Upcoming Quest:** Q-015 — The First Track into Dunland (Base Scout · July 18). Halbarad has ordered terrain mapping for the next three leagues of foothills before the main column moves. The warg scout pack unaccounted for since Golasgil's failed patrol has not been sighted in three days — silence that is more unsettling than noise. Maedhron has been riding the flank; if the warg-pack finds the column before Limrandir finds the warg-pack, the youngest Ranger will bear the brunt of it.
+
+**Unresolved Threads:**
+- The warg scout pack (three days without sighting — danger rising)
+- Golasgil's loyalty (watchful, subdued since the failed patrol)
+- The Shapes in the Barrow Downs (Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father" — not yet delivered to Elladan or Elrohir)
+
+---
+
+### July 19, 2026 — The Pack Revealed; The Deep Trail Opens
+
+The silence was the warning. Three days without warg-sign is not reassurance — it is the pause before a decision. Limrandir ran the first league of Dunland foothills at dusk on the eighteenth, methodical and unhurried, mapping the broken ridgelines and track-crossings at recovery effort. He found no warg pack on the near ground. He found the evidence of one at the gully edge: gnawed bone two days old, four-toed prints in rain-smeared mud. The pack had rested there. It was close.
+
+Halbarad pulled Maedhron from the flank immediately upon reading the field chart. No announcement to the Company; no alarm call. Only the quiet repositioning of the youngest Ranger away from the exposed ground he had held for two days. Limrandir watched the adjustment and understood: Halbarad had been expecting exactly this report. He had left Maedhron exposed as a deliberate risk, calculated to be withdrawn the moment the pack's position was confirmed. It had worked — this time. Maedhron did not know how close the calculation had been.
+
+**Attribute Note:** Endurance settled slightly to 7150 from yesterday's 7165 — a modest daily variance well within the Ranger-Scout tier. Progress bar moves to 5 of 10 blocks toward the Far-Ranger threshold of 7200. Will (LT power) eased to 401, progress now at 1/10 block. Constitution holds at 41.1 km, 4/10 blocks. Hill score data remains unavailable; Strength and Spirit carried forward at 50 and 55.2 respectively. Perceived Age stable at 31.2.
+
+**Upcoming Quest:** Q-016 — The Deep Trail of the Dunland Foothills (Base Scout · July 19). The second and third leagues south require mapping before the column can move: ridgeline watchers, bottleneck passages, the continued track of the warg pack. The pack is alive. It knows approximately where the Company is. The question is whether Limrandir finds their next position before they find the column's.
+
+**Unresolved Threads:**
+- The warg scout pack (confirmed alive — gully evidence July 18; position now one league south and unknown)
+- Golasgil's loyalty (quiet, watchful; Halbarad has not spoken to him directly since the road patrol)
+- The Shapes in the Barrow Downs (Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father" — not yet delivered)
+
+---
+
+### July 20, 2026 — The Pack Outmaneuvered; The Western Track Opens
+
+The intelligence from Q-016 proved decisive. Limrandir ran nearly ten leagues of the second and third Dunland leagues before first light on the nineteenth, pushing into the ridge-country at a sustained tempo — harder than the recovery pace of the day before, but the terrain demanded it. He found the warg pack's shifted position on a blind eastern ridge above the second bottleneck: a cold camp, stripped bones, and fresh tracks pointed toward the exact passage the Company would have funnelled through. The pack had repositioned overnight. It had been expecting them.
+
+Halbarad's response was immediate and wordless: the column angles west, taking the higher parallel track. Two leagues longer, but above the ridgeline the warg-riders were watching. By the time the pack discovers its empty vantage point, the Company will be through the transition ground and reforming on the southern road. Maedhron was told only that the eastern ground was rougher. He accepted this without question. The youngest Ranger does not yet understand how many times in the last week his life has been the variable in Halbarad's calculations.
+
+**Attribute Note:** Endurance settled to 7130 today — a modest dip of twenty points from yesterday's 7150, still firmly in the Ranger-Scout tier (progress bar at 3/10 blocks toward Far-Ranger at 7200). Will holds at 401 (Vigor of Annúminas, 1/10 blocks). The most significant movement is in Constitution: running tolerance rose to 42.2 km this week — a gain of 1.1 km — pushing the progress bar from 4 to 7 blocks within the Warden of the North Downs tier. The Explorer of Old Fornost threshold at 43 km is within a single hard week's reach. Hill score data remains unavailable; Strength and Spirit carried forward at 50 and 55.2. Perceived Age holds at 31.2. No new titles unlocked.
+
+**Plot Advancement:** Q-016 resolved — the Deep Trail complete. Q-017 (The Outer Edge of Dunland) now open: Limrandir must survey the route-junction where the western track rejoins the southern road before the Company commits to it. If the warg pack re-ranges and reaches that ground first, the delay the Company has earned will count for nothing.
+
+**Unresolved Threads:**
+- The warg scout pack (outmaneuvered at eastern bottleneck; re-ranging; position unknown — will they find the western track?)
+- Golasgil's loyalty (quiet since the failed road patrol; Halbarad has not addressed him directly in days — the silence is deliberate)
+- The Shapes in the Barrow Downs (Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father" — not yet delivered)
+
+**Upcoming:** Q-017 — survey the junction ground before the column moves. The Gap of Rohan is now visible on the horizon of the campaign's progress; the Company is one or two weeks of hard marching from the outer Wold. Éorwyn's introduction draws closer.
+
+---
+
+*Last updated: July 20, 2026*
+*Next planned update: July 21, 2026*

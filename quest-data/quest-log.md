@@ -165,17 +165,79 @@ Dirwaith spoke for two hours without rushing, in the flat, precise diction of an
 ---
 
 ### Q-014 · The Far-Bank Survey
-**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ⬜ Open
+**Date:** July 16, 2026 · **Type:** Base Scout · **Status:** ✅ Completed
 
 > *"Dirwaith has given us the ford. But a ford is only half of a crossing. I need to know what is waiting on the far side before I ask thirty men and their horses to wade a river in single file."* — Halbarad
 
 With Dirwaith's corrected bearings in hand, the Company moves at dawn toward the Greyflood. Limrandir runs ahead — not to the old Gondorian crossing marked on every map in the Company's saddlebags, but two hundred yards upstream, to the shifted shallows at the mill-stump Dirwaith described. He will cross alone and scout the western bank: mark the ford depth with set stones for the horsemen, check the treeline on the far side for Dunlending outrider sign, and determine whether the overgrown Gondorian road on the southern bank remains passable for a column of riders. The day is overcast. The Greyflood runs grey and cold. The far bank is very quiet — which is either good news or the worst kind of silence.
 
-**Consequence if skipped:** The Company approaches the Greyflood ford without confirmation of depth, bottom, or far-bank threats. When the horsemen enter the shallows, two mounts founder in an unexpected silt-shelf and are swept fifty yards downstream before regaining footing. The delay and noise draws a Dunlending outrider to the riverbank. He observes the crossing before Halbador can reach him, raises a horn, and rides south at speed. The Company crosses safely — but they have been seen, counted, and reported. The road through Dunland will be harder for it.
+Limrandir crossed before first light, wading the mill-stump shallows at hip depth — the footing solid gravel and stone, no silt-shelf, the bottom firm enough for loaded horses. On the far bank he ran south along the overgrown Gondorian road through the grey morning. The treeline held no Dunlending sign: no fire-ash, no tether-posts, no cut watch-points in the brush. The road's stone foundation remained passable — broad enough for a column of riders, though three sections where the verge had slumped required single file. He marked those sections with set stones and drove ford-depth stakes cut from a fallen branch at four intervals across the shallows.
 
-*Workout Description: Base Run · Aerobic Effort · July 16, 2026*
+He was back on the eastern bank before the Company had broken camp, notes complete. Halbarad read them at the waterside. When he looked up, he said: "We cross in two hours." Elladan checked each ford-marker notation against his own reading of the water and gave a single nod. The crossing of the Greyflood — Eriador's last ward between the grey north and the wilder south — was formally ordered. Limrandir changed into dry clothes and said nothing further, but when Elrohir clapped him on the shoulder and said "Quick-foot walks on water now, does he?" the Company laughed for the first time in days.
+
+*Training Evidence: 5.95 km, ~30 min, avg HR 146, 55m elevation gain, aerobic base — July 16, 2026.*
 
 ---
 
-*Campaign Phase: Act I — Eriador*  
-*Completed Quests: 12 · Missed: 1 · Open: 1*
+---
+
+### Minor Entry · Camp Drills in the Dunland Foothills
+**Date:** July 17, 2026 · **Type:** Strength / Climbing · **Status:** ✅ Logged (No prior quest assigned)
+
+The Company camped that first Dunland night at the ruined waystation Limrandir had marked from his atlas — elevated ground, defensible walls, the smell of old stone and dry grass replacing the river-damp of Cardolan. With no advance scouting run ordered and the march day behind them, Halbarad gave the Rangers two hours of free exercise at dusk. Limrandir worked the ruined walls. The waystation's remaining stonework offered a crude bouldering circuit along a collapsed gatehouse lintel and a near-vertical interior staircase face — thirty-six metres of broken footholds over the course of ten minutes of focused climbing, then a separate indoor scramble through a collapsed storage vault. Not the tower-training of the Cardolan drills, but functional enough: grip strength, footwork on loose stone, the discipline of reading a route before committing to it.
+
+He finished as the cookfire was lit, hands dusted grey with old mortar, and sat down beside Elrohir, who glanced at his hands and said nothing until the food was served — then quietly: "You know there are stairs inside the Paths of the Dead." Limrandir said he had read as much in the atlas. Elrohir said: "They are not like these stairs." He did not elaborate, and the meal passed in comfortable silence.
+
+*Training Evidence: Indoor climbing — 36m elevation gain, ~10 min, avg HR 110, max HR 151; Bouldering — ~8 min, avg HR 113, max HR 136; recovery effort — July 17, 2026.*
+
+---
+
+### Q-015 · The First Track into Dunland
+**Date:** July 18, 2026 · **Type:** Base Scout · **Status:** ✅ Completed
+
+The Company breaks camp with the Greyflood two days behind it and the Dunland foothills rising in broken ridges ahead. Saruman's reach extends through every hill-chieftain who owes him tithe, and the warg scout pack that Golasgil failed to report has not been sighted in three days — which means it is either gone or watching from somewhere Limrandir has not yet charted. Halbarad needs the next three leagues of terrain mapped before the main body moves: campsite options on elevated ground, any track-crossing or hollow wide enough to funnel riders into a kill-zone, fresh warg-sign if it exists. The order is base effort — steady, observant, thorough. No sprinting unless something requires it.
+
+Limrandir set out at dusk, the Dunland sky pressing low and iron-coloured above the foothills. He ran the first league at a deliberate recovery pace — Halbarad had told him to be thorough, not fast, and the terrain rewarded patience: broken ridgelines, hollow ground between old rockfalls, three track-crossings where a file of riders could be funnelled into single file and held. He marked each one in his field notes without lingering. The near ground was empty of warg-sign. The silence held through the first league and into the low ground beyond.
+
+Then, at the lip of a shallow stream gully at the furthest extent of the patrol, he found what three days of silence had concealed: a scatter of gnawed bone — not old, not weather-bleached, but grey-wet and fly-scattered, no more than two days dead. A deer carcass, pulled apart with the systematic waste of a pack at rest. Four-toed prints in the mud at the gully edge, smeared by rain but unmistakeable. The warg pack had been here. It had eaten. It had waited.
+
+He mapped the gully and the prints and ran back to camp without urgency — no call to alarm, no sprint, but every note precise. He set the field chart on Halbarad's saddle-pack without a word and sat by the fire. Halbarad picked it up and read it in silence. When he looked up, he said: "They're not gone. They're waiting for us to think they're gone." He called Maedhron in from the flank immediately.
+
+*Training Evidence: 3.34 km, ~17 min, recovery effort, avg HR 142, 28m elevation gain — July 18, 2026.*
+
+---
+
+### Q-016 · The Deep Trail of the Dunland Foothills
+**Date:** July 19, 2026 · **Type:** Base Scout · **Status:** ✅ Completed
+
+Yesterday's recovery patrol mapped the near ground and found the warg pack's resting gully — gnawed bone, four-toed prints, and the smell of an ambush deferred. Today Halbarad needs the deeper country: the second and third leagues south, where the ridgelines crowd together and the old Dunlending cattle-tracks offer the kind of cover a warg-rider patrol could exploit at will. Limrandir must run the ground at base effort — check the ridge crests for watchers, walk the hollow-bottom track-ways to read their footing, determine whether the Company can pass the second bottleneck ridge in column or must break into exposed single file. The warg pack is alive and close. The pace today is measured because observation is what matters, not speed.
+
+**Consequence if skipped:** The Company advances into the second and third leagues blind. Wulfric's warg-riders are already positioned on the ridgelines with clear sight-lines to the column's approach. The ambush is triggered on the second bottleneck ridge — and Maedhron, still riding the flank, is the first man cut off.
+
+*Workout: Base Run · Aerobic Effort · July 19, 2026*
+
+Limrandir set out before first light, the iron-grey Dunland hills pressing close on both sides as he ran south from the Company's camp. The second league was everything the first had suggested: ridgelines converging into bottleneck passages, hollow ground between old rockfalls deep enough to conceal a dozen riders, and the overgrown cattle-tracks of the Dunlendings cutting east and west across the road. He took the higher ground where the terrain allowed, running the ridge-crests at a measured tempo to check each summit for watchers before committing to the track below.
+
+He found the warg pack's shifted position at the far edge of the third league — not the animals themselves, but their fresh sign: a fire cold by three days, bones claw-stripped from something considerably larger than the deer at the gully, and fresh tracks climbing toward a blind eastern ridge. Not foraging. Positioning. The pack had moved overnight and was now watching the ridge directly above the second bottleneck — the exact passage through which the Company's column would funnel if they advanced without intelligence. Limrandir held cover for fifteen minutes on the opposing slope, counted the signs, mapped the angles. He ran back at tempo: fast enough to be useful, careful enough to leave no mark on the loose shale.
+
+He laid his notes at Halbarad's fire without a word. Halbarad read them for two minutes and ordered the column to angle west, taking the higher parallel track — two leagues longer, above the ridgeline the pack was watching. The warg-riders would find empty country where they had expected a column of thirty. When Maedhron heard the route change and asked the reason, Limrandir told him the eastern ground was rougher. It was not a lie.
+
+*Training Evidence: 9.83 km, ~48 min, 72m elevation gain, aerobic tempo effort (training effect 3.8), avg HR 151, max HR 168 — Glastonbury foothills, July 19, 2026.*
+
+---
+
+## Open Quests
+
+### Q-017 · The Outer Edge of Dunland
+**Date:** July 20, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+
+The western detour has bought the Company a clean passage through the bottleneck ridges — but bought time is not the same as safety. The warg pack, finding the eastern ridge empty at dawn, will already be re-ranging to relocate the column. Halbarad needs the transition ground surveyed before the Company moves: where the parallel western track rejoins the main southward road, whether any Dunlending clan-camp or signal fire is visible from the high ground, and whether the pack's likely re-approach path crosses the Company's new line of march. The task is base effort — map the junction ground before the Enemy maps it for them, and if the pack is already close, bring that news back at pace.
+
+**Consequence if skipped:** The western detour brings the Company out onto open ground at the route-junction blind. The warg-riders, having re-ranged from the eastern ridge, find the column at the most exposed moment — narrow track, no cover, Wulfric's outriders on the overlooking ground. The ambush is not averted. It is only delayed, and delay at a bottleneck is the warg-riders' preferred ground.
+
+*Workout: Base Run · Aerobic Effort · July 20, 2026*
+
+---
+
+*Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
+*Completed Quests: 15 · Missed: 1 · Open: 1*

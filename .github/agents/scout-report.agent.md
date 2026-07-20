@@ -27,6 +27,7 @@ Do not describe hypothetical changes. Update file contents.
 
 - Execute once for "today" using the current local date in the runtime environment.
 - Keep edits minimal and preserve markdown structure unless required sections are missing.
+- make the edits to the local file system. not attempt to commit the edits.
 
 # Primary Objectives
 
