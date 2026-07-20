@@ -39,8 +39,8 @@ def build_report(
     hill_score: dict[str, Any],
     lactate_threshold: dict[str, Any],
     running_tolerance: dict[str, Any],
-    errors: dict[str, str],
-    vo2max: float
+    vo2max: float,
+    errors: dict[str, str]
 ) -> dict[str, Any]:
     if not hill_score or not endurance_score or not fitnessage_data or not lactate_threshold or not running_tolerance:
         status = "failed"
