@@ -207,10 +207,8 @@ He mapped the gully and the prints and ran back to camp without urgency — no c
 
 ---
 
-## Open Quests
-
 ### Q-016 · The Deep Trail of the Dunland Foothills
-**Date:** July 19, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+**Date:** July 19, 2026 · **Type:** Base Scout · **Status:** ✅ Completed
 
 Yesterday's recovery patrol mapped the near ground and found the warg pack's resting gully — gnawed bone, four-toed prints, and the smell of an ambush deferred. Today Halbarad needs the deeper country: the second and third leagues south, where the ridgelines crowd together and the old Dunlending cattle-tracks offer the kind of cover a warg-rider patrol could exploit at will. Limrandir must run the ground at base effort — check the ridge crests for watchers, walk the hollow-bottom track-ways to read their footing, determine whether the Company can pass the second bottleneck ridge in column or must break into exposed single file. The warg pack is alive and close. The pace today is measured because observation is what matters, not speed.
 
@@ -218,7 +216,28 @@ Yesterday's recovery patrol mapped the near ground and found the warg pack's res
 
 *Workout: Base Run · Aerobic Effort · July 19, 2026*
 
+Limrandir set out before first light, the iron-grey Dunland hills pressing close on both sides as he ran south from the Company's camp. The second league was everything the first had suggested: ridgelines converging into bottleneck passages, hollow ground between old rockfalls deep enough to conceal a dozen riders, and the overgrown cattle-tracks of the Dunlendings cutting east and west across the road. He took the higher ground where the terrain allowed, running the ridge-crests at a measured tempo to check each summit for watchers before committing to the track below.
+
+He found the warg pack's shifted position at the far edge of the third league — not the animals themselves, but their fresh sign: a fire cold by three days, bones claw-stripped from something considerably larger than the deer at the gully, and fresh tracks climbing toward a blind eastern ridge. Not foraging. Positioning. The pack had moved overnight and was now watching the ridge directly above the second bottleneck — the exact passage through which the Company's column would funnel if they advanced without intelligence. Limrandir held cover for fifteen minutes on the opposing slope, counted the signs, mapped the angles. He ran back at tempo: fast enough to be useful, careful enough to leave no mark on the loose shale.
+
+He laid his notes at Halbarad's fire without a word. Halbarad read them for two minutes and ordered the column to angle west, taking the higher parallel track — two leagues longer, above the ridgeline the pack was watching. The warg-riders would find empty country where they had expected a column of thirty. When Maedhron heard the route change and asked the reason, Limrandir told him the eastern ground was rougher. It was not a lie.
+
+*Training Evidence: 9.83 km, ~48 min, 72m elevation gain, aerobic tempo effort (training effect 3.8), avg HR 151, max HR 168 — Glastonbury foothills, July 19, 2026.*
+
 ---
 
-*Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*  
-*Completed Quests: 14 · Missed: 1 · Open: 1*
+## Open Quests
+
+### Q-017 · The Outer Edge of Dunland
+**Date:** July 20, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+
+The western detour has bought the Company a clean passage through the bottleneck ridges — but bought time is not the same as safety. The warg pack, finding the eastern ridge empty at dawn, will already be re-ranging to relocate the column. Halbarad needs the transition ground surveyed before the Company moves: where the parallel western track rejoins the main southward road, whether any Dunlending clan-camp or signal fire is visible from the high ground, and whether the pack's likely re-approach path crosses the Company's new line of march. The task is base effort — map the junction ground before the Enemy maps it for them, and if the pack is already close, bring that news back at pace.
+
+**Consequence if skipped:** The western detour brings the Company out onto open ground at the route-junction blind. The warg-riders, having re-ranged from the eastern ridge, find the column at the most exposed moment — narrow track, no cover, Wulfric's outriders on the overlooking ground. The ambush is not averted. It is only delayed, and delay at a bottleneck is the warg-riders' preferred ground.
+
+*Workout: Base Run · Aerobic Effort · July 20, 2026*
+
+---
+
+*Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
+*Completed Quests: 15 · Missed: 1 · Open: 1*

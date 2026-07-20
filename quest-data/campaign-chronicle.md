@@ -362,5 +362,26 @@ Halbarad pulled Maedhron from the flank immediately upon reading the field chart
 
 ---
 
-*Last updated: July 19, 2026*  
-*Next planned update: July 20, 2026*
+### July 20, 2026 — The Pack Outmaneuvered; The Western Track Opens
+
+The intelligence from Q-016 proved decisive. Limrandir ran nearly ten leagues of the second and third Dunland leagues before first light on the nineteenth, pushing into the ridge-country at a sustained tempo — harder than the recovery pace of the day before, but the terrain demanded it. He found the warg pack's shifted position on a blind eastern ridge above the second bottleneck: a cold camp, stripped bones, and fresh tracks pointed toward the exact passage the Company would have funnelled through. The pack had repositioned overnight. It had been expecting them.
+
+Halbarad's response was immediate and wordless: the column angles west, taking the higher parallel track. Two leagues longer, but above the ridgeline the warg-riders were watching. By the time the pack discovers its empty vantage point, the Company will be through the transition ground and reforming on the southern road. Maedhron was told only that the eastern ground was rougher. He accepted this without question. The youngest Ranger does not yet understand how many times in the last week his life has been the variable in Halbarad's calculations.
+
+**Attribute Note:** Endurance settled to 7130 today — a modest dip of twenty points from yesterday's 7150, still firmly in the Ranger-Scout tier (progress bar at 3/10 blocks toward Far-Ranger at 7200). Will holds at 401 (Vigor of Annúminas, 1/10 blocks). The most significant movement is in Constitution: running tolerance rose to 42.2 km this week — a gain of 1.1 km — pushing the progress bar from 4 to 7 blocks within the Warden of the North Downs tier. The Explorer of Old Fornost threshold at 43 km is within a single hard week's reach. Hill score data remains unavailable; Strength and Spirit carried forward at 50 and 55.2. Perceived Age holds at 31.2. No new titles unlocked.
+
+**Plot Advancement:** Q-016 resolved — the Deep Trail complete. Q-017 (The Outer Edge of Dunland) now open: Limrandir must survey the route-junction where the western track rejoins the southern road before the Company commits to it. If the warg pack re-ranges and reaches that ground first, the delay the Company has earned will count for nothing.
+
+**Unresolved Threads:**
+- The warg scout pack (outmaneuvered at eastern bottleneck; re-ranging; position unknown — will they find the western track?)
+- Golasgil's loyalty (quiet since the failed road patrol; Halbarad has not addressed him directly in days — the silence is deliberate)
+- The Shapes in the Barrow Downs (Elladan silent)
+- The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains)
+- Dirwaith's thread ("Tell the sons of Elrond that I remember their father" — not yet delivered)
+
+**Upcoming:** Q-017 — survey the junction ground before the column moves. The Gap of Rohan is now visible on the horizon of the campaign's progress; the Company is one or two weeks of hard marching from the outer Wold. Éorwyn's introduction draws closer.
+
+---
+
+*Last updated: July 20, 2026*
+*Next planned update: July 21, 2026*
