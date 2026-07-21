@@ -383,5 +383,30 @@ Halbarad's response was immediate and wordless: the column angles west, taking t
 
 ---
 
-*Last updated: July 20, 2026*
-*Next planned update: July 21, 2026*
+---
+
+### July 21, 2026 — The Junction Breach; Wulfric Moves
+
+The junction ground was not surveyed in time. Halbarad pushed the column through the transition at pace on the twentieth, and Wulfric's outriders were waiting. Two volleys from the overlooking ground — not a full ambush, but a ranging display. Maedhron's horse took a shaft in the flank and must be led for the next league. No Ranger was lost. But the ground is compromised now, and Wulfric carries intelligence he did not have yesterday: the Company's order of march, their pace, the direction of their heading. One rider broke away from the outrider group and cut south on the low road at speed.
+
+Limrandir's Spirit surged to 56.0 — a measurable leap forward and the deepest reading of Roar of Rauros yet, progress now at five of ten blocks toward the Breath of the West Wind. His endurance dipped slightly to 7121, settling back two blocks from yesterday's position; the dip is the cost of a day spent bouldering rather than running. All other attributes stable. Perceived Age holds at 31.2.
+
+**The outrider's message** is this day's central threat. A lone rider on the low road moves fast with intelligence for Wulfric's main camp. Limrandir has been dispatched on a sprint — cutting the cattle-track spur-ridges marked in his atlas to intercept or deter the rider before the message reaches Wulfric. If the message gets through, the ambush the Company has outmaneuvered twice will be set on better ground, with better intelligence, and no gap to exploit.
+
+**Attribute Note:** Spirit now reads 56.0 (using hill_score.vo2Max as fallback, consistent with Garmin data — raw vo2max field returned zero today). The five-block jump in Spirit's progress bar is the most significant single-session stat movement in several days. Endurance (7121) settled nine points from yesterday, still firmly Ranger-Scout tier but two blocks of progress lost on the Far-Ranger run. No new titles unlocked. Constitution remains at 42.2 km — one strong training week from the Explorer of Old Fornost threshold.
+
+**Major Outcome:** Q-017 missed. Wulfric's outriders have observed the column. The lone rider on the low road is today's mission. The sprint is not optional.
+
+**Unresolved Threads:**
+- **The warg scout pack** — outmaneuvered at the eastern bottleneck, but now re-ranging with fresh information after the junction sighting. Wulfric knows the Company is moving south.
+- **Golasgil's loyalty** — quiet, watchful; has said nothing about the junction incident; Halbarad watches him from across the fire with the patience of a man waiting for a specific mistake.
+- **The Shapes in the Barrow Downs** — Elladan has said nothing since the crossing; the shapes did not follow. But the question of what they were has not been answered.
+- **The Nazgul's Hunt** — dormant, last confirmed west of the Misty Mountains.
+- **Dirwaith's thread** — "Tell the sons of Elrond that I remember their father." Not yet delivered to Elladan or Elrohir.
+
+**Upcoming:** Q-018 — Sprint South: Cut the Outrider's Angle. If Limrandir succeeds, the Company buys another day's advance with Wulfric's intelligence still incomplete. The Gap of Rohan is one or two hard weeks ahead. Éorwyn of Rohan approaches on the campaign horizon.
+
+---
+
+*Last updated: July 21, 2026*
+*Next planned update: July 22, 2026*

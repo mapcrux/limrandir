@@ -226,18 +226,42 @@ He laid his notes at Halbarad's fire without a word. Halbarad read them for two 
 
 ---
 
+## ❌ Missed Quest — July 20, 2026
+
+### Q-017 · The Outer Edge of Dunland *(Missed)*
+**Date:** July 20, 2026 · **Type:** Base Scout · **Status:** ❌ Not Undertaken
+
+The western detour had bought the Company a clean passage through the bottleneck ridges — but bought time is not the same as safety. The warg pack, finding the eastern ridge empty at dawn, would already be re-ranging to relocate the column. Halbarad needed the transition ground surveyed before the Company moved: where the parallel western track rejoined the main southward road, whether any Dunlending clan-camp or signal fire was visible from the high ground, and whether the pack's likely re-approach path crossed the Company's new line of march.
+
+The survey run was not made. Halbarad pushed the column through the transition ground at pace, keeping the Company moving rather than waiting. Limrandir, assigned no formal scouting task, spent the evening working the broken crags above camp — a bouldering circuit on the stone face above the company's fire, reading the rock in fading light — a preparation for harder terrain ahead, but not the junction survey Halbarad had needed. When the column reached the route-junction the following morning, the ground was not empty. Wulfric's outriders had found it first. The riders on the overlooking ground loosed two volleys before withdrawing south — testing range, mapping the column's speed and spacing. No Company member was killed, but Maedhron's horse took a shaft through the flank and had to be led. The animal will recover. The ground does not: Wulfric now knows the Company's pace, direction, and rough order of march. He will not waste his next position on ranging shots.
+
+*Consequence: Wulfric's outriders have observed the column at the junction and withdrawn with intelligence. The enemy now holds a significant advantage. Next scouting mission must account for the possibility that Wulfric's forces are ahead of the line of march, not behind it.*
+
+---
+
+### Minor Entry · Bouldering Above the Dunland Camp
+**Date:** July 20, 2026 · **Type:** Strength / Climbing · **Status:** ✅ Logged (No prior quest assigned)
+
+After the column pushed through the transition ground and made camp on the elevated ground south of the junction, Limrandir drew no scouting assignment for the evening. He worked the crags above camp instead — an hour of bouldering on the broken stone face rising behind the fire-ring, seventy metres of broken limestone offering exactly the kind of footwork training the Paths of the Dead would demand in Act III. The session was unhurried: route-reading before committing, deliberate weight-transfer on loose footing, the patient discipline of a man who knows that panic on a bad hold will not save him any faster than patience.
+
+Elrohir came up the slope to watch midway through, settling on a flat outcrop with the ease of a man who finds vertical ground comfortable. He said nothing until Limrandir had finished the longest traverse and was examining the next hold-line. Then: "The Dead do not use the stairs, strictly speaking. But the stones are still there." He meant it as encouragement. The fire below looked very small.
+
+*Training Evidence: Bouldering session — ~71 min total, avg HR 81, max HR 136, recovery effort (training effect 0.6) — July 20, 2026.*
+
+---
+
 ## Open Quests
 
-### Q-017 · The Outer Edge of Dunland
-**Date:** July 20, 2026 · **Type:** Base Scout · **Status:** 🔵 Open
+### Q-018 · The Sprint South: Cut the Outrider's Angle
+**Date:** July 21, 2026 · **Type:** Sprint / Anaerobic Effort · **Status:** 🔵 Open
 
-The western detour has bought the Company a clean passage through the bottleneck ridges — but bought time is not the same as safety. The warg pack, finding the eastern ridge empty at dawn, will already be re-ranging to relocate the column. Halbarad needs the transition ground surveyed before the Company moves: where the parallel western track rejoins the main southward road, whether any Dunlending clan-camp or signal fire is visible from the high ground, and whether the pack's likely re-approach path crosses the Company's new line of march. The task is base effort — map the junction ground before the Enemy maps it for them, and if the pack is already close, bring that news back at pace.
+Wulfric's outriders rode south after their ranging shots at the junction — but one was seen breaking away alone on a lighter horse, cutting toward the lower road. A lone rider on the low road at speed means one thing: a message being carried. If it reaches Wulfric's main camp before the Company is clear of the foothills, the ambush that the western detour deferred will be set with full knowledge of the column's route, pace, and order of march. The mounted outrider has the advantage of a horse; Limrandir has the advantage of knowing the short-cuts — every hollow, every spur-ridge, every diagonal cattle-track that cuts the road's loops — marked in his atlas since the first morning in Dunland. He must sprint hard, cut the outrider's angle on the low road, and determine whether the message has been passed. If it has not, his presence alone may deter the rider long enough for the Company to clear the ground. If it has — he must memorize the direction the rider rode and bring that intelligence back at the same speed he left.
 
-**Consequence if skipped:** The western detour brings the Company out onto open ground at the route-junction blind. The warg-riders, having re-ranged from the eastern ridge, find the column at the most exposed moment — narrow track, no cover, Wulfric's outriders on the overlooking ground. The ambush is not averted. It is only delayed, and delay at a bottleneck is the warg-riders' preferred ground.
+**Consequence if skipped:** The message reaches Wulfric unimpeded. He repositions his main warg-rider force ahead of the Company's predicted line, selecting the ideal ambush ground in the hills south of the foothills. The next major scout mission will find that ground already taken, and the Company will be marching toward a trap it has no way to detect at distance.
 
-*Workout: Base Run · Aerobic Effort · July 20, 2026*
+*Workout: Sprint · Anaerobic Effort · July 21, 2026*
 
 ---
 
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 15 · Missed: 1 · Open: 1*
+*Completed Quests: 15 · Missed: 2 · Open: 1*
