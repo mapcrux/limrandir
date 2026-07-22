@@ -28,14 +28,7 @@ None — Q-018 was completed.
 
 ## Quests Scheduled For Today (From Quest Log)
 
-### Q-019 · The Still of the Southern Approach 🔵
-**Date:** July 22, 2026 · **Type:** Recovery Scout
-
-The sprint cost Limrandir's legs their reserve. Halbarad assigns a light recovery patrol of the valley's southern exit — easy effort, eyes on the low road for fresh outrider sign, and confirmation that the rider who withdrew north did not circle around before dawn. The warg pack is still unlocated. Wulfric employs parallel riders as standard contingency. A quiet run today may be what keeps the column from a worse surprise tomorrow.
-
-*Workout: Recovery · Easy Effort · July 22, 2026*
-
-**Consequence if skipped:** If Wulfric used a parallel cattle-track rider, the full message may have been delivered regardless. The Company would advance into the southern valley unaware that Wulfric's forces are already moving ahead of their line of march.
+There are no quests scheduled for today.
 
 ## Upcoming Quests
 
