@@ -77,10 +77,6 @@
   "status": "success",
   "vo2max": 55.5,
   "workouts": [
-    {
-      "date": "2026-07-22",
-      "sportTypeKey": "running",
-      "title": "Recovery"
-    }
+    
   ]
 }
