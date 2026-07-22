@@ -271,14 +271,6 @@ He emerged above the road — standing still, blocking the direct southern line 
 
 ## Open Quests
 
-### Q-019 · The Still of the Southern Approach
-**Date:** July 22, 2026 · **Type:** Recovery Scout · **Status:** 🔵 Open
-
-The sprint that turned the outrider cost Limrandir's legs what no base run requires. Halbarad sees it in how he moves across camp when he returns — the careful economy of a man drawing on the last reserve — and assigns him a light patrol of the valley's southern exit before the column commits to it. Not urgent mapping, not hard terrain: a quiet recovery circuit at easy effort, confirming the low road south is clear of fresh outrider sign and that the rider who withdrew north did not circle around in the hours before dawn. The warg pack's position remains unconfirmed. Wulfric employs parallel riders when one route is blocked — a contingency any experienced hill-commander uses. A rested eye on the southern ground is not optional, even on a recovery day. It is especially required on a recovery day, when the Company most wants to believe the road is safe.
-
-**Consequence if ignored:** The Company advances into the valley's southern exit unobserved. If Wulfric dispatched a second rider on the parallel cattle-track route before Limrandir blocked the main road, the full message was delivered regardless, and Wulfric's forces are already moving into the hills ahead of the column's line of march. The Company will not know until the ambush is set and there is no longer any gap to exploit.
-
-*Workout: Recovery · Easy Effort · July 22, 2026*
 
 ---
 
