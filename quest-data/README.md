@@ -1,44 +1,41 @@
 # Quest Data Daily Summary
 
-**Report Date:** July 21, 2026
-**Window Reviewed:** Last day (July 20, 2026 to July 21, 2026)
+**Report Date:** July 22, 2026
+**Window Reviewed:** Last day (July 21, 2026 to July 22, 2026)
 
 ## New Titles Achieved In The Last Day
 
-None. All titles remain stable, though Spirit made a significant mid-tier leap:
+None. All titles remain stable.
 
-- Endurance (bronwë): **Endurance of the Ranger-Scout** (7121, threshold 7100) — dipped 9 points from 7130; progress bar at 2/10 blocks. Next threshold: Endurance of the Far-Ranger at 7200 — no running recorded yesterday; the gap widens slightly.
+- Endurance (bronwë): **Endurance of the Ranger-Scout** (7159, threshold 7100) — rose 38 points from 7121; progress bar at 6/10 blocks. The sprint south accelerated endurance accumulation. Next threshold: Endurance of the Far-Ranger at 7200.
 - Strength (Tû): **Hill-man of Emyn Uial** (50, threshold 50) — stable; 0/10 blocks. Next threshold: Watcher of the Weather Hills at 55.
 - Will (Nîdh): **Vigor of Annúminas** (401, threshold 400) — stable; 1/10 block. Next threshold: Resolve of Rivendell at 410.
-- Constitution (Hûn): **Warden of the North Downs** (42.2 km, threshold 40) — unchanged at 7/10 blocks. Explorer of Old Fornost threshold at 43 km is within a single strong training week's reach.
-- Spirit (Sûl): **Roar of Rauros** (56.0, threshold 55) — **jumped from 1/10 to 5/10 blocks** (55.2 → 56.0). Hill score data available today; fallback to hill_score.vo2Max = 56.0 used (raw vo2max field returned zero). Next threshold: Breath of the West Wind at 57.
+- Constitution (Hûn): **Warden of the North Downs** (42.2 km, threshold 40) — stable at 7/10 blocks. Explorer of Old Fornost threshold at 43 km within one strong training week's reach.
+- Spirit (Sûl): **Roar of Rauros** (55.5, threshold 55) — corrected from yesterday's fallback reading; actual vo2max = 55.5 (prior entry used hill_score.vo2Max = 56.0 as raw field returned zero). Progress bar settles to 3/10 blocks. Next threshold: Breath of the West Wind at 57.
 
 ## Quests Completed Yesterday (From Quest Log)
 
-None — no running activity recorded on July 20.
+### Q-018 · The Sprint South: Cut the Outrider's Angle ✅
+**Date:** July 21, 2026 · **Type:** Sprint / Anaerobic Effort
 
-### Minor Entry · Bouldering Above the Dunland Camp ✅ (Logged)
-**Date:** July 20, 2026 · **Type:** Strength / Climbing
+Wulfric's outrider rode south from the junction with fresh intelligence for the main camp. Limrandir cut the angle via the atlas-marked spur-ridge cattle-tracks, appearing on the low road above the rider before the relay station was reached. The outrider turned north and withdrew — message undelivered. Halbarad read the field notes and said: "Good." The Company's margin held for one more day.
 
-After the column pushed through the transition ground, Limrandir worked the crags above camp for roughly 71 minutes — 70+ metres of broken limestone bouldering above the Company's fire. Recovery effort (training effect 0.6), avg HR 81, max HR 136. Elrohir watched from a flat outcrop above and offered cryptic encouragement about the Paths of the Dead. The session sharpened footwork and grip strength but did not complete the assigned junction survey.
+*Training Evidence: 8.65 km, ~54 min, 71m elevation gain, TE 3.2/2.9 (Speed), avg HR 136, max HR 170 — Glastonbury, July 21, 2026.*
 
 ## Quests Missed Yesterday (From Quest Log)
 
-### Q-017 · The Outer Edge of Dunland ❌
-**Date:** July 20, 2026 · **Type:** Base Scout
-
-The junction survey was not undertaken. Halbarad pushed the column through the transition ground before the survey could be run. Wulfric's outriders found the column at the route-junction and loosed two ranging volleys from the overlooking ground — Maedhron's horse took a shaft in the flank. One outrider broke south on the low road carrying intelligence for Wulfric's main camp. The warg-riders now hold a significant information advantage.
+None — Q-018 was completed.
 
 ## Quests Scheduled For Today (From Quest Log)
 
-### Q-018 · The Sprint South: Cut the Outrider's Angle 🔵
-**Date:** July 21, 2026 · **Type:** Sprint / Anaerobic Effort
+### Q-019 · The Still of the Southern Approach 🔵
+**Date:** July 22, 2026 · **Type:** Recovery Scout
 
-One of Wulfric's outriders broke away from the junction encounter and rode south at speed on the low road — carrying fresh intelligence about the Company's order of march, pace, and direction. Limrandir must sprint hard using his atlas's knowledge of the spur-ridge cattle-tracks to cut the outrider's angle on the low road. If the message reaches Wulfric's main camp unimpeded, the ambush that has been deferred twice will be reset on better ground with full knowledge of the column's route.
+The sprint cost Limrandir's legs their reserve. Halbarad assigns a light recovery patrol of the valley's southern exit — easy effort, eyes on the low road for fresh outrider sign, and confirmation that the rider who withdrew north did not circle around before dawn. The warg pack is still unlocated. Wulfric employs parallel riders as standard contingency. A quiet run today may be what keeps the column from a worse surprise tomorrow.
 
-*Workout: Sprint · Anaerobic Effort · July 21, 2026*
+*Workout: Recovery · Easy Effort · July 22, 2026*
 
-**Consequence if skipped:** Wulfric repositions his main warg-rider force ahead of the Company's predicted line of march. The next scouting mission will find the ambush ground already taken — and the Company marching toward a trap it cannot detect at range.
+**Consequence if skipped:** If Wulfric used a parallel cattle-track rider, the full message may have been delivered regardless. The Company would advance into the southern valley unaware that Wulfric's forces are already moving ahead of their line of march.
 
 ## Upcoming Quests
 
@@ -46,8 +43,8 @@ One of Wulfric's outriders broke away from the junction encounter and rode south
 
 ## Campaign Status
 
-**Location:** Dunland foothills — south of the route-junction; column moving toward the outer Wold
+**Location:** Dunland foothills — south of the route-junction; column preparing to advance on the southern valley
 **Act:** II — Dunland to the Gap: Fire and Pursuit (active)
-**Completed Quests:** 15
+**Completed Quests:** 16
 **Missed Quests:** 2 (Q-009 road survey — Golasgil's failed patrol; Q-017 junction survey — column moved before run)
-**Active Plot Threads:** The March South (primary), Wulfric's Outriders (junction sighted — intelligence compromised), Golasgil's Betrayal (mounting — Halbarad silent and watching), The Shapes in the Barrow Downs (unidentified, Elladan silent), The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains), Dirwaith's Memory (unresolved — "Tell the sons of Elrond that I remember their father"), The Warg Scout Pack (re-ranging; junction now observed)
+**Active Plot Threads:** The March South (primary), Wulfric's Outriders (message turned — intelligence delay bought; pack position unknown), Golasgil's Betrayal (mounting — Halbarad silent and watching), The Shapes in the Barrow Downs (unidentified, Elladan silent), The Nazgul's Hunt (dormant — last confirmed west of Misty Mountains), Dirwaith's Memory (unresolved — "Tell the sons of Elrond that I remember their father"), The Warg Scout Pack (re-ranging; last position: eastern bottleneck, found empty)

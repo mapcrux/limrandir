@@ -253,7 +253,7 @@ Elrohir came up the slope to watch midway through, settling on a flat outcrop wi
 ## Open Quests
 
 ### Q-018 · The Sprint South: Cut the Outrider's Angle
-**Date:** July 21, 2026 · **Type:** Sprint / Anaerobic Effort · **Status:** 🔵 Open
+**Date:** July 21, 2026 · **Type:** Sprint / Anaerobic Effort · **Status:** ✅ Completed
 
 Wulfric's outriders rode south after their ranging shots at the junction — but one was seen breaking away alone on a lighter horse, cutting toward the lower road. A lone rider on the low road at speed means one thing: a message being carried. If it reaches Wulfric's main camp before the Company is clear of the foothills, the ambush that the western detour deferred will be set with full knowledge of the column's route, pace, and order of march. The mounted outrider has the advantage of a horse; Limrandir has the advantage of knowing the short-cuts — every hollow, every spur-ridge, every diagonal cattle-track that cuts the road's loops — marked in his atlas since the first morning in Dunland. He must sprint hard, cut the outrider's angle on the low road, and determine whether the message has been passed. If it has not, his presence alone may deter the rider long enough for the Company to clear the ground. If it has — he must memorize the direction the rider rode and bring that intelligence back at the same speed he left.
 
@@ -261,7 +261,26 @@ Wulfric's outriders rode south after their ranging shots at the junction — but
 
 *Workout: Sprint · Anaerobic Effort · July 21, 2026*
 
+Limrandir left the junction at a controlled sprint, following the spur-ridge cattle-tracks his atlas had charted in the first days of Dunland — paths the Dunlendings used for driving stock, too narrow for a horse at speed but perfectly cut for a runner who knew the angles. The low road curves broadly through the valley bottom in four long loops where the gradient eases. The tracks cut through all four. By the second ridge he had gained most of the outrider's head start and could hear the horse on the road below before he reached the final crest.
+
+He emerged above the road — standing still, blocking the direct southern line — and the outrider saw him. For a held breath neither moved. Then the rider reined hard, wheeled his horse north, and withdrew at a controlled canter: not panicked, but unwilling to press past a Ranger who had appeared from the high ground with clear knowledge of the approach. The relay station where the message was destined lay six leagues south. The rider did not reach it. Limrandir held the track-head until the horse was out of sight, memorised the direction and gate of the withdrawal, then ran back to the Company. He set his field notes on Halbarad's fire-stone without ceremony: direction of retreat, the intended destination inferred from the route bearing, the valley junction blocked. Halbarad read them once. He said: "Good." From Halbarad, three letters are a speech.
+
+*Training Evidence: 8.65 km, ~54 min, 71m elevation gain, training effect 3.2 aerobic / 2.9 anaerobic (Speed), avg HR 136, max HR 170 — Glastonbury, July 21, 2026.*
+
+---
+
+## Open Quests
+
+### Q-019 · The Still of the Southern Approach
+**Date:** July 22, 2026 · **Type:** Recovery Scout · **Status:** 🔵 Open
+
+The sprint that turned the outrider cost Limrandir's legs what no base run requires. Halbarad sees it in how he moves across camp when he returns — the careful economy of a man drawing on the last reserve — and assigns him a light patrol of the valley's southern exit before the column commits to it. Not urgent mapping, not hard terrain: a quiet recovery circuit at easy effort, confirming the low road south is clear of fresh outrider sign and that the rider who withdrew north did not circle around in the hours before dawn. The warg pack's position remains unconfirmed. Wulfric employs parallel riders when one route is blocked — a contingency any experienced hill-commander uses. A rested eye on the southern ground is not optional, even on a recovery day. It is especially required on a recovery day, when the Company most wants to believe the road is safe.
+
+**Consequence if ignored:** The Company advances into the valley's southern exit unobserved. If Wulfric dispatched a second rider on the parallel cattle-track route before Limrandir blocked the main road, the full message was delivered regardless, and Wulfric's forces are already moving into the hills ahead of the column's line of march. The Company will not know until the ambush is set and there is no longer any gap to exploit.
+
+*Workout: Recovery · Easy Effort · July 22, 2026*
+
 ---
 
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 15 · Missed: 2 · Open: 1*
+*Completed Quests: 16 · Missed: 2 · Open: 1*

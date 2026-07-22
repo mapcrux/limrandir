@@ -408,5 +408,22 @@ Limrandir's Spirit surged to 56.0 — a measurable leap forward and the deepest 
 
 ---
 
-*Last updated: July 21, 2026*
-*Next planned update: July 22, 2026*
+### July 22, 2026 — The Message Turned; The South Road Holds
+
+The sprint was completed. Limrandir cut the outrider's angle on the low road by running the atlas's spur-ridge cattle-tracks — ground no horse can take at speed, but a runner who has charted them can cover in two-thirds the time. He appeared above the low road before the rider reached the relay station, and the sight of a lone Ranger commanding the high ground was enough: the outrider wheeled and withdrew north. Wulfric's intelligence advantage from the junction — the Company's order of march, pace, and direction — was not compounded by a fresh bearing. For one more day, the Company has the margin.
+
+**Attribute Note:** Endurance rose to 7159 on the back of the sprint effort — a gain of 38 points, pushing the progress bar to 6/10 blocks toward the Far-Ranger threshold of 7200. The sprint's combined aerobic and anaerobic load accelerated the endurance accumulation that base running builds more slowly. Spirit corrected to 55.5: today's Garmin report returns the actual vo2max reading (55.5), where yesterday's entry used hill_score.vo2Max = 56.0 as a fallback because the raw field returned zero; the title remains Roar of Rauros, but the progress bar settles to 3/10 blocks rather than the previously reported 5/10. Will holds at 401 (Vigor of Annúminas, 1/10), Constitution at 42.2 km (Warden of the North Downs, 7/10), Strength at 50 (Hill-man of Emyn Uial, 0/10). No new titles unlocked. Perceived Age stable at 31.2.
+
+**Plot Advancement:** Q-018 resolved — the message was turned. Wulfric retains his knowledge of the Company's general heading but not its current speed or refined position. A recovery patrol south has been assigned for July 22 (Q-019) to confirm the low road is clean before the column moves. The Gap of Rohan is two or three hard weeks ahead. Éorwyn's introduction draws near on the campaign horizon.
+
+**Unresolved Threads:**
+- **The warg scout pack** — re-ranging; position unconfirmed since the junction. Last known: watching the eastern bottleneck ridge, which it found empty.
+- **Golasgil's loyalty** — quiet and watchful; has offered no comment on the outrider incident; Halbarad continues his deliberate silence.
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them since the crossing of the Greyflood.
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains.
+- **Dirwaith's thread** — "Tell the sons of Elrond that I remember their father." Not yet delivered to Elladan or Elrohir.
+
+---
+
+*Last updated: July 22, 2026*
+*Next planned update: July 23, 2026*
