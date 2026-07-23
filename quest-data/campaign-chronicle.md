@@ -425,5 +425,25 @@ The sprint was completed. Limrandir cut the outrider's angle on the low road by 
 
 ---
 
-*Last updated: July 22, 2026*
-*Next planned update: July 23, 2026*
+### July 23, 2026 — The Second Rider; The Forward Road Opens
+
+The sprint held the line for one day, as sprints do. Halbador's overnight watch found hoof-sign on the shoulder of the low road before dawn — fresh, light horse, moving south — and the calculation shifted instantly. Wulfric had not relied on a single rider. He had sent a second along a parallel line while the first was being turned north, and Q-019's unsurveyed three leagues meant no one knew whether the second had reached the relay station or not. The Company spent the morning halted at the camp's edge, Halbarad reading the sign himself and saying nothing aloud.
+
+Limrandir's attributes settled to the day's reading: Endurance eased slightly to 7153, six points below yesterday's 7159 — a small dip attributable to the vertical work replacing a running session; still within the Ranger-Scout tier, progress bar at 5/10 blocks toward the Far-Ranger threshold of 7200. Spirit returned via fallback to 55.0 (hill_score.vo2Max), as the raw vo2max field again returned zero; progress bar settles to 0/10 blocks within the Roar of Rauros tier, down from the 55.5 actual reading yesterday. Will holds at 401, Constitution at 42.2 km, Strength at 50. No new titles. Perceived Age stable at 31.2.
+
+**Q-020 assigned:** A base run south covering the three leagues below the relay station — the ground Q-019 left dark. Limrandir carries fresh field notes on the drove-road junctions and the low road shoulder hoof-sign. The question he must answer by nightfall is whether Wulfric's second rider is a courier carrying intelligence, or a forward observer positioning ahead of the line of march.
+
+**Character note — Elrohir:** A second evening of quiet instruction at the crag-edge. His remark about metamorphic rock in the Dimholt road was not casual; it implies he has been there before, or has prepared himself for the possibility. Limrandir has not asked directly. The twins are measuring something that requires patience from everyone involved.
+
+**Unresolved Threads:**
+- **The warg scout pack** — re-ranging since the junction; position still unconfirmed. The second Wulfric rider complicates the picture: a warg-pack response to confirmed column intelligence would move faster than either outrider.
+- **Golasgil's loyalty** — unchanged; quiet, watchful, not addressed by Halbarad directly. The silence is itself a signal.
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them.
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains.
+- **Dirwaith's thread** — "Tell the sons of Elrond that I remember their father." Still undelivered.
+- **The Second Rider** — identity and destination unknown; whether Wulfric's camp now holds a current bearing on the column is the day's operative question.
+
+---
+
+*Last updated: July 23, 2026*
+*Next planned update: July 24, 2026*

@@ -269,10 +269,42 @@ He emerged above the road — standing still, blocking the direct southern line 
 
 ---
 
+## ❌ Missed Quest — July 22, 2026
+
+### Q-019 · The Low Road Survey: South of the Relay Station *(Missed)*
+**Date:** July 22, 2026 · **Type:** Recovery Scout · **Status:** ❌ Not Undertaken
+
+After the sprint that turned Wulfric's outrider north, Halbarad asked for one more thing: a quiet recovery sweep south of the relay station, three leagues along the low road, to confirm no rider had doubled back around the station using the parallel drove-roads. It was not a hard mission — a steady recovery pace, nothing more — and it would have told the Company whether the southern approach was clean before the column committed to it. Limrandir went instead to the crags. He spent the evening climbing: first the stone face above the eastern wall of camp, then a longer bouldering circuit across the collapsed lintel, his hands reading the limestone the way they read his maps. When he came down, the low road south had not been walked.
+
+The consequence arrived by morning. Halbador, leading the overnight watch from the column's front, reported fresh hoof-sign on the shoulder of the low road — light horse, moving south, no more than six hours old. Not the same outrider who had been turned north. A second rider. Wulfric had sent a second message along a parallel line that Limrandir's sprint had never covered. Whether that rider reached the relay station is not yet known. The Company advances south today with that question unanswered.
+
+*Consequence: The low road south of the relay station is unsurveyed. A second Wulfric rider is unaccounted for. The Company's current intelligence on the southern approach is incomplete. Q-020 must account for this possibility — Wulfric may already hold ground ahead of the line of march.*
+
+---
+
+### Minor Entry · Crags and Lintel — Indoor Vertical Work Above Camp
+**Date:** July 22, 2026 · **Type:** Strength / Climbing · **Status:** ✅ Logged (No prior quest assigned)
+
+The session was voluntary and deliberate. Two hours after the outrider sprint concluded, with the afternoon fading into an iron-grey Dunland dusk, Limrandir returned to the crags above camp: first a longer circuit on the indoor stone face behind the eastern wall — limestone that offered the kind of sloping footholds and undercutting shelves the Paths of the Dead would demand — and then a shorter bouldering circuit on the collapsed gatehouse lintel. He moved unhurried, reading each line before committing, conserving grip where the holds were marginal. The climbing was not about elevation. It was preparation: memorising the geometry of difficult stone, training the patience that prevents panic on a bad hold forty feet above ground no one can reach in time.
+
+Elrohir appeared again at the fire's edge as Limrandir finished the lintel traverse, this time with a whetstone in hand and no particular expression. He said nothing until Limrandir had descended and was pulling his lacing tighter. Then: "The rock in the Dimholt road is metamorphic — older than the mountains, harder than anything in Dunland. Your hands will know the difference." He returned to his blade without elaboration. Limrandir filed the information alongside the route-notes and said nothing to the others.
+
+*Training Evidence: Indoor Climbing — ~10 min, avg HR 112, max HR 155, 38m elevation gain, recovery effort. Bouldering — ~7 min, avg HR 109, max HR 134, recovery effort. Combined: ~17 min active, July 22, 2026.*
+
+---
+
 ## Open Quests
 
+### Q-020 · The Forward Road: Base Patrol South
+**Date:** July 23, 2026 · **Type:** Base Run / Scout · **Status:** 🔲 Open
+
+Halbador's pre-dawn report settled any thought of waiting: a second Wulfric rider moved south on the low road overnight, the survey run that was not made yesterday left the approach unread, and the column cannot advance blind a second time in three days. Halbarad has assigned Limrandir a base pace run south — long enough to cover the unsurveyed section of the low road, chart the drove-road junctions where a relay rider might pass a message, and determine whether fresh hoof-sign runs through any of the three grass-covered tracks that diverge from the road in the first league south of the relay station. It is not a sprint. The terrain demands observation, not speed. Limrandir knows the low road as far as the relay station; today he maps what comes after it, and brings back the intelligence that Q-019's absence left in shadow.
+
+**Consequence if skipped:** The Company moves south without current intelligence on the track junction south of the relay station. If Wulfric's second rider succeeded, a warg-rider response patrol may already be moving north to probe the column's progress. Advancing without ground truth on that junction is precisely the mistake that gave Wulfric the advantage at the route-junction three days ago.
+
+*Workout: Base · Running · July 23, 2026*
 
 ---
 
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 16 · Missed: 2 · Open: 1*
+*Completed Quests: 16 · Missed: 3 · Open: 1*
