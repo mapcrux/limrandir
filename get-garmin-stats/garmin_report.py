@@ -217,7 +217,7 @@ def main() -> int:
         
     try:
         workouts_raw =  client.get_scheduled_workouts(report_date.year, report_date.month)
-        workouts = [{key: workout[key] for key in {"date", "sportTypeKey", "title"} if key in workout} for workout in workouts_raw.get("calendarItems",[]) if workout.get("date", "") in {(report_date + timedelta(days=offset)).strftime('%Y-%m-%d') for offset in range(1, 4)}]
+        workouts = [{key: workout[key] for key in {"date", "sportTypeKey", "title"} if key in workout} for workout in workouts_raw.get("calendarItems",[]) if workout.get("date", "") in {(report_date + timedelta(days=offset)).strftime('%Y-%m-%d') for offset in range(0, 4)}]
     except Exception as exc:  
         report_errors["workouts"] = f"{type(exc).__name__}: {exc}"
     
