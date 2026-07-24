@@ -463,7 +463,7 @@ Halbarad called a very quiet briefing. He did not assign blame for Q-019. He ass
 - **The Nazgul's Hunt** — dormant.
 - **Dirwaith's thread** — "Tell the sons of Elrond that I remember their father." Still undelivered.
 
-**Upcoming:** Q-021 — Sprint to the Southern Ridge. If the ridge is held, the column cannot advance without a fight. If it is empty, the Company has one half-day to press through. The Gap of Rohan edges closer on the horizon.
+**Upcoming:** Q-021 — Jog to the Southern Ridge. If the ridge is held, the column cannot advance without a fight. If it is empty, the Company has one half-day to press through. The Gap of Rohan edges closer on the horizon.
 
 ---
 
