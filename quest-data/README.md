@@ -28,10 +28,10 @@ None. Q-020 was completed as assigned.
 
 ## Quests Scheduled For Today (From Quest Log)
 
-### Q-021 · The Warg-Rider's Position: Sprint to the Southern Ridge 🔲
-**Date:** July 24, 2026 · **Type:** Sprint
+### Q-021 · The Warg-Rider's Position: Jog to the Southern Ridge 🔲
+**Date:** July 24, 2026 · **Type:** Light Jog
 
-Wulfric now holds a current bearing on the column. Before the Company advances, Limrandir must sprint to the first commanding ridge on the southern approach and confirm whether Wulfric's main warg-rider force has already taken it. Speed is the operative requirement — every minute of delay is a minute the enemy spends reinforcing the high ground.
+Wulfric now holds a current bearing on the column. Before the Company advances, Limrandir must Jog to the first commanding ridge on the southern approach and confirm whether Wulfric's main warg-rider force has already taken it. Speed is the operative requirement — every minute of delay is a minute the enemy spends reinforcing the high ground.
 
 ## Upcoming Quests
 
