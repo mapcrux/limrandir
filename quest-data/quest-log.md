@@ -314,14 +314,14 @@ There he found it: the second rider's track, pressed clean into the verge at the
 
 ## Open Quests
 
-### Q-021 · The Warg-Rider's Position: Sprint to the Southern Ridge
-**Date:** July 24, 2026 · **Type:** Sprint · **Status:** 🔲 Open
+### Q-021 · The Warg-Rider's Position: Jog to the Southern Ridge
+**Date:** July 24, 2026 · **Type:** Jog · **Status:** 🔲 Open
 
 The second rider's message is in Wulfric's hands. That intelligence — the Company's order of march, their pace, and last confirmed bearing south — is enough for a seasoned warg-rider captain to abandon reactive pursuit and set a blocking position ahead of the line of march instead. Halbarad's pre-dawn briefing ended with a single directive: before the column moves today, Limrandir must sprint the leagues to the first commanding ridge on the southern approach and determine whether Wulfric's main force has already taken it. If the ridge is held by warg-riders, they will see the column emerging from the last line of cover with a league of open ground between them and no retreat worth taking. If the ridge is empty, the Company has this half-day to press through before Wulfric closes the angle. Every minute of delay is a minute Wulfric's riders spend reinforcing the high ground. Speed, not observation, is the point today.
 
 **Consequence if skipped:** The column advances south without current intelligence on the commanding ridge. Wulfric, armed with the second rider's bearing and now positioned on the high ground, will watch the Company crest the last cover and commit to the open valley below — the ambush that has been deferred three times will finally be sprung on ground entirely of the enemy's choosing, and there will be no parallel track to save them.
 
-*Workout: Sprint · Running · July 24, 2026*
+*Workout: Jog · Running · July 24, 2026*
 
 ---
 
