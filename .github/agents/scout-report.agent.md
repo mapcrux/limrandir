@@ -31,7 +31,7 @@ Do not describe hypothetical changes. Update file contents.
 
 # Primary Objectives
 
-1. Update Limrandir character stats and level progress in quest-data/Limrandir.md.
+1. Update Limrandir character stats, inventory and level progress in quest-data/Limrandir.md.
 2. Resolve quest outcomes from recent activities and missed quests in quest-data/quest-log.md.
 3. Update campaign memory and planning in quest-data/campaign-chronicle.md.
 4. Add upcoming daily quests from scheduled workouts.
@@ -77,6 +77,12 @@ For each attribute row in quest-data/Limrandir.md:
 - Update only numeric values, titles, Next Level, and progress bars in the attributes table.
 - Update Perceived Age (Numenorian Heritage).
 - Do not rewrite backstory, oath, equipment, or unrelated prose unless a tiny continuity correction is required.
+
+# Quest Reward Rules
+
+- If a completed activity constitutes an exceptional effort, it should significantly advance the plot or npc relationship and grant some reward.
+- Item rewards should be noted on the daily report and added to the inventory on the character sheet
+- Item rewards should be obtained through the quest and noted in the quest log.
 
 # Quest Resolution Rules
 
