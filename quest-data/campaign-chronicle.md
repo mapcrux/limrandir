@@ -486,7 +486,7 @@ Halbarad said nothing about the failure. He called a noon briefing, announced th
 - **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains
 - **Dirwaith's thread** — "Tell the sons of Elrond that I remember their father." Still undelivered to Elladan or Elrohir
 
-**Upcoming:** Q-022 — Epic Trail Run in the White Mountains. July 26. The survey-path is in the atlas. Whether it still holds is the question Limrandir must answer before the column can move again.
+**Upcoming:** Q-022 — Epic Trail Run in the White Mountains. July 27. The survey-path is in the atlas. Whether it still holds is the question Limrandir must answer before the column can move again.
 
 ---
 
