@@ -1,57 +1,13 @@
 {
-  "activities": [
-    {
-      "activityName": "Glastonbury Running",
-      "activityTrainingLoad": 49.16288757324219,
-      "activityType": "running",
-      "aerobicTrainingEffect": 2.5,
-      "aerobicTrainingEffectMessage": "MAINTAINING_AEROBIC_FITNESS_1",
-      "anaerobicTrainingEffect": 0.0,
-      "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
-      "averageHR": 136.0,
-      "averageRunningCadenceInStepsPerMinute": 129.796875,
-      "averageSpeed": 2.690000057220459,
-      "avgPower": 283.0,
-      "beginTimestamp": 1784840847000,
-      "calories": 313.0,
-      "distance": 4026.820068359375,
-      "duration": 1496.760009765625,
-      "elapsedDuration": 2214.9951171875,
-      "elevationGain": 37.0,
-      "elevationLoss": 36.0,
-      "hrTimeInZone_1": 574.115,
-      "hrTimeInZone_2": 698.792,
-      "hrTimeInZone_3": 68.949,
-      "hrTimeInZone_4": 0.0,
-      "hrTimeInZone_5": 0.0,
-      "locationName": "Glastonbury",
-      "maxHR": 163.0,
-      "maxPower": 502.0,
-      "maxSpeed": 4.730999946594238,
-      "moderateIntensityMinutes": 3,
-      "movingDuration": 1361.0,
-      "powerTimeInZone_1": 245.867,
-      "powerTimeInZone_2": 352.653,
-      "powerTimeInZone_3": 339.7,
-      "powerTimeInZone_4": 170.882,
-      "powerTimeInZone_5": 12.004,
-      "pr": false,
-      "startTimeLocal": "2026-07-23 17:07:27",
-      "steps": 3376,
-      "trainingEffectLabel": "AEROBIC_BASE",
-      "vO2MaxValue": 55.0,
-      "vigorousIntensityMinutes": 22,
-      "waterEstimated": 396.0
-    }
-  ],
-  "endurance_score": 7156,
+  "activities": [],
+  "endurance_score": 7176,
   "errors": {},
   "fitnessage_data": {
     "achievableFitnessAge": 32.587329130811334,
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-24T09:51:07.366993+00:00",
+  "generated_at": "2026-07-25T09:35:47.319106+00:00",
   "hill_score": {
     "enduranceScore": 26,
     "overallScore": 50,
@@ -65,22 +21,22 @@
     "speed": 0.39722111000000004,
     "weight": 73.028
   },
-  "report_date": "2026-07-24",
+  "report_date": "2026-07-25",
   "running_tolerance": {
-    "calendarDate": "2026-07-24",
-    "endOfWeek": "2026-07-24",
+    "calendarDate": "2026-07-25",
+    "endOfWeek": "2026-07-25",
     "startOfWeek": "2026-07-19",
     "tolerance": 42240,
     "totalDistance": 22506.0,
     "totalImpactLoad": 26220
   },
   "status": "success",
-  "vo2max": 55.6,
+  "vo2max": 0,
   "workouts": [
     {
-      "date": "2026-07-24",
+      "date": "2026-07-26",
       "sportTypeKey": "running",
-      "title": "Sprint"
+      "title": "Epic Trail Run in the White Mountains"
     }
   ]
 }
