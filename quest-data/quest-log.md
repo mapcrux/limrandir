@@ -314,9 +314,31 @@ There he found it: the second rider's track, pressed clean into the verge at the
 
 ## Open Quests
 
+## ❌ Missed Quest — July 24, 2026
 
+### Q-021 · The Warg-Rider's Position: Jog to the Southern Ridge *(Missed)*
+**Date:** July 24, 2026 · **Type:** Base Run / Scout · **Status:** ❌ Not Undertaken
+
+With Wulfric's second rider confirmed to have delivered his message, Halbarad had asked Limrandir to run the first commanding ridge south of the relay station before dawn — to determine whether Wulfric's blocking force was already moving to occupy the high ground that overlooked the Company's only viable approach road. The run was a base effort, not a sprint: two leagues south and six hundred feet of elevation, enough to see the ridge crest and the approach tracks on either side. It was not optional. Halbarad had said so the night before. He had said nothing in the morning when the mission was not taken up.
+
+By mid-morning, Halbador's flankers reported movement on the southern ridge — dark shapes against the skyline, the brief glint of warg-rider tack in the early light, and a banner planted squarely on the commanding summit that Q-021 had been meant to reach before them. Wulfric's blocking force had occupied the ridge. The direct approach south was now held ground, with clear sight-lines to any column moving up the road below. The Company's advance stalled. Halbarad called a terse briefing at noon and changed nothing in his voice or bearing when he announced the detour; he did not assign blame in front of the Company. He assigned Q-022 instead — a bypass route through the high passes — and went back to his maps.
+
+*Consequence: Wulfric's blocking force holds the commanding ridge south of the relay station. The direct approach road is compromised and the Company requires an alternate route. Every day the column waits, Wulfric's position strengthens and his warg-riders extend their watch radius. Q-022 must find the bypass through the old Gondorian survey-path in the high passes before the Company risks the low road.*
+
+---
+
+## Open Quests
+
+### Q-022 · The High Pass Survey: Epic Trail into the White Mountain Ridges
+**Date:** July 26, 2026 · **Type:** Long Run — Epic Scout · **Status:** 🔲
+
+Halbarad unrolled Limrandir's Elvish atlas on the flat stone of the relay station that evening and pointed without speaking. The old Gondorian survey-path is marked in faded ink along the northern high ridges of the White Mountains' outriders — a route cut during the Third Age when Gondorian hill-wardens patrolled the passes above the Gap. If that path still exists, it bypasses Wulfric's occupied ridge entirely, threading the high ground east of his position and descending behind his flanks on the southern side. Limrandir must run the full length of the high pass to determine whether the path is still passable for thirty Rangers and their horses — checking stone slides, bridge crossings, footing on the exposed ridge-backs, and any sign of Dunlending or warg presence on the high ground. It is a long run at trail effort: severe terrain, cold wind, no cover on the exposed sections, and the constant possibility that the path has been blocked since the atlas was drawn. If the route holds, the Company moves at dawn the following day. If it does not, Halbarad will need to make a different calculation.
+
+**Consequence if skipped:** The column remains pinned below Wulfric's occupied ridge with no viable alternate route reconnoitred. Wulfric's blocking force extends its watch radius each day the Company holds at the relay station. A forced frontal approach on the road Wulfric commands would cost the Company dearly in ground and lives; the warg-riders are positioned for exactly that contingency. The atlas's survey-path represents the only known option for bypassing the ridge without direct engagement — and it cannot be acted upon until a runner has walked the stone.
+
+*Workout: Epic Trail Run in the White Mountains · Running · July 26, 2026*
 
 ---
 
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 17 · Missed: 3 · Open: 1*
+*Completed Quests: 17 · Missed: 4 · Open: 1*

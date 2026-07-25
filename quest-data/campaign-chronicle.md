@@ -466,5 +466,29 @@ Halbarad called a very quiet briefing. He did not assign blame for Q-019. He ass
 **Upcoming:** No upcoming quests
 ---
 
-*Last updated: July 24, 2026*
-*Next planned update: July 25, 2026*
+### July 25, 2026 — The Ridge Taken; The High Pass Assigned
+
+Q-021 was not run on July 24. The sprint to the commanding ridge south of the relay station was assigned and not undertaken. By mid-morning of the twenty-fourth, Halbador's flankers reported Wulfric's blocking force emplaced on the very summit Q-021 had been meant to reach before dawn. The direct approach south is now held ground. The Company's advance is stalled.
+
+Halbarad said nothing about the failure. He called a noon briefing, announced the route compromise in two sentences, and assigned Q-022 — an epic trail run through the old Gondorian survey-path along the high northern ridges of the White Mountains' outriders. If the path in the Elvish atlas still holds, it bypasses Wulfric's ridge entirely and descends behind his flanks. The run is July 26: long, severe, exposed, and mission-critical.
+
+**Attribute Note (July 25):** Endurance climbed to 7176 — a gain of 20 points from 7156, pushing the progress bar to 8/10 blocks within the Ranger-Scout tier. The Far-Ranger threshold of 7200 is now twenty-four points away: a single hard long run may cross it. Spirit returned via hill_score.vo2Max fallback to 56.0 (raw vo2max field returned zero again today), placing the progress bar at 5/10 blocks within the Roar of Rauros tier — the highest Spirit reading of the campaign. Will holds at 401 (Vigor of Annúminas, 1/10), Constitution stable at 42.2 km (Warden of the North Downs, 7/10), Strength at 50 (Hill-man of Emyn Uial, 0/10). Perceived Age stable at 31.2. No new titles, but the endurance trajectory is sharp: Limrandir is within reach of Endurance of the Far-Ranger for the first time.
+
+**Character note — Halbarad:** The briefing was the quietest of the campaign. He drew no conclusions aloud, assigned no fault, and unrolled the atlas himself rather than waiting for Limrandir to produce it. The message was not in what he said. It was in the gesture: *you will carry your own map to the ridge this time.* Limrandir understood.
+
+**Character note — Elrohir:** Sat at the fire's edge through the briefing with a blade across his knees and said nothing until Halbarad had gone. Then, quietly: "The high path will be cold. The stone will be old stone — Gondorian cut, not Dunlending. Your feet will know it from Dirwaith's description." He returned to sharpening. The observation implied he had been thinking about this route for days.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — now holds the commanding ridge south of the relay station; direct approach compromised; warg-riders extending watch radius
+- **The warg scout pack** — position unconfirmed; likely repositioned around or ahead of Wulfric's new line
+- **Golasgil's loyalty** — quiet, watchful; Halbarad's silence unbroken
+- **The Shapes in the Barrow Downs** — Elladan silent
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains
+- **Dirwaith's thread** — "Tell the sons of Elrond that I remember their father." Still undelivered to Elladan or Elrohir
+
+**Upcoming:** Q-022 — Epic Trail Run in the White Mountains. July 26. The survey-path is in the atlas. Whether it still holds is the question Limrandir must answer before the column can move again.
+
+---
+
+*Last updated: July 25, 2026*
+*Next planned update: July 26, 2026*

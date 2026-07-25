@@ -10,6 +10,7 @@ Warden of the trail, Scout of the Dúnedain
 | --- | --- |
 | **Age** | 38 |
 | **Perceived Age (Numenorian Heritage)** | 31.2 |
+
 | **Race** | Dúnedain. Man of the West |
 | **Class** | Ranger/Scout |
 | **Homeland** | Shores of Lake Evendim |
@@ -18,11 +19,11 @@ Warden of the trail, Scout of the Dúnedain
 
 | Attribute | Current Score | Title | Progress | Next Level |
 | :--- | :--- | :--- | :---: | :--- |
-| Endurance (bronwë) | 7156 | Endurance of the Ranger-Scout | `🔴🔴🔴🔴🔴🔴⭕⭕⭕⭕` | 7200 |
+| Endurance (bronwë) | 7176 | Endurance of the Ranger-Scout | `🔴🔴🔴🔴🔴🔴🔴🔴⭕⭕` | 7200 |
 | Strength (Tû) | 50 | Hill-man of Emyn Uial | `⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕` | 55 |
 | Will (Nîdh) | 401 | Vigor of Annúminas | `🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕` | 410 |
 | Constitution (Hûn) | 42.2 | Warden of the North Downs | `🔴🔴🔴🔴🔴🔴🔴⭕⭕⭕` | 43 |
-| Spirit (Sûl) | 55.6 | Roar of Rauros | `🔴🔴🔴⭕⭕⭕⭕⭕⭕⭕` | 57 |
+| Spirit (Sûl) | 56.0 | Roar of Rauros | `🔴🔴🔴🔴🔴⭕⭕⭕⭕⭕` | 57 |
 
 ## 🛡️ Equipment
 
