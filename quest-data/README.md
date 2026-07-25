@@ -31,7 +31,7 @@ No running workout is scheduled for July 25, 2026. The Company holds at the rela
 ## Upcoming Quests
 
 ### Q-022 · The High Pass Survey: Epic Trail into the White Mountain Ridges 🔲
-**Date:** July 26, 2026 · **Type:** Long Run — Epic Scout
+**Date:** July 27, 2026 · **Type:** Long Run — Epic Scout
 
 Halbarad has assigned Limrandir a full-length survey of the old Gondorian survey-path threading the high northern ridges of the White Mountains' outriders — a route that, if still passable, would bypass Wulfric's occupied ridge and descend behind his flanks. Severe terrain, cold wind, and exposed ridgelines. The Company cannot move until this run is complete.
 
