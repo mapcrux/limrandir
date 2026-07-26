@@ -340,5 +340,16 @@ Halbarad unrolled Limrandir's Elvish atlas on the flat stone of the relay statio
 
 ---
 
+### Minor Entry · A Night Before the High Pass
+**Date:** July 26, 2026 · **Type:** Rest Day · **Status:** ✅ Logged (No quest assigned)
+
+No scouting run was ordered. Halbarad kept the Company at the relay station through the day, conserving strength for the high-pass survey tomorrow. Limrandir spent the morning reviewing the Elvish atlas by the fire, tracing the old Gondorian survey-path that would be tomorrow's road. The ink on those pages is centuries old — thinner than modern pigment, faded to the colour of rust in the margins — but the line holds: the path threads north of Wulfric's ridge and descends on the southern face behind his position.
+
+At midday, with the camp quiet and Halbarad away consulting with Halbador on the ridge watch, Limrandir found Elrohir at the eastern wall. The moment had been deferred long enough. He delivered Dirwaith's message without ceremony — "Tell the sons of Elrond that I remember their father" — and watched Elrohir go still in the particular way of a man who has not heard a name spoken aloud in a long time. A long silence followed. Then Elrohir said: "He is still at the quay?" Limrandir said he was. Elrohir said nothing further, but that evening he sought out Elladan and the two spoke privately at the camp's edge for the better part of an hour, voices too low to carry. Whatever Dirwaith's memory held, the sons of Elrond received it as though it mattered. Limrandir asked no questions. Some things are not the Scout of the Advance's to map.
+
+*Training Evidence: Rest day — no running activity recorded. Garmin report shows endurance_score 7170 (dipped 6 points from 7176), all other attributes stable — July 26, 2026.*
+
+---
+
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
 *Completed Quests: 17 · Missed: 4 · Open: 1*

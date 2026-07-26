@@ -490,5 +490,29 @@ Halbarad said nothing about the failure. He called a noon briefing, announced th
 
 ---
 
-*Last updated: July 25, 2026*
-*Next planned update: July 26, 2026*
+### July 26, 2026 — Dirwaith's Message Delivered; The Eve of the High Pass
+
+A rest day. Halbarad held the Company at the relay station, conserving strength for tomorrow's epic survey through the old Gondorian high-pass. No scouting run was ordered. Limrandir spent the morning at the fire reviewing the Elvish atlas, tracing the survey-path whose success or failure will determine whether the Company can bypass Wulfric's occupied ridge.
+
+**The Dirwaith Thread Closes — Partly.** Three weeks after leaving Tharbad, Limrandir finally delivered the ferryman's message to Elrohir: "Tell the sons of Elrond that I remember their father." The words landed with weight. Elrohir went still for a long moment and asked whether Dirwaith still kept the quay — the question of a man who intends to return, or intends to send word. That evening Elrohir sought out Elladan and the two spoke privately for nearly an hour at the camp's edge. Whatever Dirwaith's memory of their father holds, the sons of Elrond now carry it. Limrandir does not know what they said.
+
+**Attribute Note:** Endurance settled to 7170 — a dip of 6 points from yesterday's 7176, consistent with a rest day. The progress bar retreats from 8/10 to 7/10 blocks toward the Far-Ranger threshold of 7200. The threshold remains within range of a single hard long run — specifically, the one scheduled for tomorrow. Spirit holds at 56.0 (hill_score.vo2Max fallback, raw vo2max field returned zero), progress bar at 5/10 blocks toward Breath of the West Wind at 57. Will holds at 401 (1/10 blocks), Constitution at 42.2 km (7/10 blocks), Strength at 50 (0/10 blocks). Perceived Age stable at 31.2. No new titles.
+
+**Character note — Halbarad:** He ate the evening meal in silence, cleaned his blade, and went to sleep early. He said one thing before lying down: "Before first light, Limrandir. Not at first light." He expects tomorrow to be long.
+
+**Character note — Elladan:** After the private conversation with Elrohir, Elladan came to Limrandir's fire and sat for a few minutes without speaking. Then, departing: "Dirwaith was a faithful man. He carried things that were not easy to carry." He did not explain what those things were. It was not an invitation to ask.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — holds the commanding ridge; direct south approach closed; warg-riders extending watch radius
+- **The warg scout pack** — position unconfirmed; likely repositioned to cover Wulfric's flanks
+- **Golasgil's loyalty** — quiet, watchful; Halbarad's deliberate silence continues
+- **The Shapes in the Barrow Downs** — Elladan silent; Dirwaith's message may have shifted his attention, but not disclosed
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains
+- **Dirwaith's thread** — ✅ Partially resolved: message delivered to Elrohir and Elladan. What they will do with it is unknown.
+
+**Upcoming:** Q-022 — Epic Trail Run in the White Mountains. July 27. Before first light. The atlas's survey-path threads north of Wulfric's ridge. Tomorrow Limrandir finds out whether it still holds.
+
+---
+
+*Last updated: July 26, 2026*
+*Next planned update: July 27, 2026*
