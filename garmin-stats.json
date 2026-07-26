@@ -1,13 +1,13 @@
 {
   "activities": [],
-  "endurance_score": 7176,
+  "endurance_score": 7170,
   "errors": {},
   "fitnessage_data": {
     "achievableFitnessAge": 32.587329130811334,
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-25T09:35:47.319106+00:00",
+  "generated_at": "2026-07-26T09:44:23.940349+00:00",
   "hill_score": {
     "enduranceScore": 26,
     "overallScore": 50,
@@ -21,11 +21,11 @@
     "speed": 0.39722111000000004,
     "weight": 73.028
   },
-  "report_date": "2026-07-25",
+  "report_date": "2026-07-26",
   "running_tolerance": {
-    "calendarDate": "2026-07-25",
-    "endOfWeek": "2026-07-25",
-    "startOfWeek": "2026-07-19",
+    "calendarDate": "2026-07-26",
+    "endOfWeek": "2026-07-26",
+    "startOfWeek": "2026-07-26",
     "tolerance": 42240,
     "totalDistance": 22506.0,
     "totalImpactLoad": 26220
@@ -34,7 +34,7 @@
   "vo2max": 0,
   "workouts": [
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "sportTypeKey": "running",
       "title": "Epic Trail Run in the White Mountains"
     }
