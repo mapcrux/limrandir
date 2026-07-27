@@ -1,13 +1,13 @@
 {
   "activities": [],
-  "endurance_score": 7170,
+  "endurance_score": 7145,
   "errors": {},
   "fitnessage_data": {
     "achievableFitnessAge": 32.587329130811334,
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-26T09:44:23.940349+00:00",
+  "generated_at": "2026-07-27T10:22:53.279330+00:00",
   "hill_score": {
     "enduranceScore": 26,
     "overallScore": 50,
@@ -21,14 +21,14 @@
     "speed": 0.39722111000000004,
     "weight": 73.028
   },
-  "report_date": "2026-07-26",
+  "report_date": "2026-07-27",
   "running_tolerance": {
-    "calendarDate": "2026-07-26",
-    "endOfWeek": "2026-07-26",
+    "calendarDate": "2026-07-27",
+    "endOfWeek": "2026-07-27",
     "startOfWeek": "2026-07-26",
-    "tolerance": 42240,
-    "totalDistance": 22506.0,
-    "totalImpactLoad": 26220
+    "tolerance": 42536,
+    "totalDistance": 0.0,
+    "totalImpactLoad": 0
   },
   "status": "success",
   "vo2max": 0,
