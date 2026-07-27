@@ -514,5 +514,29 @@ A rest day. Halbarad held the Company at the relay station, conserving strength 
 
 ---
 
-*Last updated: July 26, 2026*
-*Next planned update: July 27, 2026*
+### July 27, 2026 — Before First Light: The High Pass Departure
+
+The morning of July 27 came cold and still. A thin mist pressed low along the foothills, muffling the relay station's sounds — the shuffle of horses, the creak of leather, the low voices of Halbador's watch — to something distant and unreal. Halbarad had gone to sleep without fanfare and risen the same way. He said nothing when Limrandir passed him in the dark, already dressed, the atlas already folded. No instruction was needed. The assignment had been given at noon the day before and it had not changed.
+
+Limrandir left camp alone, moving east and upward, the old Gondorian survey-path ahead somewhere in the dark above the foothills. The path is marked in the atlas with the particular faded precision of Third Age hill-wardens who drew what they measured and measured what they could see — surveyors working in a forgotten language of cut stone and careful elevation notes. Whether the path they drew still holds is what the Company has been waiting three days to learn. Wulfric's blocking force sits on the direct approach to the south. The only ground that bypasses it runs through the high ridges. Today, Limrandir walks the stone.
+
+**Attribute Note (July 27 morning snapshot):** Endurance settled to 7145 — down 25 from yesterday's 7170, consistent with a rest day and early-morning baseline before any exertion. Progress bar retreats to 5/10 blocks toward the Far-Ranger threshold at 7200. The threshold remains 55 points away — within reach of a hard long survey run. Constitution ticked up to 42.5 km (from 42.2), advancing the progress bar to 8/10 blocks toward Explorer of Old Fornost at 43 km — a small but genuine gain in running tolerance that arrives at the right moment. Spirit holds at 56.0 (hill_score.vo2Max fallback; raw vo2max returned zero again), progress bar 5/10 toward Breath of the West Wind at 57. Will at 401 (Vigor of Annúminas, 1/10), Strength at 50 (Hill-man of Emyn Uial, 0/10). Perceived Age stable at 31.2. No new titles.
+
+**Major Outcome:** No activity recorded at time of report. Q-022 is open. The Company holds at the relay station. Limrandir departed before first light for the high pass.
+
+**Character note — Golasgil:** He was awake when Limrandir passed the eastern watch-post, seated on a low stone with his hood up and his face unreadable in the dark. He said nothing. He watched. Halbarad, from across the camp, also watched — not Limrandir's departure, but Golasgil watching it. The silence between the two men has lasted long enough to acquire its own weight.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — holds the southern ridge; direct approach closed; warg-riders extending watch radius by the day
+- **The warg scout pack** — position unconfirmed; likely forward of Wulfric's flanks
+- **Golasgil's loyalty** — Halbarad's deliberate silence continues; Golasgil's pre-dawn vigil noted
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them since the Greyflood crossing
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains
+- **Dirwaith's thread** — ✅ delivered; Elladan and Elrohir spoke privately; what they decided is unknown
+
+**Upcoming:** Q-022 outcome pending. If the survey-path holds, the Company moves at dawn the following day. If it does not, Halbarad will need to make a different calculation.
+
+---
+
+*Last updated: July 27, 2026*
+*Next planned update: July 28, 2026*

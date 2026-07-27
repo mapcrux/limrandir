@@ -351,5 +351,16 @@ At midday, with the camp quiet and Halbarad away consulting with Halbador on the
 
 ---
 
+### Minor Entry · The High Pass Attempt: Dawn Departure, July 27
+**Date:** July 27, 2026 · **Type:** Morning – Pre-Activity · **Status:** ✅ Logged (Q-022 open; no activity recorded at time of report)
+
+Halbarad's instructions had been plain: before first light, not at first light. Limrandir was moving while the camp still breathed in the slow rhythm of sleep, the relay station a dark outline behind him and the high ground ahead lost in the same grey that covered everything before dawn in the Dunland hills. He carried the atlas folded to the survey-path pages, the old Gondorian ink barely readable in the pre-dawn dark — he had memorised the route the night before, but the atlas came anyway. Some things you do not leave behind.
+
+The morning garmin snapshot — captured at the relay station before departure — shows endurance settling to 7145 (down 25 from yesterday's 7170; consistent with a rest day and early-morning baseline before exertion), constitution ticking up to 42.5 km (from 42.2; a small but genuine advance in running tolerance, pressing the progress bar to 8/10 blocks toward the Explorer of Old Fornost threshold at 43 km). Spirit holds at 56.0 (hill_score.vo2Max fallback; raw vo2max field returned zero), Will at 401, Strength at 50. Perceived Age stable at 31.2. No new titles. The Far-Ranger threshold at 7200 remains 55 endurance points away — exactly the kind of ground a successful epic trail survey might cover.
+
+*Training Evidence: No activity recorded at time of report. Q-022 open. Garmin snapshot: July 27, 2026 at 10:22 UTC.*
+
+---
+
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
 *Completed Quests: 17 · Missed: 4 · Open: 1*
