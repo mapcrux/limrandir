@@ -19,11 +19,11 @@ Warden of the trail, Scout of the Dúnedain
 
 | Attribute | Current Score | Title | Progress | Next Level |
 | :--- | :--- | :--- | :---: | :--- |
-| Endurance (bronwë) | 7145 | Endurance of the Ranger-Scout | `🔴🔴🔴🔴🔴⭕⭕⭕⭕⭕` | 7200 |
-| Strength (Tû) | 50 | Hill-man of Emyn Uial | `⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕` | 55 |
+| Endurance (bronwë) | 7139 | Endurance of the Ranger-Scout | `🔴🔴🔴🔴⭕⭕⭕⭕⭕⭕` | 7200 |
+| Strength (Tû) | 55 | Watcher of the Weather Hills | `⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕` | 60 |
 | Will (Nîdh) | 401 | Vigor of Annúminas | `🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕` | 410 |
 | Constitution (Hûn) | 42.5 | Warden of the North Downs | `🔴🔴🔴🔴🔴🔴🔴🔴⭕⭕` | 43 |
-| Spirit (Sûl) | 56.0 | Roar of Rauros | `🔴🔴🔴🔴🔴⭕⭕⭕⭕⭕` | 57 |
+| Spirit (Sûl) | 55.4 | Roar of Rauros | `🔴🔴⭕⭕⭕⭕⭕⭕⭕⭕` | 57 |
 
 ## 🛡️ Equipment
 
@@ -31,6 +31,7 @@ Warden of the trail, Scout of the Dúnedain
 - Shortbow of the Evendim Trails
 - Ancient Atlas of Middle-earth (Elven vellum, pre-Beleriand maps)
 - Grey Company Cloak
+- Iron Survey-Disc of the White Mountain Wardens (Third Age Gondorian survey corps seal; pass designation in old Westron numerals matching the atlas marginalia — proof the high-pass survey-path was officially measured and maintained)
 
 ## 🌄 Backstory
 

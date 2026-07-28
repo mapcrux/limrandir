@@ -330,13 +330,23 @@ By mid-morning, Halbador's flankers reported movement on the southern ridge — 
 ## Open Quests
 
 ### Q-022 · The High Pass Survey: Epic Trail into the White Mountain Ridges
-**Date:** July 27, 2026 · **Type:** Long Run — Epic Scout · **Status:** 🔲
+**Date:** July 27, 2026 · **Type:** Long Run — Epic Scout · **Status:** ✅ Completed
 
 Halbarad unrolled Limrandir's Elvish atlas on the flat stone of the relay station that evening and pointed without speaking. The old Gondorian survey-path is marked in faded ink along the northern high ridges of the White Mountains' outriders — a route cut during the Third Age when Gondorian hill-wardens patrolled the passes above the Gap. If that path still exists, it bypasses Wulfric's occupied ridge entirely, threading the high ground east of his position and descending behind his flanks on the southern side. Limrandir must run the full length of the high pass to determine whether the path is still passable for thirty Rangers and their horses — checking stone slides, bridge crossings, footing on the exposed ridge-backs, and any sign of Dunlending or warg presence on the high ground. It is a long run at trail effort: severe terrain, cold wind, no cover on the exposed sections, and the constant possibility that the path has been blocked since the atlas was drawn. If the route holds, the Company moves at dawn the following day. If it does not, Halbarad will need to make a different calculation.
 
 **Consequence if skipped:** The column remains pinned below Wulfric's occupied ridge with no viable alternate route reconnoitred. Wulfric's blocking force extends its watch radius each day the Company holds at the relay station. A forced frontal approach on the road Wulfric commands would cost the Company dearly in ground and lives; the warg-riders are positioned for exactly that contingency. The atlas's survey-path represents the only known option for bypassing the ridge without direct engagement — and it cannot be acted upon until a runner has walked the stone.
 
 *Workout: Epic Trail Run in the White Mountains · Running · July 27, 2026*
+
+The departure was as ordered — before first light, the mist still pressing low against the foothills when the relay station's outline disappeared behind Limrandir at the first switchback. The old Gondorian survey-path begins as a thread of intention more than a road: cut stones set with deliberate spacing by hill-wardens who are centuries dead, hidden now under lichen and rockfall, revealed only to a man who knows what he is looking for because an atlas told him where to find it. He found the first stone with his boot before his eye, and from it the path's logic unfolded north and upward into ground no horse could have navigated even on a dry summer morning.
+
+The rain came in the second hour. Not Dunland drizzle but a proper White Mountain downpour — cold, horizontal, driven south by wind threading the high ridges from the north. His footing changed on the exposed limestone slabs above the second ridge-line, the wet rock slicked near-glaze, and he slowed without debate: picking his line carefully, following the drainage channels carved into the old Gondorian cut-stones as though reading a message left eight centuries ago by surveyors who had been rained on in exactly this way. He checked every stone slide, tested every bridge crossing with his weight before his boot committed, assessed the footing on every exposed ridge-back for what a horse would do with thirty-five pounds of Ranger and saddlebag above it. He found the high pass at grey dawn — the ridge running north of Wulfric's position exactly as the atlas had promised, the southern face descending clean behind the blocking force's entire field of sight. At the summit cairn — three stones, one rolled clear by frost-heave — he found what the Gondorian wardens always left: an iron survey-disc pressed face-down into the damp earth, its stamped designation in old Westron numerals matching Elrond's atlas marginalia stroke for stroke. He held it in his palm for a single held breath, read it once, and tucked it alongside the atlas. Then he ran the descent.
+
+He returned before the camp had finished its midday meal, thirty-one leagues of surveyed ground catalogued in field notes that used every margin he had. Halbarad was at the atlas before Limrandir had finished speaking. He read the notes once, stood looking at the rain on the eastern hills, and then said to the camp at large — not to Limrandir alone, not quietly — "The column moves before first light tomorrow." He said it with the flat certainty of a man who has been waiting three days to say exactly those words. Elladan, seated behind him, set down his blade and looked at Limrandir for a long moment. He said nothing. But the look was the look of a man updating his assessment. From Elrohir, across the fire: *"The Weather Hills knew you by name. Now the White Mountains do too."*
+
+*Training Evidence: 31.7 km, 9h 43min total / 7h 27min moving, 2067m elevation gain, aerobic base (training effect 3.9 — Improving Aerobic Endurance), avg HR 120, max HR 160, 3810 calories — White Mountains, Jackson to Washington, heavy rain, July 27, 2026.*
+
+**Reward Granted:** **Iron Survey-Disc of the White Mountain Wardens** — a palm-sized iron disc bearing the Third Age Gondorian survey corps seal and the pass designation in old Westron numerals. Found at the summit cairn, consistent with every atlas marginalia notation. Added to Limrandir's equipment alongside the atlas.
 
 ---
 
@@ -363,4 +373,4 @@ The morning garmin snapshot — captured at the relay station before departure �
 ---
 
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 17 · Missed: 4 · Open: 1*
+*Completed Quests: 18 · Missed: 4 · Open: 0*

@@ -538,5 +538,38 @@ Limrandir left camp alone, moving east and upward, the old Gondorian survey-path
 
 ---
 
-*Last updated: July 27, 2026*
-*Next planned update: July 28, 2026*
+### July 27–28, 2026 — The Path Holds; The Column Moves
+
+Q-022 is resolved. Limrandir departed the relay station before first light on July 27 and ran the old Gondorian survey-path along the high northern ridges of the White Mountains' outriders — thirty-one leagues of surveyed ground, 2067 metres of elevation gain, in rain that began in the second hour and did not ease until the descent. He returned before midday with complete field notes: every stone slide catalogued, every bridge crossing tested, every exposed ridge-back assessed for horse-weight. The path holds. It threads north of Wulfric's occupied ridge exactly as the Elvish atlas promised, and the southern face descends behind the blocking force's entire field of sight without detection risk.
+
+At the summit cairn he found a Gondorian survey-disc — an iron marker left by Third Age hill-wardens, its stamped designation in old Westron numerals matching Elrond's atlas marginalia stroke for stroke. The atlas is not conjecture. It was measured ground. He tucked the disc alongside the atlas and ran the descent in the rain.
+
+Halbarad announced the column's departure before first light on July 28 — publicly, to the full camp — the moment Limrandir finished his report. It was the first public acknowledgment of the campaign.
+
+**Title Unlocked — Strength (Tû): Watcher of the Weather Hills.** The epic mountain effort under full survey conditions, with 2067m of elevation in driving rain, elevated Limrandir's hill score to 55 — the threshold of the Watcher tier. He is trusted now to guard the ancient watch-towers. The previous title, Hill-man of Emyn Uial, no longer fits. Elrohir named it directly at the fire: "The Weather Hills knew you by name. Now the White Mountains do too."
+
+**Item Reward:** Iron Survey-Disc of the White Mountain Wardens (added to inventory).
+
+**Attribute Note (July 28):** Endurance settled to 7139 — a dip of 6 points from the pre-run morning baseline of 7145; the body absorbs the epic effort before rebuilding, and the training benefit will manifest in the days ahead. Progress bar retreats to 4/10 blocks toward the Far-Ranger threshold of 7200. Strength rose to 55 (Watcher of the Weather Hills, 0/10 blocks toward Guardian of Angmar's Marches at 60). Spirit corrected to 55.4 via the raw vo2max field (previously 56.0 via hill_score.vo2Max fallback); title remains Roar of Rauros, progress bar settles to 2/10 blocks rather than the fallback-inflated 5/10. Will holds at 401 (Vigor of Annúminas, 1/10 blocks), Constitution stable at 42.5 km (Warden of the North Downs, 8/10 blocks). Perceived Age stable at 31.2.
+
+**Character note — Elladan:** After Halbarad's announcement, Elladan studied the field notes for nearly ten minutes — longer than Halbarad had. When he returned the notes, he said to Limrandir quietly: "The survey-disc. Keep it. The King of the Dead will have seen that seal. It may be the second proof he requires." He returned to his tasks before Limrandir could ask what the first proof was.
+
+**Character note — Golasgil:** He received the departure announcement with the same expression as every other Ranger. He sharpened his blade and said nothing. Halbarad watched him from across the fire. The silence between them has not broken.
+
+**Major Outcome:** The advance is unblocked. The Company departs before first light on July 28 on the Gondorian survey-path, bypassing Wulfric's occupied ridge without direct engagement.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — ridge still occupied; will discover the bypass when the column fails to appear on the southern road; response time unknown
+- **The warg scout pack** — position unconfirmed; likely repositioned around Wulfric's flanks; the bypass may outpace their watch radius
+- **Golasgil's loyalty** — unchanged; Halbarad's deliberate silence continues through the departure
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains
+- **Dirwaith's thread** — ✅ delivered; the survey-disc now adds a second thread connecting Limrandir's atlas to an authority Elladan recognizes
+- **The Survey-Disc's Second Proof** — Elladan's remark implies it is relevant to the King of the Dead encounter in Act III; significance unconfirmed
+
+**Upcoming:** The Company moves through the high pass. The Gap of Rohan approaches on the campaign horizon. No running workouts are currently scheduled — the next quests will emerge as the column descends the southern face and enters the transition ground between Dunland and the Wold.
+
+---
+
+*Last updated: July 28, 2026*
+*Next planned update: July 29, 2026*
