@@ -571,5 +571,34 @@ Halbarad announced the column's departure before first light on July 28 — publ
 
 ---
 
-*Last updated: July 28, 2026*
-*Next planned update: July 29, 2026*
+### July 29, 2026 — The Column Descends; The Wold Draws Near
+
+A quiet day of movement. The column threaded the southern face of the Gondorian high pass without incident — clean footing, no warg presence on the high ground, no sign that Wulfric's force on the occupied ridge detected the bypass. Limrandir ran the descent ahead of the horses and returned with clear ground all the way to the first low scrub-line below the tree-limit. Halbarad's only comment at the halt was: "The atlas was right." Three words that confirmed everything the last week of careful preparation had been building toward.
+
+**Attribute Note (July 29):** Endurance settled further to 7127 — down 12 from yesterday's 7139, consistent with the body continuing to absorb the July 27 epic effort before rebuilding. Progress bar retreats to 3/10 blocks toward the Far-Ranger threshold of 7200. Spirit corrected downward to 55.0 as the raw vo2max field returned zero today, requiring use of the hill_score.vo2Max fallback (55.0); the Roar of Rauros title holds but progress bar falls to 0/10 blocks. Strength holds at 55 (Watcher of the Weather Hills, 0/10), Will at 401 (Vigor of Annúminas, 1/10), Constitution stable at 42.5 km (Warden of the North Downs, 8/10). Perceived Age stable at 31.2. No new titles.
+
+**New Quests Assigned:**
+- **Q-023** — Base patrol of the southern descent face (July 29)
+- **Q-024** — Threshold speed patrol to the Wold transition line (July 30)
+- **Q-025** — Base outrider patrol in the northern Wold (July 31)
+
+**Major Outcome:** The high pass is behind the column. The transition ground between Dunland and the Wold lies ahead. No engagement, no detection, no losses.
+
+**Character note — Halbarad:** He rode at the front of the column through the morning, saying almost nothing. When the pass was behind them and the southern light was on his face, he allowed himself one long breath and then began asking Limrandir questions about the descent — not the quality of the footing, which he had already approved, but the eastern spur: its bearing, its width, how far a warg-rider on that ground could see north. He is already thinking about what Wulfric will do when the column fails to appear on the southern road.
+
+**Character note — Golasgil:** He rode in the column's middle third, where Halbarad does not have to look directly at him but can place him without turning. He spoke to the men around him normally. He ate his midday rations without incident. Limrandir noted it and said nothing.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — ridge still occupied; when the column fails to appear on the southern road below, Wulfric will know he has been bypassed; response time unknown but the gap is narrowing
+- **The warg scout pack** — position unconfirmed; likely east of the column's current line; whether they track the bypass route is the open question
+- **Golasgil's loyalty** — quiet; the passage through the high ground gave him no obvious means of signalling; Halbarad's silence continues
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them since the Greyflood crossing; the high pass seems to have put distance between him and whatever he sensed
+- **The Nazgul's Hunt** — dormant; last confirmed west of the Misty Mountains; no sign in the high pass
+- **The Survey-Disc's Second Proof** — Elladan's remark stands; its meaning for the King of the Dead encounter remains ahead
+
+**Upcoming:** Q-023 (descent patrol, today), Q-024 (threshold speed patrol to Wold transition, July 30), Q-025 (first base patrol in the Wold, July 31). The Rohirric boundary draws closer.
+
+---
+
+*Last updated: July 29, 2026*
+*Next planned update: July 30, 2026*
