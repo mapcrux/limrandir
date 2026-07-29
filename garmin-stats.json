@@ -1,57 +1,13 @@
 {
-  "activities": [
-    {
-      "activityName": "Epic trail run in the White mountains. jackson to Washington. heavy rain",
-      "activityTrainingLoad": 151.95632934570312,
-      "activityType": "trail_running",
-      "aerobicTrainingEffect": 3.9000000953674316,
-      "aerobicTrainingEffectMessage": "IMPROVING_AEROBIC_ENDURANCE_9",
-      "anaerobicTrainingEffect": 0.10000000149011612,
-      "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
-      "averageHR": 120.0,
-      "averageRunningCadenceInStepsPerMinute": 69.125,
-      "averageSpeed": 0.9070000052452087,
-      "avgPower": 83.0,
-      "beginTimestamp": 1785141419000,
-      "calories": 3810.0,
-      "distance": 31692.1796875,
-      "duration": 34942.06640625,
-      "elapsedDuration": 37135.44921875,
-      "elevationGain": 2067.0,
-      "elevationLoss": 2056.0,
-      "hrTimeInZone_1": 15098.79,
-      "hrTimeInZone_2": 6141.653,
-      "hrTimeInZone_3": 95.0,
-      "hrTimeInZone_4": 0.0,
-      "hrTimeInZone_5": 0.0,
-      "locationName": "Carroll",
-      "maxHR": 160.0,
-      "maxPower": 537.0,
-      "maxSpeed": 3.4619998931884766,
-      "moderateIntensityMinutes": 262,
-      "movingDuration": 26842.0,
-      "powerTimeInZone_1": 1016.8,
-      "powerTimeInZone_2": 211.001,
-      "powerTimeInZone_3": 84.003,
-      "powerTimeInZone_4": 26.997,
-      "powerTimeInZone_5": 11.0,
-      "pr": false,
-      "startTimeLocal": "2026-07-27 04:36:59",
-      "steps": 50862,
-      "trainingEffectLabel": "AEROBIC_BASE",
-      "vO2MaxValue": 55.0,
-      "vigorousIntensityMinutes": 146,
-      "waterEstimated": 2888.0
-    }
-  ],
-  "endurance_score": 7139,
+  "activities": [],
+  "endurance_score": 7127,
   "errors": {},
   "fitnessage_data": {
     "achievableFitnessAge": 32.587329130811334,
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-28T09:55:44.197791+00:00",
+  "generated_at": "2026-07-29T09:56:11.946612+00:00",
   "hill_score": {
     "enduranceScore": 36,
     "overallScore": 55,
@@ -65,7 +21,7 @@
     "speed": 0.39722111000000004,
     "weight": 73.028
   },
-  "report_date": "2026-07-28",
+  "report_date": "2026-07-29",
   "running_tolerance": {
     "calendarDate": "2026-07-28",
     "endOfWeek": "2026-07-28",
@@ -75,6 +31,22 @@
     "totalImpactLoad": 30840
   },
   "status": "success",
-  "vo2max": 55.4,
-  "workouts": []
+  "vo2max": 0,
+  "workouts": [
+    {
+      "date": "2026-07-29",
+      "sportTypeKey": "running",
+      "title": "Base"
+    },
+    {
+      "date": "2026-07-30",
+      "sportTypeKey": "running",
+      "title": "Threshold"
+    },
+    {
+      "date": "2026-07-31",
+      "sportTypeKey": "running",
+      "title": "Base"
+    }
+  ]
 }
