@@ -183,7 +183,7 @@ def main() -> int:
         report_errors["activities"] = f"{type(exc).__name__}: {exc}"
     
     try:
-        endurance_score_raw =  client.get_endurance_score(start_date_str,)
+        endurance_score_raw =  client.get_endurance_score(report_date_str,)
         endurance_score = int(endurance_score_raw.get("overallScore") or 0)
     except Exception as exc:
         report_errors["endurance_score"] = f"{type(exc).__name__}: {exc}"
