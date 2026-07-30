@@ -598,7 +598,25 @@ A quiet day of movement. The column threaded the southern face of the Gondorian 
 
 **Upcoming:** Q-023 (descent patrol, today), Q-024 (threshold speed patrol to Wold transition, July 30), Q-025 (first base patrol in the Wold, July 31). The Rohirric boundary draws closer.
 
+### July 30, 2026 — The Wold in Reach; Q-024 Opens
+
+Q-023 is resolved. The descent patrol ran clean yesterday as part of the column's march day — the southern face of the Gondorian high pass cleared, the eastern spur empty of warg-rider sign, the footing on the lower transition sections confirmed sound for horses. The column emerged from the White Mountain outriders before mid-afternoon and now stands at the scarp-foot where Dunland's broken ridge-country gives way to the first long grass of the Wold. Rohan's eastern fringe lies ahead.
+
+Today Q-024 opens — a threshold-pace patrol to the old Gondorian survey boundary, where Limrandir must determine whether Rohirric outriders are ranging north of the transition line before the column arrives at it. The atlas's useful detail ends precisely at that boundary; intelligence from here must come from Limrandir's eyes rather than the vellum. Halbarad has been increasingly watchful of Golasgil as the open Wold draws near. The mountain pass offered confined corridors and limited opportunities for signalling; the Wold offers neither of those constraints. The deliberate silence between commander and Ranger has held since the Greyflood crossing. It will not hold much longer.
+
+**Attribute Note:** All attributes stable from July 29: Endurance 7127 (Ranger-Scout tier, 3/10 blocks toward Far-Ranger at 7200), Strength 55 (Watcher of the Weather Hills, 0/10 blocks toward Guardian of Angmar's Marches at 60), Will 401 (Vigor of Annúminas, 1/10 blocks toward Resolve of Rivendell at 410), Constitution 42.5 km (Warden of the North Downs, 8/10 blocks toward Explorer of Old Fornost at 43 km), Spirit 55.0 (Roar of Rauros, 0/10 blocks via hill_score.vo2Max fallback — raw vo2max field returned zero). Perceived Age stable at 31.2. Garmin status field failed; no activities recorded; all values retained from previous valid readings. No new titles.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — still holds the occupied ridge; has now had sufficient time to note that the column never appeared on the southern road below; his response is overdue, and the open Wold gives it room to move fast
+- **The warg scout pack** — position unconfirmed since the high-pass bypass; if they tracked the survey-path's exit point, they may already be ranging ahead of the column in the Wold
+- **Golasgil's loyalty** — Halbarad's deliberate silence has held through the entire mountain crossing; the open ground removes the cover that confined corridors provided; the thread is tightening toward a resolution that cannot be indefinitely deferred
+- **The Shapes in the Barrow Downs** — distance growing; Elladan has not spoken of them since the Greyflood crossing; the high pass seems to have shifted his attention elsewhere
+- **The Nazgul's Hunt** — dormant; no sign in the high pass; last confirmed west of the Misty Mountains
+- **The Survey-Disc's Second Proof** — Elladan's remark stands; its bearing on the King of the Dead encounter remains the unread annotation in the atlas's deeper margins
+
+**Upcoming:** Q-024 (threshold patrol to Wold transition, today), Q-025 (base outrider patrol in the Wold, July 31), Q-026 (eastern flank watch, August 1), Q-027 (southern line patrol, August 2). Éorwyn's introduction draws near on the campaign horizon — the outrider ground the coming patrols will scout is where her presence will first be felt.
+
 ---
 
-*Last updated: July 29, 2026*
-*Next planned update: July 30, 2026*
+*Last updated: July 30, 2026*
+*Next planned update: July 31, 2026*

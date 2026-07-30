@@ -386,13 +386,19 @@ No Dunlending or warg presence on the high ground. No sign that Wulfric's force 
 ## Open Quests
 
 ### Q-023 · The Descent Patrol: Southern Face of the High Pass
-**Date:** July 29, 2026 · **Type:** Base Run · **Status:** 🟡 Open
+**Date:** July 29, 2026 · **Type:** Base Run · **Status:** ✅ Completed
 
 The column is through the high ridges, but the southern face extends into uncertain ground — long descending spurs that transition from Gondorian-era survey-path to older, rougher terrain that the atlas marks only in rough strokes. Halbarad needs the full descent reconnoitred before the horses commit to the final approach: the gradient on the lower sections may have worsened since the hill-wardens last measured it, and the eastern spur that branches off toward Wulfric's position must be checked for warg-rider presence. Limrandir is tasked with a base-effort patrol of the full southern descent — not a survey sprint but a steady, watchful run — returning with a complete assessment of footing, sight-lines, and any sign that Wulfric's force is ranging north of its expected position.
 
 **Consequence if skipped:** The column descends blind into the lower transition ground. If warg-riders have repositioned along the eastern spur, the horses will walk into a flanking ambush on the descent's most confined section, where the trail narrows between two old rock-falls and there is no room to manoeuvre. Halbarad knows this ground is not yet clear.
 
 *Workout: Base · Running · July 29, 2026*
+
+The column's horses were already picking their way onto the first descent switchback when Limrandir ran ahead into the lower spurs. The work was measured and thorough: the gradient on the lower sections was sound — the old Gondorian cut-stone foundations, half-buried under loose shale, had held through decades of frost and no more than two sections demanded that the horses pick careful steps rather than walk freely. The eastern spur that branches toward Wulfric's position was the critical question. He ran two leagues out along it, enough to clear the first commanding overlook, and found nothing. No tack-sign. No disturbed ground at the ridge-back. No cold ash where an outrider patrol would shelter from the mountain wind. Wulfric's force was fixed on the ridge it had occupied — watching the empty southern road below it, unaware that the Company had already threaded the high ground above and behind his entire position.
+
+He returned to the column before the midday halt. Halbarad received the report from the saddle without breaking stride — no pause in the column's movement, no drawn-out assessment — and that wordless acceptance was the best news of the morning. The descent continued. By mid-afternoon the pass was behind them and the scarp-foot opened ahead: the first long grass of the Wold visible at the base of the southern spurs, pale in the afternoon light, stretching flat and wide into Rohirric country. Elrohir, riding near the front, glanced south and said quietly to no one in particular: "A different kind of open." He was right. The mountain walls that had contained them for three days were gone. The Wold held nothing back.
+
+*Training Evidence: March-day patrol — no formal garmin activity recorded. Scout effort integrated with column movement, southern descent and eastern spur assessment, July 29, 2026.*
 
 ---
 
@@ -418,5 +424,27 @@ The column has crossed the transition line and entered the northern Wold. This i
 
 ---
 
+### Q-026 · The Eastern Flank Watch: Mapping the Wold's Outrider Tracks
+**Date:** August 1, 2026 · **Type:** Base Run · **Status:** 🟡 Open
+
+The Wold opens wide and dangerous in its openness — Rohan is not Dunland, and the threats here are not warg-riders threading mountain bottlenecks but Rohirric outriders on long-legged horses who can cover in minutes the ground that costs Limrandir leagues. The column is now visible from any elevated position to the east, and the Company carries no herald, no invitation, and thirty drawn cloaks that read as northern and armed to any rider who sees them without context. Limrandir must run the eastern flank of the march line — three to four leagues out — to map the terrain, identify any Rohirric watch-posts or mounted patrols before they identify the column, and determine whether any outrider has already fixed the Company's position and bearing. If he finds a Rohirric rider, the goal is to be seen first, alone, running — a scout presenting himself openly as a scout — before thirty armed strangers present themselves as a column. The atlas's useful detail ends at the Gondorian survey boundary; the intelligence from here must come from Limrandir's eyes alone.
+
+**Consequence if skipped:** The column advances through the eastern Wold without advance intelligence on outrider activity. Rohirric riders observing thirty armed Rangers marching south from Dunland without prior contact would read the movement as a possible incursion and would not inquire before acting. A confrontation at range — arrows before words — is the most likely outcome, and the Grey Company cannot afford an engagement with potential allies in the last miles before the Gap.
+
+*Workout: Base · Running · August 1, 2026*
+
+---
+
+### Q-027 · The Southern Line: Reading the Ground Ahead of the Column
+**Date:** August 2, 2026 · **Type:** Base Run · **Status:** 🟡 Open
+
+Two days in the northern Wold, and the column needs the ground ahead mapped before it commits further south. Halbarad's sight-lines from horseback reach the horizon but no further; Limrandir must run south to the first terrain feature marked on the atlas's thinning Rohirric margin — a low ridge where the Wold's open grass meets the first drainage influence of the Isen's headwaters. Beyond that ridge the atlas holds nothing useful: Gondorian cartography did not extend into Rohan's interior with the precision of the hill-passes, and whatever moves in the country south of the ridge is known only to the people who ride it. This is base-effort reconnaissance: steady, unhurried, reading the ground for track-sign and outrider presence, and watching for any indication that Wulfric's warg-riders have trailed the bypass route south into the Wold ahead of the column. Éorwyn's people would not ride the northern fringe unobserved. If she — or someone like her — is ranging this far north, this patrol will find the sign.
+
+**Consequence if skipped:** The column's southern approach goes unmapped. If warg-riders have followed the bypass and repositioned into the Wold ahead of the Company, Halbarad will learn of it from the riders themselves rather than from a field chart placed quietly on his saddlepack. The intelligence advantage that has kept the Company alive through the Dunland hills will be surrendered on the most open ground of the campaign.
+
+*Workout: Base · Running · August 2, 2026*
+
+---
+
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 18 · Missed: 4 · Open: 3 (Q-023, Q-024, Q-025)*
+*Completed Quests: 19 · Missed: 4 · Open: 4 (Q-024, Q-025, Q-026, Q-027)*
