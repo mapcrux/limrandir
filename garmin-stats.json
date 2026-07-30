@@ -1,13 +1,13 @@
 {
   "activities": [],
-  "endurance_score": 7127,
+  "endurance_score": 0,
   "errors": {},
   "fitnessage_data": {
     "achievableFitnessAge": 32.587329130811334,
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-29T09:56:11.946612+00:00",
+  "generated_at": "2026-07-30T09:53:06.475147+00:00",
   "hill_score": {
     "enduranceScore": 36,
     "overallScore": 55,
@@ -21,23 +21,18 @@
     "speed": 0.39722111000000004,
     "weight": 73.028
   },
-  "report_date": "2026-07-29",
+  "report_date": "2026-07-30",
   "running_tolerance": {
-    "calendarDate": "2026-07-28",
-    "endOfWeek": "2026-07-28",
+    "calendarDate": "2026-07-30",
+    "endOfWeek": "2026-07-30",
     "startOfWeek": "2026-07-26",
     "tolerance": 42536,
     "totalDistance": 31692.0,
     "totalImpactLoad": 30840
   },
-  "status": "success",
+  "status": "failed",
   "vo2max": 0,
   "workouts": [
-    {
-      "date": "2026-07-29",
-      "sportTypeKey": "running",
-      "title": "Base"
-    },
     {
       "date": "2026-07-30",
       "sportTypeKey": "running",
@@ -45,6 +40,16 @@
     },
     {
       "date": "2026-07-31",
+      "sportTypeKey": "running",
+      "title": "Base"
+    },
+    {
+      "date": "2026-08-01",
+      "sportTypeKey": "running",
+      "title": "Base"
+    },
+    {
+      "date": "2026-08-02",
       "sportTypeKey": "running",
       "title": "Base"
     }
