@@ -1,5 +1,49 @@
 {
-  "activities": [],
+  "activities": [
+    {
+      "activityName": "Glastonbury Running",
+      "activityTrainingLoad": 48.225067138671875,
+      "activityType": "running",
+      "aerobicTrainingEffect": 2.5,
+      "aerobicTrainingEffectMessage": "MAINTAINING_TEMPO_21",
+      "anaerobicTrainingEffect": 0.20000000298023224,
+      "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+      "averageHR": 148.0,
+      "averageRunningCadenceInStepsPerMinute": 155.0625,
+      "averageSpeed": 4.064000129699707,
+      "avgPower": 418.0,
+      "beginTimestamp": 1785454621000,
+      "calories": 129.0,
+      "distance": 2207.389892578125,
+      "duration": 543.1279907226562,
+      "elapsedDuration": 649.1010131835938,
+      "elevationGain": 15.0,
+      "elevationLoss": 16.0,
+      "hrTimeInZone_1": 69.748,
+      "hrTimeInZone_2": 268.723,
+      "hrTimeInZone_3": 125.448,
+      "hrTimeInZone_4": 51.711,
+      "hrTimeInZone_5": 0.0,
+      "locationName": "Glastonbury",
+      "maxHR": 173.0,
+      "maxPower": 529.0,
+      "maxSpeed": 4.646999835968018,
+      "moderateIntensityMinutes": 2,
+      "movingDuration": 540.6989974975586,
+      "powerTimeInZone_1": 4.93,
+      "powerTimeInZone_2": 41.075,
+      "powerTimeInZone_3": 122.052,
+      "powerTimeInZone_4": 266.573,
+      "powerTimeInZone_5": 99.953,
+      "pr": false,
+      "startTimeLocal": "2026-07-30 19:37:01",
+      "steps": 1378,
+      "trainingEffectLabel": "TEMPO",
+      "vO2MaxValue": 56.0,
+      "vigorousIntensityMinutes": 7,
+      "waterEstimated": 150.0
+    }
+  ],
   "endurance_score": 0,
   "errors": {},
   "fitnessage_data": {
@@ -7,37 +51,32 @@
     "chronologicalAge": 38,
     "fitnessAge": 31.2200287775779
   },
-  "generated_at": "2026-07-30T09:53:06.475147+00:00",
+  "generated_at": "2026-07-31T09:57:35.224058+00:00",
   "hill_score": {
     "enduranceScore": 36,
     "overallScore": 55,
     "strengthScore": 43,
-    "vo2Max": 55.0,
-    "vo2MaxPreciseValue": 55.4
+    "vo2Max": 56.0,
+    "vo2MaxPreciseValue": 55.7
   },
   "lactate_threshold": {
-    "heart_rate": 173,
-    "power": 401,
-    "speed": 0.39722111000000004,
+    "heart_rate": 171,
+    "power": 399,
+    "speed": 0.39444334000000003,
     "weight": 73.028
   },
-  "report_date": "2026-07-30",
+  "report_date": "2026-07-31",
   "running_tolerance": {
-    "calendarDate": "2026-07-30",
-    "endOfWeek": "2026-07-30",
+    "calendarDate": "2026-07-31",
+    "endOfWeek": "2026-07-31",
     "startOfWeek": "2026-07-26",
     "tolerance": 42536,
-    "totalDistance": 31692.0,
-    "totalImpactLoad": 30840
+    "totalDistance": 33899.0,
+    "totalImpactLoad": 34490
   },
   "status": "failed",
-  "vo2max": 0,
+  "vo2max": 55.7,
   "workouts": [
-    {
-      "date": "2026-07-30",
-      "sportTypeKey": "running",
-      "title": "Threshold"
-    },
     {
       "date": "2026-07-31",
       "sportTypeKey": "running",
@@ -46,12 +85,17 @@
     {
       "date": "2026-08-01",
       "sportTypeKey": "running",
-      "title": "Base"
+      "title": "Long Run"
     },
     {
       "date": "2026-08-02",
       "sportTypeKey": "running",
       "title": "Base"
+    },
+    {
+      "date": "2026-08-03",
+      "sportTypeKey": "running",
+      "title": "Threshold"
     }
   ]
 }
