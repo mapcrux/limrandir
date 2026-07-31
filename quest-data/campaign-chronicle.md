@@ -620,3 +620,38 @@ Today Q-024 opens — a threshold-pace patrol to the old Gondorian survey bounda
 
 *Last updated: July 30, 2026*
 *Next planned update: July 31, 2026*
+
+---
+
+### July 31, 2026 — The Wold at First Light; Will Ebbs; Q-025 Opens
+
+Q-024 is resolved. Limrandir ran the Gondorian transition line at threshold pace in the last light of July 30 — a short, fast patrol that confirmed what Halbarad most needed to know: the northern Wold is clear. The survey boundary stone is exactly where the atlas placed it. No Rohirric outrider tracks fresher than three days; no warg-sign; no indication that Wulfric's force has moved into the grass ahead of the column. He came back breathing hard, notes brief, and Halbarad received the intelligence without comment — which is how Halbarad receives good news.
+
+The column crossed the transition line before midday today and entered the northern Wold. The grass is long and dry; the sky is wide; the sight-lines run for leagues in every direction, and every pair of eyes in the Company noticed simultaneously that they are no longer hidden by anything. The confined corridors of Dunland and the high-pass ridgelines are behind them. Halbarad set a steady pace south and said nothing about Golasgil, who rode in the column's middle third with his customary silence. The silence between them has the quality of a drawn bowstring.
+
+**Attribute Note (July 31):** Will (Nîdh) has dipped to 399 — one point below the Vigor of Annúminas threshold of 400. The title retreats to Strength of the Blue Mountains (threshold 380), with the progress bar showing 10/10 blocks — a single watt from reclaiming what was held. A day's fatigue, a measurement's fluctuation; the Vigor will return. Spirit recovered to 55.7 via the raw vo2max field (up from fallback 55.0), returning 4/10 blocks toward the Breath of the West Wind. All other attributes stable: Endurance 7127 (Ranger-Scout, 3/10), Strength 55 (Watcher of the Weather Hills, 0/10), Constitution 42.5 km (Warden of the North Downs, 8/10). Perceived Age stable at 31.2.
+
+**Major Outcomes:**
+- Q-024 resolved: Wold transition line confirmed clear; the column crossed unopposed
+- Q-025 opens: first wide base patrol of the Wold's outrider ground, beginning today
+- Q-028 added: August 3 threshold push — the column will need faster-range reconnaissance as the Isen approach draws near
+- Will dipped below Vigor of Annúminas threshold; title reverted to Strength of the Blue Mountains; one watt from recovery
+
+**Character note — Halbarad:** He rode at the front of the column through the transition, and as the last ridge of the White Mountain outriders dropped behind the horizon, he allowed himself to look south for a long moment. Then he turned back to the march and asked Limrandir, quietly, how far east a Rohirric outrider could range from the nearest muster-point before meeting resistance. He is mapping the column's exposure now that the mountain-cover is gone.
+
+**Character note — Golasgil:** Limrandir noted him again today — watching the eastern horizon with a frequency that does not match the discipline of a ranger at ease. Whether he is watching for Wulfric's response, or waiting to be watched, cannot yet be determined. Halbarad has not acknowledged it.
+
+**Unresolved Threads:**
+- **Wulfric's blocking force** — has had sufficient time to identify the bypass and begin repositioning; the open Wold gives his force the speed to close ground that the mountain corridors denied
+- **The warg scout pack** — may now be ranging ahead of the column in the grass; the absence of sign is not absence of presence
+- **Golasgil's loyalty** — eastern-horizon watching noted; Halbarad's silence holds but his questions have shifted from terrain to threat-geometry
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them
+- **The Nazgul's Hunt** — dormant; no sign
+- **The Survey-Disc's Second Proof** — stands unresolved; Erech draws nearer with every league south
+
+**Upcoming:** Q-025 (base outrider patrol, today), Q-026 (eastern flank watch, August 1), Q-027 (southern line patrol, August 2), Q-028 (threshold push, August 3). Éorwyn's presence is close — the outrider ground these patrols will cross is where she ranges.
+
+---
+
+*Last updated: July 31, 2026*
+*Next planned update: August 1, 2026*

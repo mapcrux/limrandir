@@ -403,13 +403,19 @@ He returned to the column before the midday halt. Halbarad received the report f
 ---
 
 ### Q-024 · The First Touch of the Wold: Speed Patrol to the Transition Line
-**Date:** July 30, 2026 · **Type:** Threshold Run · **Status:** 🟡 Open
+**Date:** July 30, 2026 · **Type:** Threshold Run · **Status:** ✅ Completed
 
 The southern face of the White Mountain outriders ends at a long scarp-foot that the atlas marks as the old boundary between Gondorian survey-ground and the open grassland of the Wold — the eastern fringe of Rohan. Halbarad needs to know what lies at that transition before the column reaches it: whether Rohirric outriders are ranging this far north, whether the ground is open or broken, and whether the smell of Dunland — warg-riders, lingering patrols, Saruman's reach — has bled south into the Wold. This is not a base patrol. The column is one day behind Limrandir's position and moving; the report must come back at pace. He is to run the transition line at threshold effort — fast enough to cover the ground before the column arrives, composed enough to bring back accurate intelligence rather than breathless impressions.
 
 **Consequence if skipped:** The column meets the Rohirric boundary blind, in terrain that Halbarad has not assessed, at the moment when mistrust of northern strangers is highest. Rohirric outriders who encounter thirty armed Rangers moving south from Dunland with no warning and no guide will not ask questions before they ride.
 
 *Workout: Threshold · Running · July 30, 2026*
+
+Limrandir ran the transition line at threshold pace in the fading light of evening, the air still carrying the last warmth of the outriders' broken ridgeline. He covered the patrol ground fast — the Gondorian boundary mark is a low weathered stone embedded in the grass-root, invisible from horseback but exactly where the atlas said it would be, stamped with the same surveyor's numbering system as the high-pass disc. The ground beyond it is wide and open: long sight-lines to the south and east, not a hoofprint or warg-track fresher than three days. The Rohirric outrider presence he was sent to look for has not yet pushed this far north. The column's path to the transition line is clear.
+
+He came back breathing hard but moving clean, his field notes brief because the news was good — no contact, no movement, no reason for alarm. Halbarad read the notes twice, then folded them and said nothing, which is how he acknowledges the news he was hoping for. The column will reach the transition stone before midday tomorrow. The Wold opens ahead.
+
+*Training Evidence: 2.2 km · 9 min 3 s · 15 m elevation gain · Aerobic effect 2.5 (Maintaining Tempo) · July 30, 2026, Glastonbury*
 
 ---
 
@@ -446,5 +452,16 @@ Two days in the northern Wold, and the column needs the ground ahead mapped befo
 
 ---
 
+### Q-028 · The Threshold Push: Testing the Ground at Speed
+**Date:** August 3, 2026 · **Type:** Threshold Run · **Status:** 🟡 Open
+
+Three days of base patrols have mapped the northern Wold with care — but the column is no longer moving cautiously, and the intelligence it now needs is further south, gathered faster than a base patrol can reach it. Halbarad puts Limrandir on threshold pace: run the next day's march-ground at speed, push beyond the base-patrol radius, and return with a clear picture of what the column will meet before it meets it. The Isen's headwater drainage draws closer; the open grass thins into rougher ground; and whatever track-sign the warg-riders have laid in the southern Wold will be easier to read at distance than in the middle of the column's flanks. This is not a sprint — it is a sustained threshold push, long enough to cover meaningful ground and hard enough to sharpen the reading of it.
+
+**Consequence if skipped:** The column's final advance before the Isen crossing is made blind at marching pace, with no advance knowledge of ground conditions, outrider activity, or warg positioning in the rough approach country. The tactical advantage of having a scout ahead of the column will be lost at the moment it is most needed.
+
+*Workout: Threshold · Running · August 3, 2026*
+
+---
+
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 19 · Missed: 4 · Open: 4 (Q-024, Q-025, Q-026, Q-027)*
+*Completed Quests: 20 · Missed: 4 · Open: 4 (Q-025, Q-026, Q-027, Q-028)*
