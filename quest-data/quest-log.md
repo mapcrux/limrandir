@@ -437,24 +437,13 @@ The column has crossed the transition line and entered the northern Wold. This i
 ---
 
 ### Q-026 · The Eastern Flank Watch: Long Run to the Wold's Far Margin
-**Date:** August 1, 2026 · **Type:** Long Run · **Status:** 🟡 Open
+**Date:** August 2, 2026 · **Type:** Long Run · **Status:** 🟡 Open
 
 Yesterday a lone Rohirric rider watched Limrandir from a distant ridge and chose silence over challenge. Today Halbarad asks for more: a long run east and south across the full extent of the Wold's open flank — a day's effort at base pace but covering the range that a mounted patrol would cover in a morning. The goal is threefold: map the terrain at the atlas's eastern limit, locate the watch-post or muster-ground that Rohirric outriders would use if they were holding the eastern approach to the Wold, and determine whether the rider seen yesterday is a lone scout or the forward element of a larger presence. The atlas thins at this margin; the intelligence must come from Limrandir's feet and eyes. If the grey-cloaked runner is seen again by the same rider, the intent is to be seen clearly enough to invite contact rather than alarm.
 
 **Consequence if skipped:** The column's eastern flank remains unmapped beyond the three-league mark. The rider seen yesterday has no context for the thirty armed Rangers marching south. Uncontrolled first contact with Rohirric outriders — who would read a column of grey-cloaked armed strangers as a threat — is the most probable outcome of leaving this ground unwatched.
 
-*Workout: Long Run · Running · August 1, 2026*
-
----
-
-### Q-027 · The Southern Line: Reading the Ground Ahead of the Column
-**Date:** August 2, 2026 · **Type:** Base Run · **Status:** 🟡 Open
-
-Two days in the northern Wold, and the column needs the ground ahead mapped before it commits further south. Halbarad's sight-lines from horseback reach the horizon but no further; Limrandir must run south to the first terrain feature marked on the atlas's thinning Rohirric margin — a low ridge where the Wold's open grass meets the first drainage influence of the Isen's headwaters. Beyond that ridge the atlas holds nothing useful: Gondorian cartography did not extend into Rohan's interior with the precision of the hill-passes, and whatever moves in the country south of the ridge is known only to the people who ride it. This is base-effort reconnaissance: steady, unhurried, reading the ground for track-sign and outrider presence, and watching for any indication that Wulfric's warg-riders have trailed the bypass route south into the Wold ahead of the column. Éorwyn's people would not ride the northern fringe unobserved. If she — or someone like her — is ranging this far north, this patrol will find the sign.
-
-**Consequence if skipped:** The column's southern approach goes unmapped. If warg-riders have followed the bypass and repositioned into the Wold ahead of the Company, Halbarad will learn of it from the riders themselves rather than from a field chart placed quietly on his saddlepack. The intelligence advantage that has kept the Company alive through the Dunland hills will be surrendered on the most open ground of the campaign.
-
-*Workout: Base · Running · August 2, 2026*
+*Workout: Long Run · Running · August 2, 2026*
 
 ---
 
