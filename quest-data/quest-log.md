@@ -428,16 +428,22 @@ The column has crossed the transition line and entered the northern Wold. This i
 
 *Workout: Base · Running · July 31, 2026*
 
+**Outcome:** The outrider ground east of the column's march line proved empty of Rohirric riders — but not of eyes. Limrandir ran seven kilometres at threshold pace through the long grass, scanning the horizon at every crest. He found no warg-sign fresher than two days and no Rohirric track east of the third-league mark. What he found instead was a figure on a low ridge to the southeast: a rider, motionless, watching him run. She did not reach for a bow. She watched him cover the ground, noted his grey cloak and his pace, and then turned her horse and disappeared south over the ridge-line before he could come close enough to mark her horse's brand. She had been out alone — no escort, no pack-animal, no patrol formation. She rides like someone who knows this ground, and she chose to let a lone runner pass rather than challenge him. Limrandir filed a brief note on the sighting in the atlas margin and said nothing to the column until he was certain what he had seen.
+
+*Training Evidence: 7.0 km · 33 min 55 s · 54 m elevation gain · Aerobic Effect 3.7 (Tempo) · July 31, 2026, Glastonbury*
+
+**Reward:** *Éorwyn's First Sighting* — Limrandir has been noted by a lone Rohirric rider of unknown affiliation. A new relationship is opened. Added to character chronicle.
+
 ---
 
-### Q-026 · The Eastern Flank Watch: Mapping the Wold's Outrider Tracks
-**Date:** August 1, 2026 · **Type:** Base Run · **Status:** 🟡 Open
+### Q-026 · The Eastern Flank Watch: Long Run to the Wold's Far Margin
+**Date:** August 1, 2026 · **Type:** Long Run · **Status:** 🟡 Open
 
-The Wold opens wide and dangerous in its openness — Rohan is not Dunland, and the threats here are not warg-riders threading mountain bottlenecks but Rohirric outriders on long-legged horses who can cover in minutes the ground that costs Limrandir leagues. The column is now visible from any elevated position to the east, and the Company carries no herald, no invitation, and thirty drawn cloaks that read as northern and armed to any rider who sees them without context. Limrandir must run the eastern flank of the march line — three to four leagues out — to map the terrain, identify any Rohirric watch-posts or mounted patrols before they identify the column, and determine whether any outrider has already fixed the Company's position and bearing. If he finds a Rohirric rider, the goal is to be seen first, alone, running — a scout presenting himself openly as a scout — before thirty armed strangers present themselves as a column. The atlas's useful detail ends at the Gondorian survey boundary; the intelligence from here must come from Limrandir's eyes alone.
+Yesterday a lone Rohirric rider watched Limrandir from a distant ridge and chose silence over challenge. Today Halbarad asks for more: a long run east and south across the full extent of the Wold's open flank — a day's effort at base pace but covering the range that a mounted patrol would cover in a morning. The goal is threefold: map the terrain at the atlas's eastern limit, locate the watch-post or muster-ground that Rohirric outriders would use if they were holding the eastern approach to the Wold, and determine whether the rider seen yesterday is a lone scout or the forward element of a larger presence. The atlas thins at this margin; the intelligence must come from Limrandir's feet and eyes. If the grey-cloaked runner is seen again by the same rider, the intent is to be seen clearly enough to invite contact rather than alarm.
 
-**Consequence if skipped:** The column advances through the eastern Wold without advance intelligence on outrider activity. Rohirric riders observing thirty armed Rangers marching south from Dunland without prior contact would read the movement as a possible incursion and would not inquire before acting. A confrontation at range — arrows before words — is the most likely outcome, and the Grey Company cannot afford an engagement with potential allies in the last miles before the Gap.
+**Consequence if skipped:** The column's eastern flank remains unmapped beyond the three-league mark. The rider seen yesterday has no context for the thirty armed Rangers marching south. Uncontrolled first contact with Rohirric outriders — who would read a column of grey-cloaked armed strangers as a threat — is the most probable outcome of leaving this ground unwatched.
 
-*Workout: Base · Running · August 1, 2026*
+*Workout: Long Run · Running · August 1, 2026*
 
 ---
 
@@ -463,5 +469,27 @@ Three days of base patrols have mapped the northern Wold with care — but the c
 
 ---
 
+### Q-029 · The Base Return: Recovery Patrol of the Near Ground
+**Date:** August 2, 2026 · **Type:** Base Run · **Status:** 🟡 Open
+
+After the long eastern flank run, Halbarad does not rest Limrandir — he turns him back north. A base-effort recovery patrol of the near ground is the discipline: shorter, slower, methodical, close to the column's line of march, reading the track-sign left by yesterday's run and watching whether any Rohirric presence has moved in the hours since. This is consolidation work — confirming that the ground already covered has not changed behind the scout's back while his attention was ahead.
+
+**Consequence if skipped:** The column's near flanks go unmonitored on the day after the first confirmed Rohirric sighting. If the rider seen two days ago is now shadowing the column at close range, this is when that sign would be found. Ignoring it is a scout's error.
+
+*Workout: Base · Running · August 2, 2026*
+
+---
+
+### Q-030 · The Threshold Advance: Speed Survey of the Southern Approach
+**Date:** August 4, 2026 · **Type:** Threshold Run · **Status:** 🟡 Open
+
+Four days in the Wold and the column must move faster now. Halbarad has all the near ground charted; what he needs is the far picture — the terrain ahead of the next two days' march, gathered at threshold pace before the column commits to it. Limrandir runs south at sustained effort, past the base-patrol radius, into the rougher drainage country where the Wold begins its slow slope toward the Isen headwaters. He carries the atlas's final useful sketch and his own four days of accumulated field notes. The question this run must answer is whether the approach to the Isen crossing is clear, and whether Wulfric's warg-riders have repositioned into the rough country ahead.
+
+**Consequence if skipped:** The column advances blind into the Isen approach at marching pace. The moment when Limrandir's advance intelligence matters most — the final open ground before the Gap — will be the moment it is absent.
+
+*Workout: Threshold · Running · August 4, 2026*
+
+---
+
 *Campaign Phase: Act II — Dunland: Fire and Pursuit (Active)*
-*Completed Quests: 20 · Missed: 4 · Open: 4 (Q-025, Q-026, Q-027, Q-028)*
+*Completed Quests: 21 · Missed: 4 · Open: 5 (Q-026, Q-027, Q-028, Q-029, Q-030)*

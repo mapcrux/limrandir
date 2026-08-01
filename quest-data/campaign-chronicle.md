@@ -653,5 +653,34 @@ The column crossed the transition line before midday today and entered the north
 
 ---
 
-*Last updated: July 31, 2026*
-*Next planned update: August 1, 2026*
+### August 1, 2026 — Éorwyn's First Sighting; The Long Run Opens
+
+Q-025 is resolved. Limrandir ran the Wold's outrider ground on the evening of July 31 — seven kilometres at tempo effort, scanning the eastern horizon. He found the ground clear of warg-sign and Rohirric tracks to the three-league mark. But at the four-league mark, seated still on a low ridge to the southeast, was a lone rider in Rohirric dress. No bow raised. No challenge issued. She watched him run, then turned south and was gone over the ridge. She had been out alone — no escort, no patrol. The encounter lasted perhaps two minutes and neither party spoke. It was not an accident.
+
+Halbarad received the report without changing expression. He asked two questions: how long had she been watching before Limrandir saw her, and was she moving toward or away from the column's line of march when she vanished. Limrandir answered both honestly. Halbarad said nothing further and rode forward.
+
+Today Limrandir runs long — the eastern flank in full, from the three-league mark to the far margin of the Wold's useful scouting range. The intent is to be seen again if she is out there, and to be seen clearly enough that a lone Rohirric rider will carry a picture of a lone grey-cloaked runner back to whoever she reports to, rather than a picture of thirty armed strangers moving south without announcement.
+
+**Attribute Note (August 1):** All attributes stable from July 31. Endurance 7127 (Ranger-Scout, 3/10 toward Far-Ranger at 7200), Strength 55 (Watcher of the Weather Hills, 0/10 toward Guardian of Angmar's Marches at 60), Will 399 (Strength of the Blue Mountains, 10/10 — one watt from Vigor of Annúminas), Constitution 42.5 km (Warden of the North Downs, 8/10 toward Explorer of Old Fornost at 43 km), Spirit 55.7 (Roar of Rauros, 4/10 toward Breath of the West Wind at 57). Perceived Age 31.2. Garmin endurance_score field returned zero again; previous value retained. No new titles.
+
+**New Character Relationship — Éorwyn:** First confirmed sighting. Lone Rohirric rider, not in patrol formation. She chose observation over challenge when presented with a lone running scout. Her affiliation, muster-point, and reporting relationship are unknown. Whether she is connected to the outrider presence Halbarad has been mapping remains an open question. This is the first non-Grey-Company witness to the column's advance through Rohan.
+
+**Major Outcomes:**
+- Q-025 resolved: Wold outrider ground cleared; Éorwyn sighted and not challenged
+- Q-026 upgraded to Long Run: Halbarad extends the eastern flank patrol
+- Q-029 and Q-030 added: base recovery and threshold advance to complete the Wold crossing intelligence picture
+
+**Unresolved Threads:**
+- **Éorwyn's identity and reporting** — who does she tell, and what does she tell them?
+- **Wulfric's blocking force** — bypass confirmed; response overdue; the open Wold gives speed to both sides
+- **The warg scout pack** — two days without sign is not two days without presence; the drainage country south is rougher and closer
+- **Golasgil's loyalty** — eastern-horizon watching continues; Halbarad's questions have shifted to threat geometry; resolution cannot be deferred past the Isen crossing
+- **The Survey-Disc's Second Proof** — Erech draws nearer
+- **The Shapes in the Barrow Downs** — Elladan has not spoken; distance growing
+
+**Upcoming:** Q-026 (long eastern flank run, today), Q-027 (southern line patrol, August 2), Q-029 (base recovery patrol, August 2), Q-028 (threshold push, August 3), Q-030 (threshold advance, August 4).
+
+---
+
+*Last updated: August 1, 2026*
+*Next planned update: August 2, 2026*
