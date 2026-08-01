@@ -32,17 +32,14 @@ None. Q-025 was completed on July 31, 2026.
 
 ## Quests Scheduled For Today (From Quest Log)
 
-### 🟡 Q-026 · The Eastern Flank Watch: Long Run to the Wold's Far Margin
-**Date:** August 1, 2026 · **Type:** Long Run
-
-A long run east and south across the full extent of the Wold's open flank — mapping the terrain, locating any Rohirric watch-posts or muster-grounds, and determining whether the rider seen yesterday is a lone scout or the forward element of a larger presence. The intent is to be seen again, and to be seen clearly enough to invite contact rather than alarm.
+None
 
 ## Upcoming Quests
 
-### 🟡 Q-027 · The Southern Line: Reading the Ground Ahead of the Column
-**Date:** August 2, 2026 · **Type:** Base Run
+### 🟡 Q-026 · The Eastern Flank Watch: Long Run to the Wold's Far Margin
+**Date:** August 2, 2026 · **Type:** Long Run
 
-A southward patrol to the first terrain feature at the atlas's thinning Rohirric margin — reading track-sign and outrider movement, watching for Wulfric's warg-riders in the drainage country ahead of the column.
+A long run east and south across the full extent of the Wold's open flank — mapping the terrain, locating any Rohirric watch-posts or muster-grounds, and determining whether the rider seen yesterday is a lone scout or the forward element of a larger presence. The intent is to be seen again, and to be seen clearly enough to invite contact rather than alarm.
 
 ### 🟡 Q-029 · The Base Return: Recovery Patrol of the Near Ground
 **Date:** August 2, 2026 · **Type:** Base Run
