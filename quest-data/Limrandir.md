@@ -13,6 +13,7 @@ Warden of the trail, Scout of the Dúnedain
 
 
 
+
 | **Race** | Dúnedain. Man of the West |
 | **Class** | Ranger/Scout |
 | **Homeland** | Shores of Lake Evendim |
@@ -25,7 +26,7 @@ Warden of the trail, Scout of the Dúnedain
 | Strength (Tû) | 55 | Watcher of the Weather Hills | `⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕` | 60 |
 | Will (Nîdh) | 399 | Strength of the Blue Mountains | `🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴` | 400 |
 | Constitution (Hûn) | 42.5 | Warden of the North Downs | `🔴🔴🔴🔴🔴🔴🔴🔴⭕⭕` | 43 |
-| Spirit (Sûl) | 55.7 | Roar of Rauros | `🔴🔴🔴🔴⭕⭕⭕⭕⭕⭕` | 57 |
+| Spirit (Sûl) | 56.0 | Roar of Rauros | `🔴🔴🔴🔴🔴⭕⭕⭕⭕⭕` | 57 |
 
 ## 🛡️ Equipment
 

@@ -682,5 +682,34 @@ Today Limrandir runs long — the eastern flank in full, from the three-league m
 
 ---
 
-*Last updated: August 1, 2026*
-*Next planned update: August 2, 2026*
+### August 2, 2026 — The Flanks Unwatched; Rohirric Riders Noted
+
+A rest day in the wrong sense — not the deliberate rest of a commander managing his scout's load, but the passive rest of a day where the urgent was deferred until it was too late. Both August 2 quests — Q-026 (the long eastern flank watch) and Q-029 (the near-ground recovery patrol) — were not undertaken. The column advanced south through the Wold without eyes on the flanks.
+
+The consequence arrived before dusk. Maedhron rode back from the column's left flank and reported three or four riders on the southeastern horizon, pacing the column's direction of travel at distance. They observed for the better part of an hour, then dissolved into the evening light. They were not warg-riders. They were not Dunlendings. The way they moved — disciplined, measured, not closing — suggests Rohirric outriders. Whether they are connected to the lone rider Limrandir noted at Q-025 is unknown. Whether Éorwyn has reported the grey-cloaked runner to her captain is unknown. What is known is that the column is being watched by horsemen it has not spoken to, and the ground between the march line and the southeastern horizon has not been read since the three-league mark two days ago.
+
+Golasgil was noted watching the southeastern horizon with the fixed attention of a man confirming an expectation rather than satisfying a curiosity. Halbarad did not address him. Limrandir filed the observation in his field notes and said nothing to the others.
+
+**Attribute Note (August 2):** All attributes stable. Endurance held at 7127 (previous value retained — garmin endurance_score returned zero, API status: failed). Strength 55 (Watcher of the Weather Hills, 0/10 blocks). Will 399 (Strength of the Blue Mountains, 10/10 blocks — one watt from Vigor of Annúminas). Constitution 42.5 km (Warden of the North Downs, 8/10 blocks). Spirit 56.0 (Roar of Rauros, 5/10 blocks — hill_score.vo2Max fallback; raw vo2max field returned zero). Perceived Age 31.2. No new titles.
+
+**Major Outcomes:**
+- Q-026 missed: eastern flank unmapped beyond three leagues
+- Q-029 missed: near-ground unread after Rohirric contact
+- Rohirric outriders (3–4 riders) observed pacing the column — first multi-rider contact
+- Golasgil's horizon-watching noted and logged
+
+**Unresolved Threads:**
+- **Éorwyn's reporting** — unknown; the riders Maedhron saw may be her captain's response
+- **Wulfric's blocking force** — bypass confirmed days ago; response now overdue; may already be in the drainage country south
+- **The warg scout pack** — unconfirmed since the high pass; may be ranging ahead of the column in the Wold grass
+- **Golasgil's loyalty** — horizon-watching noted; Halbarad's silence holds; resolution approaches
+- **The Survey-Disc's Second Proof** — Erech draws nearer with every league south
+- **The Shapes in the Barrow Downs** — Elladan has not spoken of them; distance growing
+- **The Nazgul's Hunt** — dormant; no sign
+
+**Upcoming:** Q-028 (threshold push, August 3) and Q-031 (anaerobic sprint, August 4) must compensate for today's unmapped flanks. Halbarad needs the drainage country south charted before the column commits to the Isen approach. The window for controlled Rohirric first contact remains open — but it will not remain open long.
+
+---
+
+*Last updated: August 2, 2026*
+*Next planned update: August 3, 2026*
